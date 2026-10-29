@@ -1,0 +1,184 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:15226",
+   "type": "series",
+   "name": "C.I.D.",
+   "poster": "https://image.tmdb.org/t/p/w500/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+   "description": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest, most complicated crimes.",
+   "genres": [],
+   "releaseInfo": "1998"
+  },
+  {
+   "id": "tmdb:4656",
+   "type": "series",
+   "name": "Raw",
+   "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "description": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+   "genres": [],
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tmdb:105248",
+   "type": "series",
+   "name": "Cyberpunk: Edgerunners",
+   "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+   "description": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:96677",
+   "type": "series",
+   "name": "Lupin",
+   "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+   "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:45790",
+   "type": "series",
+   "name": "JoJo's Bizarre Adventure",
+   "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+   "description": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+   "genres": [],
+   "releaseInfo": "2012"
+  },
+  {
+   "id": "tmdb:502",
+   "type": "series",
+   "name": "Sesame Street",
+   "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+   "description": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+   "genres": [],
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tmdb:65701",
+   "type": "series",
+   "name": "Good Mythical Morning",
+   "poster": "https://image.tmdb.org/t/p/w500/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+   "description": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+   "genres": [],
+   "releaseInfo": "2012"
+  },
+  {
+   "id": "tmdb:66732",
+   "type": "series",
+   "name": "Stranger Things",
+   "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+   "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:63174",
+   "type": "series",
+   "name": "Lucifer",
+   "poster": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+   "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:203857",
+   "type": "series",
+   "name": "The Diplomat",
+   "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+   "description": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:68073",
+   "type": "series",
+   "name": "The Loud House",
+   "poster": "https://image.tmdb.org/t/p/w500/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+   "description": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:4194",
+   "type": "series",
+   "name": "Star Wars: The Clone Wars",
+   "poster": "https://image.tmdb.org/t/p/w500/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+   "description": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+   "genres": [],
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tmdb:93405",
+   "type": "series",
+   "name": "Squid Game",
+   "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+   "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:42009",
+   "type": "series",
+   "name": "Black Mirror",
+   "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+   "description": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+   "genres": [],
+   "releaseInfo": "2011"
+  },
+  {
+   "id": "tmdb:65494",
+   "type": "series",
+   "name": "The Crown",
+   "poster": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg",
+   "description": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:61222",
+   "type": "series",
+   "name": "BoJack Horseman",
+   "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+   "description": "Meet the most beloved sitcom horse of the '90s , 20 years later. He's a curmudgeon with a heart of...not quite gold...but something like gold. Copper?",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:1424",
+   "type": "series",
+   "name": "Orange Is the New Black",
+   "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+   "description": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+   "genres": [],
+   "releaseInfo": "2013"
+  },
+  {
+   "id": "tmdb:236235",
+   "type": "series",
+   "name": "The Gentlemen",
+   "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+   "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:81356",
+   "type": "series",
+   "name": "Sex Education",
+   "poster": "https://image.tmdb.org/t/p/w500/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+   "description": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:94605",
+   "type": "series",
+   "name": "Arcane",
+   "poster": "https://image.tmdb.org/t/p/w500/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
+   "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+   "genres": [],
+   "releaseInfo": "2021"
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:289510",
+   "type": "movie",
+   "name": "الفيل الأزرق",
+   "poster": "https://image.tmdb.org/t/p/w500/lPirLy8UKj2V6SyaWC8zXm5xeUS.jpg",
+   "description": "A psychiatrist's grip on reality slips when a new patient claims demonic possession.",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:599672",
+   "type": "movie",
+   "name": "الفيل الأزرق 2",
+   "poster": "https://image.tmdb.org/t/p/w500/o5mG2rs6W4Q1lNUJ3aCn7gAkTlV.jpg",
+   "description": "Dr. Yehia's family is threatened by a prophecy of death within three days.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:632702",
+   "type": "movie",
+   "name": "كيرة والجن",
+   "poster": "https://image.tmdb.org/t/p/w500/4jmKAwiaVRsQCeNAycUryUUfrjS.jpg",
+   "description": "Two unlikely heroes join Egypt's resistance against the British occupation.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:515224",
+   "type": "movie",
+   "name": "تراب الماس",
+   "poster": "https://image.tmdb.org/t/p/w500/kAaszSEwhgERJLdg8Ppm4qSwagn.jpg",
+   "description": "A pharmacist uncovers his father's secret past as a hitman.",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:603404",
+   "type": "movie",
+   "name": "كازابلانكا",
+   "poster": "https://image.tmdb.org/t/p/w500/yOHJYF9chII7UOsf5Lk7GKiXUsn.jpg",
+   "description": "Three friends' heist of a diamond shipment spirals into a deadly chase.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:1084660",
+   "type": "movie",
+   "name": "بيت الروبي",
+   "poster": "https://image.tmdb.org/t/p/w500/rHRWYBrc3xcgjiaserPhpkUUEZe.jpg",
+   "description": "A social media star's family vacation turns into viral chaos.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:1197989",
+   "type": "movie",
+   "name": "الحريفة",
+   "poster": "https://image.tmdb.org/t/p/w500/bdZRCfHUMZm6FNJfudvQg6surNK.jpg",
+   "description": "A street football prodigy fights for a shot at professional glory.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:1232790",
+   "type": "movie",
+   "name": "رحلة 404",
+   "poster": "https://image.tmdb.org/t/p/w500/nRVky0Rhf8cgzwKOcxpHTBhULrB.jpg",
+   "description": "A woman's Hajj journey forces her to confront her criminal past.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:629040",
+   "type": "movie",
+   "name": "ولاد رزق 3: القاضية",
+   "poster": "https://image.tmdb.org/t/p/w500/oYwTsy5sNz3TvIeYBWyDRYnTzdu.jpg",
+   "description": "The Rizk brothers return for one last high-stakes heist.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:775244",
+   "type": "movie",
+   "name": "موسى",
+   "poster": "https://image.tmdb.org/t/p/w500/8MO3nkwF8dbsz7dC5rGZuP3m3RS.jpg",
+   "description": "An engineering student builds a robot that becomes a vigilante.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:961761",
+   "type": "movie",
+   "name": "واحد تاني",
+   "poster": "https://image.tmdb.org/t/p/w500/Ajq4nT460EZFZisSrhl5xQOyaz7.jpg",
+   "description": "A man gets a second chance at life with a shocking twist.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:638796",
+   "type": "movie",
+   "name": "لص بغداد",
+   "poster": "https://image.tmdb.org/t/p/w500/5fIi95LZBATgdMfNkASLBdqodh8.jpg",
+   "description": "A treasure hunt across Iraq turns into a battle of wits.",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:603400",
+   "type": "movie",
+   "name": "الممر",
+   "poster": "https://image.tmdb.org/t/p/w500/o1k1sH3i4idKxucryiS81ziHb8s.jpg",
+   "description": "Egyptian soldiers fight behind enemy lines in the War of Attrition.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:471513",
+   "type": "movie",
+   "name": "الخلية",
+   "poster": "https://image.tmdb.org/t/p/w500/hqVVnReH1UCsMQ2tarQVOvagf8T.jpg",
+   "description": "An officer hunts the terrorist cell behind a deadly church bombing.",
+   "genres": [],
+   "releaseInfo": "2017"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:1416",
+   "type": "series",
+   "name": "Grey's Anatomy",
+   "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+   "description": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+   "genres": [],
+   "releaseInfo": "2005"
+  },
+  {
+   "id": "tmdb:549",
+   "type": "series",
+   "name": "Law & Order",
+   "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+   "description": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+   "genres": [],
+   "releaseInfo": "1990"
+  },
+  {
+   "id": "tmdb:2190",
+   "type": "series",
+   "name": "South Park",
+   "poster": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+   "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+   "genres": [],
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tmdb:22980",
+   "type": "series",
+   "name": "Watch What Happens Live with Andy Cohen",
+   "poster": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+   "description": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+   "genres": [],
+   "releaseInfo": "2009"
+  },
+  {
+   "id": "tmdb:33238",
+   "type": "series",
+   "name": "Running Man",
+   "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
+   "description": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+   "genres": [],
+   "releaseInfo": "2010"
+  },
+  {
+   "id": "tmdb:2734",
+   "type": "series",
+   "name": "Law & Order: Special Victims Unit",
+   "poster": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+   "description": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+   "genres": [],
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tmdb:59941",
+   "type": "series",
+   "name": "The Tonight Show Starring Jimmy Fallon",
+   "poster": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+   "description": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:456",
+   "type": "series",
+   "name": "The Simpsons",
+   "poster": "https://image.tmdb.org/t/p/w500/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
+   "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+   "genres": [],
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tmdb:4614",
+   "type": "series",
+   "name": "NCIS",
+   "poster": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+   "description": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+   "genres": [],
+   "releaseInfo": "2003"
+  },
+  {
+   "id": "tmdb:213375",
+   "type": "series",
+   "name": "VisionQuest",
+   "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+   "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tmdb:61818",
+   "type": "series",
+   "name": "Late Night with Seth Meyers",
+   "poster": "https://image.tmdb.org/t/p/w500/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
+   "description": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:247718",
+   "type": "series",
+   "name": "MobLand",
+   "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "genres": [],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:2224",
+   "type": "series",
+   "name": "The Daily Show",
+   "poster": "https://image.tmdb.org/t/p/w500/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+   "description": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+   "genres": [],
+   "releaseInfo": "1996"
+  },
+  {
+   "id": "tmdb:72879",
+   "type": "series",
+   "name": "Tomorrow Is Ours",
+   "poster": "https://image.tmdb.org/t/p/w500/n6LIjlzlTFbowOik0EghVJUTysA.jpg",
+   "description": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:206559",
+   "type": "series",
+   "name": "Binnelanders",
+   "poster": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+   "description": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+   "genres": [],
+   "releaseInfo": "2005"
+  },
+  {
+   "id": "tmdb:153312",
+   "type": "series",
+   "name": "Tulsa King",
+   "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+   "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:4656",
+   "type": "series",
+   "name": "Raw",
+   "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "description": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+   "genres": [],
+   "releaseInfo": "1993"
+  },
+  {
+   "id": "tmdb:2661",
+   "type": "series",
+   "name": "Kamen Rider",
+   "poster": "https://image.tmdb.org/t/p/w500/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+   "description": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+   "genres": [],
+   "releaseInfo": "1971"
+  },
+  {
+   "id": "tmdb:3034",
+   "type": "series",
+   "name": "Scene of the Crime",
+   "poster": "https://image.tmdb.org/t/p/w500/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
+   "description": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
+   "genres": [],
+   "releaseInfo": "1970"
+  },
+  {
+   "id": "tmdb:112470",
+   "type": "series",
+   "name": "Ici tout commence",
+   "poster": "https://image.tmdb.org/t/p/w500/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+   "description": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+   "genres": [],
+   "releaseInfo": "2020"
+  }
+ ]
+}

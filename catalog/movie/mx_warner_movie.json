@@ -1,0 +1,139 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:671",
+   "type": "movie",
+   "name": "Harry Potter and the Philosopher's Stone",
+   "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+   "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+   "genres": [],
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tmdb:693134",
+   "type": "movie",
+   "name": "Dune: Part Two",
+   "poster": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+   "description": "Paul Atreides unites with the Fremen to wage war against House Harkonnen.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:346698",
+   "type": "movie",
+   "name": "Barbie",
+   "poster": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+   "description": "Barbie leaves Barbieland for the real world to discover what it means to be human.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:414906",
+   "type": "movie",
+   "name": "The Batman",
+   "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+   "description": "Batman uncovers corruption in Gotham while hunting the Riddler.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:475557",
+   "type": "movie",
+   "name": "Joker",
+   "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+   "description": "A failed comedian's descent into madness births Gotham's Clown Prince of Crime.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:572802",
+   "type": "movie",
+   "name": "Aquaman and the Lost Kingdom",
+   "poster": "https://image.tmdb.org/t/p/w500/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+   "description": "Aquaman forges an alliance with Orm to stop Black Manta.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:787699",
+   "type": "movie",
+   "name": "Wonka",
+   "poster": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+   "description": "Young Willy Wonka's chocolate dreams clash with the chocolate cartel.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:823464",
+   "type": "movie",
+   "name": "Godzilla x Kong: The New Empire",
+   "poster": "https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+   "description": "Godzilla and Kong unite against a threat from Hollow Earth.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:968051",
+   "type": "movie",
+   "name": "The Nun II",
+   "poster": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+   "description": "Sister Irene faces the demon Valak again in 1950s France.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:565770",
+   "type": "movie",
+   "name": "Blue Beetle",
+   "poster": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+   "description": "Jaime Reyes bonds with an alien scarab that grants him superpowers.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:614934",
+   "type": "movie",
+   "name": "Elvis",
+   "poster": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+   "description": "The life of Elvis Presley through his tangled relationship with Colonel Parker.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:298618",
+   "type": "movie",
+   "name": "The Flash",
+   "poster": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+   "description": "Barry Allen breaks the multiverse trying to save his mother.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:438631",
+   "type": "movie",
+   "name": "Dune",
+   "poster": "https://image.tmdb.org/t/p/w500/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+   "description": "Paul Atreides journeys to Arrakis as war erupts over the spice.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:436270",
+   "type": "movie",
+   "name": "Black Adam",
+   "poster": "https://image.tmdb.org/t/p/w500/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+   "description": "An ancient antihero unleashed in the modern world clashes with the Justice Society.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:594767",
+   "type": "movie",
+   "name": "Shazam! Fury of the Gods",
+   "poster": "https://image.tmdb.org/t/p/w500/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg",
+   "description": "Billy Batson and his foster siblings battle the Daughters of Atlas.",
+   "genres": [],
+   "releaseInfo": "2023"
+  }
+ ]
+}

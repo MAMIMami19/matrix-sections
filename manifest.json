@@ -1,0 +1,210 @@
+{
+ "id": "matrix.iptv.sections",
+ "version": "1.0.0",
+ "name": "Matrix IPTV Sections",
+ "description": "Brand rows for Matrix IPTV",
+ "resources": [
+  {
+   "name": "catalog",
+   "types": [
+    "movie",
+    "series"
+   ]
+  }
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "mx_netflix_movie",
+   "name": "أعمال Netflix الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_netflix_series",
+   "name": "أعمال Netflix الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_disney_movie",
+   "name": "أعمال Disney+ الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_disney_series",
+   "name": "أعمال Disney+ الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_hbo_movie",
+   "name": "أعمال HBO الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_hbo_series",
+   "name": "أعمال HBO الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_apple_movie",
+   "name": "أعمال Apple TV الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_apple_series",
+   "name": "أعمال Apple TV الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_prime_movie",
+   "name": "أعمال Prime Video الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_prime_series",
+   "name": "أعمال Prime Video الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_hulu_movie",
+   "name": "أعمال Hulu الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_hulu_series",
+   "name": "أعمال Hulu الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_paramount_movie",
+   "name": "أعمال Paramount الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_paramount_series",
+   "name": "أعمال Paramount الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_mbc_movie",
+   "name": "أعمال MBC الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_mbc_series",
+   "name": "أعمال MBC الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_new_movie",
+   "name": "وصل حديثا",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_new_series",
+   "name": "وصل حديثا",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_top10_movie",
+   "name": "Top 10",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_top10_series",
+   "name": "Top 10",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_peacock_movie",
+   "name": "أعمال Peacock الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_peacock_series",
+   "name": "أعمال Peacock الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_yango_movie",
+   "name": "أعمال Yango Play الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_yango_series",
+   "name": "أعمال Yango Play الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_watchit_movie",
+   "name": "أعمال Watch It الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_watchit_series",
+   "name": "أعمال Watch It الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_crunchyroll_series",
+   "name": "أعمال Crunchyroll الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_sony_movie",
+   "name": "أعمال Sony الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_universal_movie",
+   "name": "أعمال Universal الأصلية",
+   "extra": []
+  },
+  {
+   "type": "movie",
+   "id": "mx_warner_movie",
+   "name": "أعمال Warner Bros الأصلية",
+   "extra": []
+  },
+  {
+   "type": "series",
+   "id": "mx_warner_series",
+   "name": "أعمال Warner Bros الأصلية",
+   "extra": []
+  }
+ ],
+ "idPrefixes": [
+  "tmdb"
+ ]
+}

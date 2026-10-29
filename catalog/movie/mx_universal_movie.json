@@ -1,0 +1,130 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:507086",
+   "type": "movie",
+   "name": "Jurassic World Dominion",
+   "poster": "https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+   "description": "Dinosaurs roam free as Owen and Claire fight to protect Maisie.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:385687",
+   "type": "movie",
+   "name": "Fast X",
+   "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+   "description": "Dom's family faces Dante, a vengeful enemy from their past.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:438148",
+   "type": "movie",
+   "name": "Minions: The Rise of Gru",
+   "poster": "https://image.tmdb.org/t/p/w500/4dBDk1LPdvdhcZdjQBmdXwiVKUA.jpg",
+   "description": "Young Gru tries to join the Vicious 6 with his Minions.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:872585",
+   "type": "movie",
+   "name": "Oppenheimer",
+   "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+   "description": "The story of J. Robert Oppenheimer and the creation of the atomic bomb.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:502356",
+   "type": "movie",
+   "name": "The Super Mario Bros. Movie",
+   "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+   "description": "Mario races through the Mushroom Kingdom to save Luigi from Bowser.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:519182",
+   "type": "movie",
+   "name": "Despicable Me 4",
+   "poster": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+   "description": "Gru's family enters witness protection from escaped villain Maxime Le Mal.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:1011985",
+   "type": "movie",
+   "name": "Kung Fu Panda 4",
+   "poster": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+   "description": "Po must name a new Dragon Warrior while facing the shape-shifting Chameleon.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:718821",
+   "type": "movie",
+   "name": "Twisters",
+   "poster": "https://image.tmdb.org/t/p/w500/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+   "description": "Storm chasers face unprecedented tornado outbreaks in Oklahoma.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:507089",
+   "type": "movie",
+   "name": "Five Nights at Freddy's",
+   "poster": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+   "description": "A night guard discovers the animatronics are possessed by murdered children.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:746036",
+   "type": "movie",
+   "name": "The Fall Guy",
+   "poster": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+   "description": "A stuntman hunts a missing movie star to save his ex's directorial debut.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:848538",
+   "type": "movie",
+   "name": "Argylle",
+   "poster": "https://image.tmdb.org/t/p/w500/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+   "description": "A spy novelist is pulled into a real espionage conspiracy mirroring her books.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:402431",
+   "type": "movie",
+   "name": "Wicked",
+   "poster": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+   "description": "The untold story of the witches of Oz before Dorothy arrives.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:536554",
+   "type": "movie",
+   "name": "M3GAN",
+   "poster": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+   "description": "A robotic doll's protective programming turns murderously obsessive.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:804150",
+   "type": "movie",
+   "name": "Cocaine Bear",
+   "poster": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+   "description": "A bear goes on a rampage after ingesting a duffel bag of cocaine.",
+   "genres": [],
+   "releaseInfo": "2023"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:816977",
+   "type": "movie",
+   "name": "They/Them",
+   "poster": "https://image.tmdb.org/t/p/w500/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg",
+   "description": "Campers at a gay conversion camp fight back when a killer stalks the grounds.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:829410",
+   "type": "movie",
+   "name": "Sick",
+   "poster": "https://image.tmdb.org/t/p/w500/bshCGAHZRldAfdxXDX3637PW9cR.jpg",
+   "description": "Two friends isolating during the pandemic are hunted by a masked killer.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:843543",
+   "type": "movie",
+   "name": "Meet Cute",
+   "poster": "https://image.tmdb.org/t/p/w500/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg",
+   "description": "A time-traveling woman keeps reliving the day she met her boyfriend.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:1175351",
+   "type": "movie",
+   "name": "Bosco",
+   "poster": "https://image.tmdb.org/t/p/w500/dXjSeS3w97setnrNv4m6tlqqXzn.jpg",
+   "description": "The true story of Quawntay 'Bosco' Adams' daring 2006 prison escape.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:1002315",
+   "type": "movie",
+   "name": "Please Don't Destroy: The Treasure of Foggy Mountain",
+   "poster": "https://image.tmdb.org/t/p/w500/2WSTjQNamyMoy3kFDemd1os8TNz.jpg",
+   "description": "Three friends hunt legendary treasure in this SNL-trio comedy.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:683340",
+   "type": "movie",
+   "name": "Vengeance",
+   "poster": "https://image.tmdb.org/t/p/w500/n1SlTeEv3dNJB3gF9AHAVElQ6LO.jpg",
+   "description": "A podcaster investigates his hookup's death in small-town Texas.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:1401318",
+   "type": "movie",
+   "name": "Ex-Mas",
+   "poster": "https://image.tmdb.org/t/p/w500/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
+   "description": "Divorcing parents compete to win their kids' favor over Christmas.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:762504",
+   "type": "movie",
+   "name": "Nope",
+   "poster": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+   "description": "Siblings running a horse ranch encounter a UFO in Jordan Peele's sci-fi horror.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:616820",
+   "type": "movie",
+   "name": "Halloween Ends",
+   "poster": "https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+   "description": "Laurie Strode faces Michael Myers one final time in Haddonfield.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:629542",
+   "type": "movie",
+   "name": "The Bad Guys",
+   "poster": "https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+   "description": "A crew of animal criminals attempts to go good in this animated heist comedy.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:315162",
+   "type": "movie",
+   "name": "Puss in Boots: The Last Wish",
+   "poster": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+   "description": "Puss in Boots quests for the mythical Last Wish to restore his nine lives.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:901362",
+   "type": "movie",
+   "name": "Trolls Band Together",
+   "poster": "https://image.tmdb.org/t/p/w500/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg",
+   "description": "Branch reunites his boy band brothers to rescue his brother Floyd.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:807172",
+   "type": "movie",
+   "name": "The Exorcist: Believer",
+   "poster": "https://image.tmdb.org/t/p/w500/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
+   "description": "Two possessed girls force their families to confront pure evil.",
+   "genres": [],
+   "releaseInfo": "2023"
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:1399",
+   "type": "series",
+   "name": "Game of Thrones",
+   "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+   "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+   "genres": [],
+   "releaseInfo": "2011"
+  },
+  {
+   "id": "tmdb:4419",
+   "type": "series",
+   "name": "Real Time with Bill Maher",
+   "poster": "https://image.tmdb.org/t/p/w500/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+   "description": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
+   "genres": [],
+   "releaseInfo": "2003"
+  },
+  {
+   "id": "tmdb:502",
+   "type": "series",
+   "name": "Sesame Street",
+   "poster": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+   "description": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+   "genres": [],
+   "releaseInfo": "1969"
+  },
+  {
+   "id": "tmdb:1398",
+   "type": "series",
+   "name": "The Sopranos",
+   "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+   "description": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+   "genres": [],
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tmdb:94997",
+   "type": "series",
+   "name": "House of the Dragon",
+   "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+   "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:4546",
+   "type": "series",
+   "name": "Curb Your Enthusiasm",
+   "poster": "https://image.tmdb.org/t/p/w500/pjRRB1NCFJzCb0euvpia4rKDov1.jpg",
+   "description": "The off-kilter, unscripted comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
+   "genres": [],
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tmdb:60694",
+   "type": "series",
+   "name": "Last Week Tonight with John Oliver",
+   "poster": "https://image.tmdb.org/t/p/w500/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+   "description": "A half-hour satirical look at the week in news, politics and current events.",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:63247",
+   "type": "series",
+   "name": "Westworld",
+   "poster": "https://image.tmdb.org/t/p/w500/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+   "description": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:1438",
+   "type": "series",
+   "name": "The Wire",
+   "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+   "description": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated.",
+   "genres": [],
+   "releaseInfo": "2002"
+  },
+  {
+   "id": "tmdb:95350",
+   "type": "series",
+   "name": "Lanterns",
+   "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+   "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tmdb:105",
+   "type": "series",
+   "name": "Sex and the City",
+   "poster": "https://image.tmdb.org/t/p/w500/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
+   "description": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene. ",
+   "genres": [],
+   "releaseInfo": "1998"
+  },
+  {
+   "id": "tmdb:85552",
+   "type": "series",
+   "name": "Euphoria",
+   "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+   "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:46648",
+   "type": "series",
+   "name": "True Detective",
+   "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+   "description": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:10545",
+   "type": "series",
+   "name": "True Blood",
+   "poster": "https://image.tmdb.org/t/p/w500/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg",
+   "description": "Thanks to a Japanese scientist's invention of synthetic blood, vampires have progressed overnight from legendary monsters to fellow citizens. And while humans have been safely removed from the menu, many remain apprehensive about these creatures \"coming out of the coffin.\" Religious leaders, government officials, and vampire fundamentalists around the world have chosen their sides.  But in the small Louisiana town of Bon Temps, the jury is still out.",
+   "genres": [],
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tmdb:1940",
+   "type": "series",
+   "name": "Entourage",
+   "poster": "https://image.tmdb.org/t/p/w500/pDueLVvdrR2jSMrQ2pFXI9ff5zB.jpg",
+   "description": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent.",
+   "genres": [],
+   "releaseInfo": "2004"
+  },
+  {
+   "id": "tmdb:100088",
+   "type": "series",
+   "name": "The Last of Us",
+   "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+   "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:111803",
+   "type": "series",
+   "name": "The White Lotus",
+   "poster": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+   "description": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:76331",
+   "type": "series",
+   "name": "Succession",
+   "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+   "description": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:1621",
+   "type": "series",
+   "name": "Boardwalk Empire",
+   "poster": "https://image.tmdb.org/t/p/w500/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg",
+   "description": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster.",
+   "genres": [],
+   "releaseInfo": "2010"
+  },
+  {
+   "id": "tmdb:1274",
+   "type": "series",
+   "name": "Six Feet Under",
+   "poster": "https://image.tmdb.org/t/p/w500/sCgzLaVlFy8KxtxRPvt1V5MNTDb.jpg",
+   "description": "When death is your business, what is your life? For the Fisher family, the world outside of their family-owned funeral home continues to be at least as challenging as—and far less predictable than—the one inside.",
+   "genres": [],
+   "releaseInfo": "2001"
+  }
+ ]
+}

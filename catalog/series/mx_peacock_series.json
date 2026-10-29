@@ -1,0 +1,130 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:120998",
+   "type": "series",
+   "name": "Poker Face",
+   "poster": "https://image.tmdb.org/t/p/w500/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg",
+   "description": "A casino worker who can detect lies solves murders while on the run across America.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:107365",
+   "type": "series",
+   "name": "Bel-Air",
+   "poster": "https://image.tmdb.org/t/p/w500/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+   "description": "A dramatic reimagining of the '90s sitcom about a teen from West Philly moving to Bel-Air.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:133748",
+   "type": "series",
+   "name": "Twisted Metal",
+   "poster": "https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg",
+   "description": "A motor-mouthed outsider drives across a post-apocalyptic wasteland in a vehicular combat series.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:201834",
+   "type": "series",
+   "name": "Ted",
+   "poster": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+   "description": "In the '90s, teenage John Bennett and his living teddy bear Ted navigate high school.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:215943",
+   "type": "series",
+   "name": "The Traitors",
+   "poster": "https://image.tmdb.org/t/p/w500/ulYR2NMKwnWoRWiw3KnFpaT2qjj.jpg",
+   "description": "Reality competition where contestants hunt hidden traitors among them for a cash prize.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:197373",
+   "type": "series",
+   "name": "Based on a True Story",
+   "poster": "https://image.tmdb.org/t/p/w500/5xPLk78TFStBi1dQAlG2mnoSK60.jpg",
+   "description": "A true-crime-obsessed couple's podcast collides with a real serial killer.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:72710",
+   "type": "series",
+   "name": "The Continental",
+   "poster": "https://image.tmdb.org/t/p/w500/2urdwqEL9FRkGMKAkhfvWTALG00.jpg",
+   "description": "The origin of the assassins' hotel from the John Wick universe in 1970s New York.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:156878",
+   "type": "series",
+   "name": "Killing It",
+   "poster": "https://image.tmdb.org/t/p/w500/531oH3x2cnNAO2ubDQgLYrwJIsC.jpg",
+   "description": "A man chasing the American dream enters deadly python-hunting contests in Florida.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:100350",
+   "type": "series",
+   "name": "Girls5eva",
+   "poster": "https://image.tmdb.org/t/p/w500/1RplQ2ooky3kONomTNhsptZxqAV.jpg",
+   "description": "A one-hit-wonder '90s girl group reunites for another shot at pop stardom.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:93748",
+   "type": "series",
+   "name": "Rutherford Falls",
+   "poster": "https://image.tmdb.org/t/p/w500/lVscDiBXWBVvLa83zwiSW7Ox8L0.jpg",
+   "description": "A small town's fight over a historic statue upends two lifelong friends' lives.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:118958",
+   "type": "series",
+   "name": "One of Us Is Lying",
+   "poster": "https://image.tmdb.org/t/p/w500/hKMpbHY7xqFKaBR8W7jE61JlQB6.jpg",
+   "description": "Five students walk into detention; only four walk out in this teen murder mystery.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:222031",
+   "type": "series",
+   "name": "Apples Never Fall",
+   "poster": "https://image.tmdb.org/t/p/w500/goa4saZkf8r4zmBNgS6IiiPxEEN.jpg",
+   "description": "The disappearance of a tennis-coach matriarch exposes her family's darkest secrets.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:224361",
+   "type": "series",
+   "name": "Hysteria!",
+   "poster": "https://image.tmdb.org/t/p/w500/rG3mGUouuSACs2KLdJWjEHpuG8L.jpg",
+   "description": "An '80s metal band becomes the prime suspect in satanic-panic disappearances.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:100351",
+   "type": "series",
+   "name": "We Are Lady Parts",
+   "poster": "https://image.tmdb.org/t/p/w500/bWqvznpdhncPxVu03QbNmywryhm.jpg",
+   "description": "An all-female Muslim punk band navigates friendship, faith and music in London.",
+   "genres": [],
+   "releaseInfo": "2021"
+  }
+ ]
+}

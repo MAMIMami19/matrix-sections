@@ -1,0 +1,184 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:136315",
+   "type": "series",
+   "name": "The Bear",
+   "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+   "description": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:2122",
+   "type": "series",
+   "name": "King of the Hill",
+   "poster": "https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+   "description": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+   "genres": [],
+   "releaseInfo": "1997"
+  },
+  {
+   "id": "tmdb:31991",
+   "type": "series",
+   "name": "WWE NXT",
+   "poster": "https://image.tmdb.org/t/p/w500/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+   "description": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+   "genres": [],
+   "releaseInfo": "2010"
+  },
+  {
+   "id": "tmdb:615",
+   "type": "series",
+   "name": "Futurama",
+   "poster": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+   "description": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+   "genres": [],
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tmdb:69478",
+   "type": "series",
+   "name": "The Handmaid's Tale",
+   "poster": "https://image.tmdb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+   "description": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:16281",
+   "type": "series",
+   "name": "WWE Superstars",
+   "poster": "https://image.tmdb.org/t/p/w500/595BCIq8CJUjYHlx0xwkfiesMLF.jpg",
+   "description": "WWE Superstars is a professional wrestling television program produced by WWE that originally aired on WGN America in the United States. It debuted on April 16, 2009 and ended its domestic broadcasting on April 7, 2011. After the final domestic TV broadcast the show moved to an internet broadcast format while maintaining a traditional television broadcast in international markets. The show features mid-to-low card WWE superstars and divas, in a format similar to the former show WWE Heat which served the same purpose. Big names such as John Cena and Randy Orton previously appeared on the show at its beginning. The show also previously featured talent from the now-defunct ECW brand.",
+   "genres": [],
+   "releaseInfo": "2009"
+  },
+  {
+   "id": "tmdb:44857",
+   "type": "series",
+   "name": "The Mindy Project",
+   "poster": "https://image.tmdb.org/t/p/w500/A3txgCPox6hJlOZ0TDTOxch7rVa.jpg",
+   "description": "Obstetrician/gynecologist Mindy Lahiri tries to balance her personal and professional life, surrounded by quirky co-workers in a small medical practice in New York City.",
+   "genres": [],
+   "releaseInfo": "2012"
+  },
+  {
+   "id": "tmdb:46707",
+   "type": "series",
+   "name": "WWE Main Event",
+   "poster": "https://image.tmdb.org/t/p/w500/cy4Ceb9iWPzHn7V0J0F13h1Zhx3.jpg",
+   "description": "WWE Main Event is an American professional wrestling program produced by WWE. Currently, episodes typically consist of two or three prerecorded matches that are filmed before Raw and Smackdown.",
+   "genres": [],
+   "releaseInfo": "2012"
+  },
+  {
+   "id": "tmdb:1432",
+   "type": "series",
+   "name": "Veronica Mars",
+   "poster": "https://image.tmdb.org/t/p/w500/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg",
+   "description": "In the fictional town of Neptune, California, student Veronica Mars progresses from high school to college while moonlighting as a private investigator under the tutelage of her detective father.",
+   "genres": [],
+   "releaseInfo": "2004"
+  },
+  {
+   "id": "tmdb:71738",
+   "type": "series",
+   "name": "The Orville",
+   "poster": "https://image.tmdb.org/t/p/w500/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg",
+   "description": "Follow the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:107113",
+   "type": "series",
+   "name": "Only Murders in the Building",
+   "poster": "https://image.tmdb.org/t/p/w500/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg",
+   "description": "Three strangers share an obsession with true crime and suddenly find themselves wrapped up in one.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:97645",
+   "type": "series",
+   "name": "Solar Opposites",
+   "poster": "https://image.tmdb.org/t/p/w500/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg",
+   "description": "A family of aliens from a much better world must take refuge in middle America after the destruction of their planet. Their mission: protect the Pupa, a living super computer that will one day evolve into its true form, consume them and terraform the Earth.",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:103540",
+   "type": "series",
+   "name": "Percy Jackson and the Olympians",
+   "poster": "https://image.tmdb.org/t/p/w500/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
+   "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:107124",
+   "type": "series",
+   "name": "Animaniacs",
+   "poster": "https://image.tmdb.org/t/p/w500/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
+   "description": "Yakko, Wakko and Dot return for all-new big laughs and the occasional epic takedown of authority figures in serious need of an ego check. Joining the Warners are Starbox & Cindy on their latest play date while Pinky and the Brain's ideas for world domination lead them to all new adventures.",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:126308",
+   "type": "series",
+   "name": "Shōgun",
+   "poster": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+   "description": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:245927",
+   "type": "series",
+   "name": "Paradise",
+   "poster": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+   "description": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+   "genres": [],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:154521",
+   "type": "series",
+   "name": "The Kardashians",
+   "poster": "https://image.tmdb.org/t/p/w500/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
+   "description": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:73157",
+   "type": "series",
+   "name": "Future Man",
+   "poster": "https://image.tmdb.org/t/p/w500/49mOgAEa4eKpPsoBH8UvvXwEMDT.jpg",
+   "description": "Josh Futturman, a janitor by day/world-ranked gamer by night, is tasked with preventing the extinction of humanity after mysterious visitors from the future proclaim him the key to defeating the imminent super-race invasion.",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:93812",
+   "type": "series",
+   "name": "The Great",
+   "poster": "https://image.tmdb.org/t/p/w500/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg",
+   "description": "A genre-bending, anti-historical ride through 18th century Russia following the rise of Catherine the Nothing to Catherine the Great and her explosive relationship with husband Peter, the emperor of Russia.",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:113378",
+   "type": "series",
+   "name": "Trolls: TrollsTopia",
+   "poster": "https://image.tmdb.org/t/p/w500/idpD7RzSNelzJqBBMFWZbzMfjUu.jpg",
+   "description": "Now that Poppy knows there are other musical trolls scattered throughout the forest, she bottles up her endless positivity and invites delegates from every troll tribe in the forest to live together in harmony in a grand experiment she calls TrollsTopia!",
+   "genres": [],
+   "releaseInfo": "2020"
+  }
+ ]
+}

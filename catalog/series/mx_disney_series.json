@@ -1,0 +1,184 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:213375",
+   "type": "series",
+   "name": "VisionQuest",
+   "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+   "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tmdb:1508",
+   "type": "series",
+   "name": "Dancing with the Stars",
+   "poster": "https://image.tmdb.org/t/p/w500/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+   "description": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+   "genres": [],
+   "releaseInfo": "2005"
+  },
+  {
+   "id": "tmdb:4194",
+   "type": "series",
+   "name": "Star Wars: The Clone Wars",
+   "poster": "https://image.tmdb.org/t/p/w500/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+   "description": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+   "genres": [],
+   "releaseInfo": "2008"
+  },
+  {
+   "id": "tmdb:84958",
+   "type": "series",
+   "name": "Loki",
+   "poster": "https://image.tmdb.org/t/p/w500/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+   "description": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:82856",
+   "type": "series",
+   "name": "The Mandalorian",
+   "poster": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+   "description": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:91363",
+   "type": "series",
+   "name": "What If...?",
+   "poster": "https://image.tmdb.org/t/p/w500/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+   "description": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:202555",
+   "type": "series",
+   "name": "Daredevil: Born Again",
+   "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+   "description": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+   "genres": [],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:83867",
+   "type": "series",
+   "name": "Andor",
+   "poster": "https://image.tmdb.org/t/p/w500/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
+   "description": "In an era filled with danger, deception and intrigue, Cassian Andor will discover the difference he can make in the struggle against the tyrannical Galactic Empire. He embarks on a path that is destined to turn him into a rebel hero.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:103540",
+   "type": "series",
+   "name": "Percy Jackson and the Olympians",
+   "poster": "https://image.tmdb.org/t/p/w500/bd5ZIqiz1PRiLC7FLexzVBf8qu1.jpg",
+   "description": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:85271",
+   "type": "series",
+   "name": "WandaVision",
+   "poster": "https://image.tmdb.org/t/p/w500/ijWWwINc8h71NQ8j1LTJMFSj5wr.jpg",
+   "description": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:88329",
+   "type": "series",
+   "name": "Hawkeye",
+   "poster": "https://image.tmdb.org/t/p/w500/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
+   "description": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:284445",
+   "type": "series",
+   "name": "Takopi's Original Sin",
+   "poster": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+   "description": "A Happy alien, Takopi, lands on Earth with one mission: to spread happiness! When he meets Shizuka, a lonely fourth grader, he vows to bring back her smile using his magical Happy Gadgets. But as he uncovers the pain in her life, Takopi learns that true happiness may require more than gadgets.",
+   "genres": [],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:114478",
+   "type": "series",
+   "name": "Star Wars: Visions",
+   "poster": "https://image.tmdb.org/t/p/w500/lG9ltUP4FwvsQBcwOJYceDbP48E.jpg",
+   "description": "This anthology of animated shorts from around the world celebrates the mythos of Star Wars through unique cultural lenses.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:126485",
+   "type": "series",
+   "name": "Moving",
+   "poster": "https://image.tmdb.org/t/p/w500/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+   "description": "Children who live in hiding with superpowers, along with their parents who live with painful secrets of the past, face enormous dangers together.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:105971",
+   "type": "series",
+   "name": "Star Wars: The Bad Batch",
+   "poster": "https://image.tmdb.org/t/p/w500/5mHus672nuinyaE0FtqvD0AddcY.jpg",
+   "description": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:80079",
+   "type": "series",
+   "name": "American Idol",
+   "poster": "https://image.tmdb.org/t/p/w500/wGOxv5fCxdQ8pfyR2A2X7Vv0d4d.jpg",
+   "description": "The iconic series that revolutionized the television landscape by pioneering the music competition genre is back!",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:138502",
+   "type": "series",
+   "name": "X-Men '97",
+   "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+   "description": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:138503",
+   "type": "series",
+   "name": "Your Friendly Neighborhood Spider-Man",
+   "poster": "https://image.tmdb.org/t/p/w500/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
+   "description": "Peter Parker is on his way to becoming a hero, but his path to get there is anything but ordinary.",
+   "genres": [],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:202998",
+   "type": "series",
+   "name": "Star Wars: Young Jedi Adventures",
+   "poster": "https://image.tmdb.org/t/p/w500/bC2Mix1WPUiY6pldh77oiFl1MvI.jpg",
+   "description": "Set during the High Republic era and the prime of the Jedi Order, follow Jedi younglings as they study the ways of the Force, explore the galaxy, help citizens and creatures in need, and learn valuable skills needed to become Jedi along the way.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:138501",
+   "type": "series",
+   "name": "Agatha All Along",
+   "poster": "https://image.tmdb.org/t/p/w500/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
+   "description": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+   "genres": [],
+   "releaseInfo": "2024"
+  }
+ ]
+}

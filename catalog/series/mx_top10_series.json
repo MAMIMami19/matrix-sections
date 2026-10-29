@@ -1,0 +1,112 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:220542",
+   "type": "series",
+   "name": "The Apothecary Diaries",
+   "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+   "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:123542",
+   "type": "series",
+   "name": "LINK CLICK",
+   "poster": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
+   "description": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:105248",
+   "type": "series",
+   "name": "Cyberpunk: Edgerunners",
+   "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+   "description": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:96677",
+   "type": "series",
+   "name": "Lupin",
+   "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+   "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:120911",
+   "type": "series",
+   "name": "The Terminal List",
+   "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+   "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:213375",
+   "type": "series",
+   "name": "VisionQuest",
+   "poster": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+   "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tmdb:213562",
+   "type": "series",
+   "name": "Crystal Lake",
+   "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+   "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tmdb:288673",
+   "type": "series",
+   "name": "Carrie",
+   "poster": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+   "description": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tmdb:247718",
+   "type": "series",
+   "name": "MobLand",
+   "poster": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "genres": [],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:95480",
+   "type": "series",
+   "name": "Slow Horses",
+   "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:1416",
+   "type": "series",
+   "name": "Grey's Anatomy",
+   "poster": "https://image.tmdb.org/t/p/w500/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+   "description": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+   "genres": [],
+   "releaseInfo": "2005"
+  },
+  {
+   "id": "tmdb:549",
+   "type": "series",
+   "name": "Law & Order",
+   "poster": "https://image.tmdb.org/t/p/w500/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+   "description": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+   "genres": [],
+   "releaseInfo": "1990"
+  }
+ ]
+}

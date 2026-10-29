@@ -1,0 +1,148 @@
+{
+ "metas": [
+  {
+   "id": "tmdb:1429",
+   "type": "series",
+   "name": "Attack on Titan",
+   "poster": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+   "description": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+   "genres": [],
+   "releaseInfo": "2013"
+  },
+  {
+   "id": "tmdb:37854",
+   "type": "series",
+   "name": "One Piece",
+   "poster": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+   "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+   "genres": [],
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tmdb:13916",
+   "type": "series",
+   "name": "Death Note",
+   "poster": "https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+   "description": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+   "genres": [],
+   "releaseInfo": "2006"
+  },
+  {
+   "id": "tmdb:46298",
+   "type": "series",
+   "name": "Hunter x Hunter",
+   "poster": "https://image.tmdb.org/t/p/w500/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+   "description": "Gon, a young boy who lives on Whale Island, dreams of becoming a Hunter like his father, who left when Gon was still young.",
+   "genres": [],
+   "releaseInfo": "2011"
+  },
+  {
+   "id": "tmdb:127532",
+   "type": "series",
+   "name": "Solo Leveling",
+   "poster": "https://image.tmdb.org/t/p/w500/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+   "description": "The world's weakest hunter gains the power to level up without limits.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:95479",
+   "type": "series",
+   "name": "Jujutsu Kaisen",
+   "poster": "https://image.tmdb.org/t/p/w500/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
+   "description": "A teen devours a cursed finger and joins sorcerers battling deadly curses.",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:85937",
+   "type": "series",
+   "name": "Demon Slayer: Kimetsu no Yaiba",
+   "poster": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+   "description": "Tanjiro becomes a demon slayer to save his demon-turned sister Nezuko.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:31910",
+   "type": "series",
+   "name": "Naruto: Shippuden",
+   "poster": "https://image.tmdb.org/t/p/w500/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+   "description": "Naruto returns stronger to protect his village and save Sasuke.",
+   "genres": [],
+   "releaseInfo": "2007"
+  },
+  {
+   "id": "tmdb:65930",
+   "type": "series",
+   "name": "My Hero Academia",
+   "poster": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+   "description": "In a world of superpowers, quirkless Izuku inherits the greatest hero's power.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:114410",
+   "type": "series",
+   "name": "Chainsaw Man",
+   "poster": "https://image.tmdb.org/t/p/w500/npdB6eFzizki0WaZ1OvKcJrWe97.jpg",
+   "description": "A devil hunter merges with his chainsaw devil to fight devils for a living.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:120089",
+   "type": "series",
+   "name": "Spy x Family",
+   "poster": "https://image.tmdb.org/t/p/w500/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+   "description": "A spy, an assassin and a telepath pose as a family, hiding secrets from each other.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:209867",
+   "type": "series",
+   "name": "Frieren: Beyond Journey's End",
+   "poster": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+   "description": "An elven mage outlives her hero party and journeys to understand humanity.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:12971",
+   "type": "series",
+   "name": "Dragon Ball Z",
+   "poster": "https://image.tmdb.org/t/p/w500/oQ5CnVj3TRifXl2bIOri6H6rfNe.jpg",
+   "description": "Goku defends Earth against ever-stronger cosmic warriors.",
+   "genres": [],
+   "releaseInfo": "1989"
+  },
+  {
+   "id": "tmdb:105009",
+   "type": "series",
+   "name": "Tokyo Revengers",
+   "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg",
+   "description": "A washed-up man time-travels to middle school to save his girlfriend from a gang.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:207468",
+   "type": "series",
+   "name": "Kaiju No. 8",
+   "poster": "https://image.tmdb.org/t/p/w500/83yDUQVpdhv8ePy3nbTRzFaKYuQ.jpg",
+   "description": "A cleanup worker gains kaiju powers and joins the Defense Force hunting monsters.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:240411",
+   "type": "series",
+   "name": "Dandadan",
+   "poster": "https://image.tmdb.org/t/p/w500/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+   "description": "A ghost believer and an alien believer collide with both being real.",
+   "genres": [],
+   "releaseInfo": "2024"
+  }
+ ]
+}
