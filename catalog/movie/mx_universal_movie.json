@@ -296,6 +296,15 @@
    "description": "",
    "genres": [],
    "releaseInfo": "2011"
+  },
+  {
+   "id": "tmdb:948",
+   "type": "movie",
+   "name": "Halloween",
+   "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
   }
  ]
 }

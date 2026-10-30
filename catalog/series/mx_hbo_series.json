@@ -197,6 +197,132 @@
    "description": "",
    "genres": [],
    "releaseInfo": "2010"
+  },
+  {
+   "id": "tmdb:4546",
+   "type": "series",
+   "name": "Curb Your Enthusiasm",
+   "poster": "https://image.tmdb.org/t/p/w500/pjRRB1NCFJzCb0euvpia4rKDov1.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2000"
+  },
+  {
+   "id": "tmdb:124101",
+   "type": "series",
+   "name": "Hacks",
+   "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:1274",
+   "type": "series",
+   "name": "Six Feet Under",
+   "poster": "https://image.tmdb.org/t/p/w500/sCgzLaVlFy8KxtxRPvt1V5MNTDb.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tmdb:60573",
+   "type": "series",
+   "name": "Silicon Valley",
+   "poster": "https://image.tmdb.org/t/p/w500/4ptpmWBVD9HY9hMh8Cbs6SMiy7p.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:87108",
+   "type": "series",
+   "name": "Chernobyl",
+   "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:4613",
+   "type": "series",
+   "name": "Band of Brothers",
+   "poster": "https://image.tmdb.org/t/p/w500/eLdcio9HBKzsdIJGeD80oObDfkr.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2001"
+  },
+  {
+   "id": "tmdb:81723",
+   "type": "series",
+   "name": "The Gilded Age",
+   "poster": "https://image.tmdb.org/t/p/w500/lBsDmxBI4ELLmgF5uhUCvjgpQxh.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:1406",
+   "type": "series",
+   "name": "Deadwood",
+   "poster": "https://image.tmdb.org/t/p/w500/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2004"
+  },
+  {
+   "id": "tmdb:42282",
+   "type": "series",
+   "name": "Girls",
+   "poster": "https://image.tmdb.org/t/p/w500/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2012"
+  },
+  {
+   "id": "tmdb:82782",
+   "type": "series",
+   "name": "The Righteous Gemstones",
+   "poster": "https://image.tmdb.org/t/p/w500/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:68507",
+   "type": "series",
+   "name": "His Dark Materials",
+   "poster": "https://image.tmdb.org/t/p/w500/g6tIKGc3f1H5QMz1dcgCwADKpZ7.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:90812",
+   "type": "series",
+   "name": "Industry",
+   "poster": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:73107",
+   "type": "series",
+   "name": "Barry",
+   "poster": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:62704",
+   "type": "series",
+   "name": "Ballers",
+   "poster": "https://image.tmdb.org/t/p/w500/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2015"
   }
  ]
 }

@@ -251,6 +251,24 @@
    "description": "",
    "genres": [],
    "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:111110",
+   "type": "series",
+   "name": "One Piece",
+   "poster": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "1999"
+  },
+  {
+   "id": "tmdb:84469",
+   "type": "series",
+   "name": "Cowboy Bebop",
+   "poster": "https://image.tmdb.org/t/p/w500/lSsCxZ1dnjcB4cmXSgMJt5qunOu.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "1998"
   }
  ]
 }

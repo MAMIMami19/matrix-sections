@@ -143,6 +143,78 @@
    "description": "",
    "genres": [],
    "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:725201",
+   "type": "movie",
+   "name": "The Gray Man",
+   "poster": "https://image.tmdb.org/t/p/w500/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:508965",
+   "type": "movie",
+   "name": "Klaus",
+   "poster": "https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:550205",
+   "type": "movie",
+   "name": "Wish Dragon",
+   "poster": "https://image.tmdb.org/t/p/w500/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:755566",
+   "type": "movie",
+   "name": "Day Shift",
+   "poster": "https://image.tmdb.org/t/p/w500/tkl7n5r542S40hnYDI27lGNCACu.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:426426",
+   "type": "movie",
+   "name": "Roma",
+   "poster": "https://image.tmdb.org/t/p/w500/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:547016",
+   "type": "movie",
+   "name": "The Old Guard",
+   "poster": "https://image.tmdb.org/t/p/w500/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:1139829",
+   "type": "movie",
+   "name": "Orion and the Dark",
+   "poster": "https://image.tmdb.org/t/p/w500/N2ddXhBX5kqwA9flbm2yqFtX6b.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:829280",
+   "type": "movie",
+   "name": "Enola Holmes 2",
+   "poster": "https://image.tmdb.org/t/p/w500/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
   }
  ]
 }

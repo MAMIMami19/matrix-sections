@@ -53,6 +53,15 @@
    "description": "",
    "genres": [],
    "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:61339",
+   "type": "series",
+   "name": "Crystal",
+   "poster": "https://image.tmdb.org/t/p/w500/mVXlsNJw4fxD2UWNzaUh2TFfI5c.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2023"
   }
  ]
 }
