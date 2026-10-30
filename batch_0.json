@@ -1,0 +1,464 @@
+[
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Mindhunter",
+  "tmdb": 67744,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Monster: The Jeffrey Dahmer Story",
+  "tmdb": 30981,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Witcher",
+  "tmdb": 71912,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Wednesday",
+  "tmdb": 119051,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "You",
+  "tmdb": 78191,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Cobra Kai",
+  "tmdb": 77169,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Bridgerton",
+  "tmdb": 91239,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "House of Cards",
+  "tmdb": 1425,
+  "type": "series",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Elite",
+  "tmdb": 76669,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Dark",
+  "tmdb": 70523,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Money Heist",
+  "tmdb": 71446,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Ozark",
+  "tmdb": 69740,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Big Mouth",
+  "tmdb": 74204,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Narcos",
+  "tmdb": 63351,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "13 Reasons Why",
+  "tmdb": 66788,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Umbrella Academy",
+  "tmdb": 75006,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Sandman",
+  "tmdb": 90802,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Vikings: Valhalla",
+  "tmdb": 116135,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Queen's Gambit",
+  "tmdb": 87739,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Formula 1: Drive to Survive",
+  "tmdb": 87083,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Disenchantment",
+  "tmdb": 73021,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Love Is Blind",
+  "tmdb": 99353,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Dragon Prince",
+  "tmdb": 81046,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Haunting of Hill House",
+  "tmdb": 72844,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Dead to Me",
+  "tmdb": 81357,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Castlevania",
+  "tmdb": 71024,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Too Hot to Handle",
+  "tmdb": 102085,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Tiger King",
+  "tmdb": 100698,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The End of the F***ing World",
+  "tmdb": 74577,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Inside Job",
+  "tmdb": 97727,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Kingdom",
+  "tmdb": 61427,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "F Is for Family",
+  "tmdb": 63522,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "After Life",
+  "tmdb": 79410,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Circle",
+  "tmdb": 97083,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Inventing Anna",
+  "tmdb": 95665,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Selling Sunset",
+  "tmdb": 87826,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Young Royals",
+  "tmdb": 125910,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Unbelievable",
+  "tmdb": 91275,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Cable Girls",
+  "tmdb": 71225,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Russian Doll",
+  "tmdb": 84977,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Queer Eye",
+  "tmdb": 76922,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Watcher",
+  "tmdb": 210232,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "When They See Us",
+  "tmdb": 81355,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Our Planet",
+  "tmdb": 83880,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Politician",
+  "tmdb": 83127,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Sacred Games",
+  "tmdb": 79352,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Last Dance",
+  "tmdb": 79525,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "KPop Demon Hunters",
+  "tmdb": 803796,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Leave the World Behind",
+  "tmdb": 726209,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Glass Onion",
+  "tmdb": 661374,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Back in Action",
+  "tmdb": 993710,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Mitchells vs. the Machines",
+  "tmdb": 501929,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Havoc",
+  "tmdb": 668489,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Society of the Snow",
+  "tmdb": 906126,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Don't Look Up",
+  "tmdb": 646380,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Sea Beast",
+  "tmdb": 560057,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Irishman",
+  "tmdb": 398978,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Extraction 2",
+  "tmdb": 697843,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Red Notice",
+  "tmdb": 512195,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Slumberland",
+  "tmdb": 668461,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Extraction",
+  "tmdb": 545609,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Atlas",
+  "tmdb": 614933,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Adam Project",
+  "tmdb": 696806,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "To All the Boys I've Loved Before",
+  "tmdb": 466282,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Bird Box",
+  "tmdb": 405774,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Electric State",
+  "tmdb": 777443,
+  "type": "movie",
+  "year": 2025
+ }
+]

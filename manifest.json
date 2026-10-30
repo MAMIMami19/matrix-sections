@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
@@ -72,8 +72,20 @@
       "extra": []
     },
     {
+      "id": "mx_peacock_series",
+      "type": "series",
+      "name": "أعمال Peacock الأصلية",
+      "extra": []
+    },
+    {
       "type": "series",
       "id": "mx_paramount_series",
+      "name": "أعمال Paramount الأصلية",
+      "extra": []
+    },
+    {
+      "id": "mx_paramount_movie",
+      "type": "movie",
       "name": "أعمال Paramount الأصلية",
       "extra": []
     },
@@ -81,6 +93,24 @@
       "type": "series",
       "id": "mx_netflix_series",
       "name": "أعمال Netflix الأصلية",
+      "extra": []
+    },
+    {
+      "id": "mx_netflix_movie",
+      "type": "movie",
+      "name": "أعمال Netflix الأصلية",
+      "extra": []
+    },
+    {
+      "id": "mx_mbc_series",
+      "type": "series",
+      "name": "أعمال MBC الأصلية",
+      "extra": []
+    },
+    {
+      "id": "mx_hulu_series",
+      "type": "series",
+      "name": "أعمال Hulu الأصلية",
       "extra": []
     },
     {

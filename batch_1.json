@@ -1,0 +1,464 @@
+[
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Gray Man",
+  "tmdb": 725201,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Killer",
+  "tmdb": 800158,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Klaus",
+  "tmdb": 508965,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "6 Underground",
+  "tmdb": 509967,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Harder They Fall",
+  "tmdb": 618162,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Carry-On",
+  "tmdb": 1005331,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Wallace & Gromit: Vengeance Most Fowl",
+  "tmdb": 929204,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Platform",
+  "tmdb": 619264,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Rebel Moon",
+  "tmdb": 848326,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Hit Man",
+  "tmdb": 974635,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Wish Dragon",
+  "tmdb": 550205,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Army of the Dead",
+  "tmdb": 503736,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Enola Holmes",
+  "tmdb": 497582,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Guillermo del Toro's Pinocchio",
+  "tmdb": 555604,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Day Shift",
+  "tmdb": 755566,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Marriage Story",
+  "tmdb": 492188,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Roma",
+  "tmdb": 426426,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Murder Mystery",
+  "tmdb": 514999,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Old Guard",
+  "tmdb": 547016,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Orion and the Dark",
+  "tmdb": 1139829,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Enola Holmes 2",
+  "tmdb": 829280,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Daredevil: Born Again",
+  "tmdb": 202555,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Goosebumps",
+  "tmdb": 5835,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Moon Knight",
+  "tmdb": 92749,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Falcon and the Winter Soldier",
+  "tmdb": 88396,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Monsters at Work",
+  "tmdb": 90461,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Ahsoka",
+  "tmdb": 114461,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "She-Hulk: Attorney at Law",
+  "tmdb": 92783,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Secret Invasion",
+  "tmdb": 114472,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "High School Musical: The Musical: The Series",
+  "tmdb": 85801,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Book of Boba Fett",
+  "tmdb": 115036,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Wonderful World of Mickey Mouse",
+  "tmdb": 109930,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Obi-Wan Kenobi",
+  "tmdb": 92830,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Proud Family: Louder and Prouder",
+  "tmdb": 125438,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Marvel Zombies",
+  "tmdb": 138505,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Acolyte",
+  "tmdb": 114479,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Doogie Kamealoha, M.D.",
+  "tmdb": 130372,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Ms. Marvel",
+  "tmdb": 92782,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Echo",
+  "tmdb": 122226,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Mysterious Benedict Society",
+  "tmdb": 104359,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "National Treasure: Edge of History",
+  "tmdb": 137437,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Turner & Hooch",
+  "tmdb": 114503,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Big Shot",
+  "tmdb": 96716,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Star Wars: Skeleton Crew",
+  "tmdb": 202879,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Mighty Ducks: Game Changers",
+  "tmdb": 114621,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Right Stuff",
+  "tmdb": 93786,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "American Born Chinese",
+  "tmdb": 135615,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Willow",
+  "tmdb": 111837,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Perry Mason",
+  "tmdb": 4177,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Curb Your Enthusiasm",
+  "tmdb": 4546,
+  "type": "series",
+  "year": 2000
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Hacks",
+  "tmdb": 124101,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Six Feet Under",
+  "tmdb": 1274,
+  "type": "series",
+  "year": 2001
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Silicon Valley",
+  "tmdb": 60573,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Veep",
+  "tmdb": 2947,
+  "type": "series",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Chernobyl",
+  "tmdb": 87108,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Band of Brothers",
+  "tmdb": 4613,
+  "type": "series",
+  "year": 2001
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Gilded Age",
+  "tmdb": 81723,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Deadwood",
+  "tmdb": 1406,
+  "type": "series",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Girls",
+  "tmdb": 42282,
+  "type": "series",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Righteous Gemstones",
+  "tmdb": 82782,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "His Dark Materials",
+  "tmdb": 68507,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Industry",
+  "tmdb": 90812,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Barry",
+  "tmdb": 73107,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Insecure",
+  "tmdb": 67883,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Ballers",
+  "tmdb": 62704,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "And Just Like That...",
+  "tmdb": 116450,
+  "type": "series",
+  "year": 2021
+ }
+]

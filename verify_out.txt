@@ -1,0 +1,45 @@
+608 candidates to verify...
+  50/608
+  100/608
+  150/608
+  200/608
+  250/608
+  300/608
+  350/608
+  400/608
+  450/608
+  500/608
+  550/608
+  600/608
+
+=== FAILURES ===
+CINEMETA_0: 566
+    mx_netflix_series :: Ozark
+    mx_netflix_series :: The Queen's Gambit
+    mx_netflix_series :: Bridgerton
+    mx_netflix_series :: House of Cards
+    mx_netflix_series :: Wednesday
+    mx_netflix_series :: The Crown
+    mx_netflix_series :: Money Heist
+    mx_netflix_series :: Narcos
+NO_ID_MATCH: 42
+    mx_netflix_series :: Squid Game
+    mx_netflix_series :: Delhi Crime
+    mx_netflix_series :: All of Us Are Dead
+    mx_netflix_series :: Hellbound
+    mx_netflix_series :: My Name
+    mx_netflix_series :: The Glory
+    mx_netflix_series :: Alice in Borderland
+    mx_netflix_movie :: Fear Street Part One: 1994
+
+=== VERIFIED COUNTS ===
+mx_netflix_series: 0 / 82
+mx_netflix_movie: 0 / 83
+mx_disney_series: 0 / 58
+mx_hbo_series: 0 / 70
+mx_hbo_movie: 0 / 44
+mx_apple_series: 0 / 58
+mx_prime_series: 0 / 54
+mx_mbc_series: 0 / 36
+mx_paramount_series: 0 / 57
+mx_paramount_movie: 0 / 66

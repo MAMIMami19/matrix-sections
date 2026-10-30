@@ -1,0 +1,436 @@
+[
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Ready Player One",
+  "tmdb": 333339,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Furiosa",
+  "tmdb": 786892,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Notebook",
+  "tmdb": 11036,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Gremlins",
+  "tmdb": 927,
+  "type": "movie",
+  "year": 1984
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "It",
+  "tmdb": 346364,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Hangover",
+  "tmdb": 18785,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Tenet",
+  "tmdb": 577922,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Beetlejuice Beetlejuice",
+  "tmdb": 917496,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Dunkirk",
+  "tmdb": 374720,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Lego Movie",
+  "tmdb": 137106,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Wonder Woman",
+  "tmdb": 297762,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Gravity",
+  "tmdb": 49047,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "A Star Is Born",
+  "tmdb": 332562,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Aquaman",
+  "tmdb": 297802,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "American Sniper",
+  "tmdb": 190859,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Goonies",
+  "tmdb": 9340,
+  "type": "movie",
+  "year": 1985
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Argo",
+  "tmdb": 68734,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Crazy Rich Asians",
+  "tmdb": 455207,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Restart",
+  "tmdb": 337277,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Watar Hassas",
+  "tmdb": 260695,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Ein Sehreya",
+  "tmdb": 301097,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Al Noss",
+  "tmdb": 276068,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Faqret El Saher",
+  "tmdb": 262627,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Al Ghawy",
+  "tmdb": 262982,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Qahwet El Mahata",
+  "tmdb": 278067,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Wuhoosh",
+  "tmdb": 277991,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Deebo",
+  "tmdb": 265212,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Fan El Harb",
+  "tmdb": 309032,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Manaa",
+  "tmdb": 302770,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "El Nos El Tani",
+  "tmdb": 313123,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Little Steps",
+  "tmdb": 304606,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "The Spider",
+  "tmdb": 251753,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Kan Ya Makan",
+  "tmdb": 155390,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Ekhteyar 3",
+  "tmdb": 65336,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Ekhteyar 2",
+  "tmdb": 81044,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "The Master",
+  "tmdb": 17324,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Prince",
+  "tmdb": 102041,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Fetewa",
+  "tmdb": 101838,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Special Case",
+  "tmdb": 242594,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Valentino",
+  "tmdb": 94047,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Hagma Mortada",
+  "tmdb": 121383,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "At the Building's Door",
+  "tmdb": 236064,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Gaafar El Omda",
+  "tmdb": 218739,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "With Evidence",
+  "tmdb": 237074,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "We Beinana Mia'd",
+  "tmdb": 217952,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Mandatory Path",
+  "tmdb": 246245,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Safha Beida",
+  "tmdb": 271076,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Kheyanet Ahd",
+  "tmdb": 102443,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Sa'atu we Tarikhu",
+  "tmdb": 278551,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Sultana El Moez",
+  "tmdb": 102415,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "House Arrest",
+  "tmdb": 298679,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Welad Rizk 2",
+  "tmdb": 1234139,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Kenz 2",
+  "tmdb": 1234139,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Fil El Azraq 3",
+  "tmdb": 1658657,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Siko Siko Film",
+  "tmdb": 1316416,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Sett",
+  "tmdb": 1246595,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Welad Rizk",
+  "tmdb": 362739,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Gawahergy",
+  "tmdb": 917242,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Taslim Ahali",
+  "tmdb": 973921,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Shalabi",
+  "tmdb": 1032785,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Kenz",
+  "tmdb": 699930,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Malhad",
+  "tmdb": 975024,
+  "type": "movie",
+  "year": 2024
+ }
+]

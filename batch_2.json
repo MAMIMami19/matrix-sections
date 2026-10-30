@@ -1,0 +1,464 @@
+[
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Deuce",
+  "tmdb": 65817,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Big Little Lies",
+  "tmdb": 66292,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Winning Time",
+  "tmdb": 124067,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Nevers",
+  "tmdb": 80828,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Raised by Wolves",
+  "tmdb": 85723,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Pacific",
+  "tmdb": 16997,
+  "type": "series",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "House Party",
+  "tmdb": 16094,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Kimi",
+  "tmdb": 800510,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Into the Storm",
+  "tmdb": 216282,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Fallout",
+  "tmdb": 795514,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Survivor",
+  "tmdb": 606870,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "No Sudden Move",
+  "tmdb": 649409,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Hemingway & Gellhorn",
+  "tmdb": 111839,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Wizard of Lies",
+  "tmdb": 363992,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Father of the Bride",
+  "tmdb": 11846,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Moonshot",
+  "tmdb": 767825,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Behind the Candelabra",
+  "tmdb": 119675,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "8-Bit Christmas",
+  "tmdb": 802217,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Parenting",
+  "tmdb": 850920,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Warm Springs",
+  "tmdb": 46661,
+  "type": "movie",
+  "year": 2005
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "A Christmas Story Christmas",
+  "tmdb": 929340,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Something the Lord Made",
+  "tmdb": 20544,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Muhammad Ali's Greatest Fight",
+  "tmdb": 196355,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Confirmation",
+  "tmdb": 348390,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Deadwood: The Movie",
+  "tmdb": 538225,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Fahrenheit 451",
+  "tmdb": 1714,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Bad Education",
+  "tmdb": 530723,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Temple Grandin",
+  "tmdb": 33602,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "All the Way",
+  "tmdb": 347123,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Too Big to Fail",
+  "tmdb": 65034,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Let Them All Talk",
+  "tmdb": 623856,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "You Don't Know Jack",
+  "tmdb": 36950,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Normal Heart",
+  "tmdb": 113833,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Immortal Life of Henrietta Lacks",
+  "tmdb": 424600,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Dark Matter",
+  "tmdb": 196322,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Foundation",
+  "tmdb": 93740,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Masters of the Air",
+  "tmdb": 46518,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Invasion",
+  "tmdb": 127235,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Last Thing He Told Me",
+  "tmdb": 201289,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Loot",
+  "tmdb": 197449,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Mythic Quest",
+  "tmdb": 94951,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Sugar",
+  "tmdb": 203744,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Mosquito Coast",
+  "tmdb": 93716,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Servant",
+  "tmdb": 88055,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Lessons in Chemistry",
+  "tmdb": 117303,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Franklin",
+  "tmdb": 1458,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Manhunt",
+  "tmdb": 72597,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Dickinson",
+  "tmdb": 89901,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Truth Be Told",
+  "tmdb": 80054,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Acapulco",
+  "tmdb": 133727,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Platonic",
+  "tmdb": 112211,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Bad Monkey",
+  "tmdb": 130853,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Buccaneers",
+  "tmdb": 12033,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Home Before Dark",
+  "tmdb": 98161,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Trying",
+  "tmdb": 98177,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Palm Royale",
+  "tmdb": 157367,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Presumed Innocent",
+  "tmdb": 156933,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Smoke",
+  "tmdb": 215995,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Constellation",
+  "tmdb": 197125,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Surface",
+  "tmdb": 127641,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Summer I Turned Pretty",
+  "tmdb": 194766,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Bosch",
+  "tmdb": 60585,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Wheel of Time",
+  "tmdb": 71914,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Jack Ryan",
+  "tmdb": 73375,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Fallout",
+  "tmdb": 106379,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Man in the High Castle",
+  "tmdb": 62017,
+  "type": "series",
+  "year": 2015
+ }
+]

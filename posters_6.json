@@ -1,0 +1,530 @@
+[
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Happy Face",
+  "tmdb": 243217,
+  "type": "series",
+  "year": 2025,
+  "poster_path": "/sGHZrYxOU2U2JLrmYO12qGl1VK4.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Hysteria!",
+  "tmdb": 224361,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Teacup",
+  "tmdb": 247721,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/cP5zuQvWAFrgWptS0iXvDI3iND.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Fight Night: The Million Dollar Heist",
+  "tmdb": 241485,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "MacGruber",
+  "tmdb": 107314,
+  "type": "series",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Rutherford Falls",
+  "tmdb": 93748,
+  "type": "series",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Angelyne",
+  "tmdb": 93751,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/dCSmm9aRal83ql1QbCujIKyoqGl.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Wolf Like Me",
+  "tmdb": 136738,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/8eZerQDLDkdvQ7vrv6Slkr36sHX.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Killing It",
+  "tmdb": 156878,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "A Friend of the Family",
+  "tmdb": 197434,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Apples Never Fall",
+  "tmdb": 222031,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Into the Spider-Verse",
+  "tmdb": 324857,
+  "type": "movie",
+  "year": 2018,
+  "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Homecoming",
+  "tmdb": 315635,
+  "type": "movie",
+  "year": 2017,
+  "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Hotel Transylvania",
+  "tmdb": 76492,
+  "type": "movie",
+  "year": 2012,
+  "poster_path": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Men in Black",
+  "tmdb": 607,
+  "type": "movie",
+  "year": 1997,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Once Upon a Time in Hollywood",
+  "tmdb": 466272,
+  "type": "movie",
+  "year": 2019,
+  "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Venom: Let There Be Carnage",
+  "tmdb": 580489,
+  "type": "movie",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Far From Home",
+  "tmdb": 429617,
+  "type": "movie",
+  "year": 2019,
+  "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Equalizer",
+  "tmdb": 156022,
+  "type": "movie",
+  "year": 2014,
+  "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Equalizer 3",
+  "tmdb": 926393,
+  "type": "movie",
+  "year": 2023,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Goosebumps",
+  "tmdb": 257445,
+  "type": "movie",
+  "year": 2015,
+  "poster_path": "/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Grown Ups",
+  "tmdb": 38365,
+  "type": "movie",
+  "year": 2010,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Little Women",
+  "tmdb": 331482,
+  "type": "movie",
+  "year": 2019,
+  "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Paul Blart: Mall Cop",
+  "tmdb": 14560,
+  "type": "movie",
+  "year": 2009,
+  "poster_path": "/A4zZv0Q1VKURFZFEl2vwjaE2q0g.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Social Network",
+  "tmdb": 37799,
+  "type": "movie",
+  "year": 2010,
+  "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "21 Jump Street",
+  "tmdb": 64688,
+  "type": "movie",
+  "year": 2012,
+  "poster_path": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Ghostbusters",
+  "tmdb": 620,
+  "type": "movie",
+  "year": 1984,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Cloudy with a Chance of Meatballs",
+  "tmdb": 22794,
+  "type": "movie",
+  "year": 2009,
+  "poster_path": "/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Jumanji: The Next Level",
+  "tmdb": 512200,
+  "type": "movie",
+  "year": 2019,
+  "poster_path": "/2RyMYPKmlUcT4BkVmPIOUV4X2iC.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Bad Boys: Ride or Die",
+  "tmdb": 573435,
+  "type": "movie",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Skyfall",
+  "tmdb": 37724,
+  "type": "movie",
+  "year": 2012,
+  "poster_path": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Superbad",
+  "tmdb": 8363,
+  "type": "movie",
+  "year": 2007,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Karate Kid",
+  "tmdb": 38575,
+  "type": "movie",
+  "year": 2010,
+  "poster_path": "/b1RBy3l297N0c7PHjlz35cClWju.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Bad Boys for Life",
+  "tmdb": 38700,
+  "type": "movie",
+  "year": 2020,
+  "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Ghostbusters: Afterlife",
+  "tmdb": 425909,
+  "type": "movie",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Zombieland",
+  "tmdb": 19908,
+  "type": "movie",
+  "year": 2009,
+  "poster_path": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man 2",
+  "tmdb": 558,
+  "type": "movie",
+  "year": 2004,
+  "poster_path": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg"
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Moneyball",
+  "tmdb": 60308,
+  "type": "movie",
+  "year": 2011,
+  "poster_path": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Wild Robot",
+  "tmdb": 1184918,
+  "type": "movie",
+  "year": 2024,
+  "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Despicable Me",
+  "tmdb": 20352,
+  "type": "movie",
+  "year": 2010,
+  "poster_path": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "How to Train Your Dragon",
+  "tmdb": 1087192,
+  "type": "movie",
+  "year": 2025,
+  "poster_path": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic World Rebirth",
+  "tmdb": 1234821,
+  "type": "movie",
+  "year": 2025,
+  "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Halloween",
+  "tmdb": 948,
+  "type": "movie",
+  "year": 2018,
+  "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Get Out",
+  "tmdb": 419430,
+  "type": "movie",
+  "year": 2017,
+  "poster_path": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Shrek 2",
+  "tmdb": 809,
+  "type": "movie",
+  "year": 2004,
+  "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Furious 7",
+  "tmdb": 168259,
+  "type": "movie",
+  "year": 2015,
+  "poster_path": "/wurKlC3VKUgcfsn0K51MJYEleS2.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "E.T.",
+  "tmdb": 601,
+  "type": "movie",
+  "year": 1982,
+  "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jaws",
+  "tmdb": 578,
+  "type": "movie",
+  "year": 1975,
+  "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic World",
+  "tmdb": 135397,
+  "type": "movie",
+  "year": 2015,
+  "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Wicked",
+  "tmdb": 402431,
+  "type": "movie",
+  "year": 2024,
+  "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Nosferatu",
+  "tmdb": 426063,
+  "type": "movie",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Grinch",
+  "tmdb": 360920,
+  "type": "movie",
+  "year": 2018,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Minions",
+  "tmdb": 211672,
+  "type": "movie",
+  "year": 2015,
+  "poster_path": "/dr02BdCNAUPVU07aOodwPYv6HCf.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Nope",
+  "tmdb": 762504,
+  "type": "movie",
+  "year": 2022,
+  "poster_path": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Sing 2",
+  "tmdb": 438695,
+  "type": "movie",
+  "year": 2021,
+  "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Twisters",
+  "tmdb": 718821,
+  "type": "movie",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic Park",
+  "tmdb": 329,
+  "type": "movie",
+  "year": 1993,
+  "poster_path": "/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Black Phone",
+  "tmdb": 756999,
+  "type": "movie",
+  "year": 2022,
+  "poster_path": "/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Us",
+  "tmdb": 458723,
+  "type": "movie",
+  "year": 2019,
+  "poster_path": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "M3GAN",
+  "tmdb": 536554,
+  "type": "movie",
+  "year": 2023,
+  "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Renfield",
+  "tmdb": 649609,
+  "type": "movie",
+  "year": 2023,
+  "poster_path": "/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Secret Life of Pets",
+  "tmdb": 328111,
+  "type": "movie",
+  "year": 2016,
+  "poster_path": "/g3Hms6AE174doeGR1gz5zX5sVsv.jpg"
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Fast Five",
+  "tmdb": 51497,
+  "type": "movie",
+  "year": 2011,
+  "poster_path": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg"
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Superman",
+  "tmdb": 1061474,
+  "type": "movie",
+  "year": 2025,
+  "poster_path": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg"
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Conjuring",
+  "tmdb": 138843,
+  "type": "movie",
+  "year": 2013,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Man of Steel",
+  "tmdb": 49521,
+  "type": "movie",
+  "year": 2013,
+  "poster_path": null
+ }
+]

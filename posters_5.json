@@ -1,0 +1,530 @@
+[
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Boruto: Naruto Next Generations",
+  "tmdb": 70881,
+  "type": "series",
+  "year": 2017,
+  "poster_path": "/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg"
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Dr. Stone",
+  "tmdb": 86031,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg"
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Cowboy Bebop",
+  "tmdb": 84469,
+  "type": "series",
+  "year": 1998,
+  "poster_path": "/lSsCxZ1dnjcB4cmXSgMJt5qunOu.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Handmaid's Tale",
+  "tmdb": 69478,
+  "type": "series",
+  "year": 2017,
+  "poster_path": "/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Bear",
+  "tmdb": 136315,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Veronica Mars",
+  "tmdb": 1432,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/vOdJETEueGgUqJR4UvwTdUoJhvO.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Only Murders in the Building",
+  "tmdb": 107113,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/1yjFVQZuW8aofZ5Cgol8iImsVFp.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Shogun",
+  "tmdb": 126308,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Solar Opposites",
+  "tmdb": 97645,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/nuBD4dlO7gfg4RhW0sS0pTeiYRc.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Nine Perfect Strangers",
+  "tmdb": 88989,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/oPcqsZIFHrv7HoGgFQnsGDiPulD.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Great",
+  "tmdb": 93812,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/tpz9UQ3hUwYufNcKWVW00FCjWyc.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Marvel's Runaways",
+  "tmdb": 67466,
+  "type": "series",
+  "year": 2017,
+  "poster_path": "/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Castle Rock",
+  "tmdb": 71116,
+  "type": "series",
+  "year": 2018,
+  "poster_path": "/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Rivals",
+  "tmdb": 208921,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Tell Me Lies",
+  "tmdb": 130464,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/tc5c5X1ZbJx5guaQUo1Xqt24S8z.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Old Man",
+  "tmdb": 111800,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/8Ec9zCZl2Go8WhDN1JWjjgQRlEi.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Wu-Tang: An American Saga",
+  "tmdb": 90870,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/kbZFfquhFg2EOUnKbZedWCs1kWO.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Artful Dodger",
+  "tmdb": 202208,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Normal People",
+  "tmdb": 89905,
+  "type": "series",
+  "year": 2020,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Death and Other Details",
+  "tmdb": 133813,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/2DEa0Bz3j9ZhPRdBmNyco38OR6p.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Pen15",
+  "tmdb": 85702,
+  "type": "series",
+  "year": 2019,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Dropout",
+  "tmdb": 122066,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/9SkOJF92FE0H1UXeOgLz7lAnoMb.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Say Nothing",
+  "tmdb": 245256,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Love, Victor",
+  "tmdb": 97186,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/pcT1vivabBnBk0tZgVBO1I8aK75.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "High Fidelity",
+  "tmdb": 96734,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/6OTZ66ZlJvOVb5A8ALiPzTD0n3H.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Catch-22",
+  "tmdb": 82744,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/1huTLz8UaEeOLJNwqMKCQs76Bl5.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "11.22.63",
+  "tmdb": 64464,
+  "type": "series",
+  "year": 2016,
+  "poster_path": "/1fH41ccMKvgDTbbcCxWWH6fznah.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Mrs. America",
+  "tmdb": 83605,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/82OxxE93DG0ArPj7JvOeNEBW8iT.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Path",
+  "tmdb": 65227,
+  "type": "series",
+  "year": 2016,
+  "poster_path": "/se3MZ1OVfIrZqFJkpm3kVnpkKpO.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Under the Bridge",
+  "tmdb": 211358,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Ramy",
+  "tmdb": 87382,
+  "type": "series",
+  "year": 2019,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Act",
+  "tmdb": 82883,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Interior Chinatown",
+  "tmdb": 212246,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/7lyvgPGYNNBt9EPyBotS7U1i1Kp.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Pam & Tommy",
+  "tmdb": 114925,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Dopesick",
+  "tmdb": 110695,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/qW8Gpddy29faTcD7VuyKjwLXbKU.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Dollface",
+  "tmdb": 84584,
+  "type": "series",
+  "year": 2019,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Fleishman Is in Trouble",
+  "tmdb": 156401,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Black Cake",
+  "tmdb": 230225,
+  "type": "series",
+  "year": 2023,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Shrill",
+  "tmdb": 85046,
+  "type": "series",
+  "year": 2019,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "We Were the Lucky Ones",
+  "tmdb": 200908,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/rRv6Lji53tXnP1h6UGYDQVx4FGg.jpg"
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Little Fires Everywhere",
+  "tmdb": 90257,
+  "type": "series",
+  "year": 2020,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Welcome to Chippendales",
+  "tmdb": 130567,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Looking for Alaska",
+  "tmdb": 88640,
+  "type": "series",
+  "year": 2019,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Day of the Jackal",
+  "tmdb": 222766,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Queer as Folk",
+  "tmdb": 2902,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/mmhL30PonbrrpEOQH5OdyUguyMg.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Ted",
+  "tmdb": 201834,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Traitors",
+  "tmdb": 215943,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/ulYR2NMKwnWoRWiw3KnFpaT2qjj.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Saved by the Bell",
+  "tmdb": 4345,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/9YC576fs6XQR2pfPDJn4kcmG8T5.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Poker Face",
+  "tmdb": 120998,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Bel-Air",
+  "tmdb": 107365,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/j8tbXWXrL15RucA6H4khq87dEXa.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Girls5eva",
+  "tmdb": 100350,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/1RplQ2ooky3kONomTNhsptZxqAV.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Twisted Metal",
+  "tmdb": 133748,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Dr. Death",
+  "tmdb": 93749,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/pNnmxTSc2ixac4xk8T80wchec0r.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Continental",
+  "tmdb": 72710,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/2urdwqEL9FRkGMKAkhfvWTALG00.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Based on a True Story",
+  "tmdb": 197373,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/5xPLk78TFStBi1dQAlG2mnoSK60.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Tattooist of Auschwitz",
+  "tmdb": 222405,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Long Bright River",
+  "tmdb": 244628,
+  "type": "series",
+  "year": 2025,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "All Her Fault",
+  "tmdb": 246386,
+  "type": "series",
+  "year": 2025,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Mrs. Davis",
+  "tmdb": 197548,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/tMr3mFACLuL4J7AEj8yDwcf5rnr.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "One of Us Is Lying",
+  "tmdb": 118958,
+  "type": "series",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Vampire Academy",
+  "tmdb": 125940,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Those About to Die",
+  "tmdb": 218589,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Duster",
+  "tmdb": 113959,
+  "type": "series",
+  "year": 2025,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Resort",
+  "tmdb": 194728,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Brave New World",
+  "tmdb": 93289,
+  "type": "series",
+  "year": 2020,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Bupkis",
+  "tmdb": 208953,
+  "type": "series",
+  "year": 2023,
+  "poster_path": null
+ }
+]

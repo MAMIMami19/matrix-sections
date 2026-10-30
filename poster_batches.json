@@ -1,0 +1,3670 @@
+[
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Mindhunter",
+  "tmdb": 67744,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Monster: The Jeffrey Dahmer Story",
+  "tmdb": 30981,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Witcher",
+  "tmdb": 71912,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Wednesday",
+  "tmdb": 119051,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "You",
+  "tmdb": 78191,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Cobra Kai",
+  "tmdb": 77169,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Bridgerton",
+  "tmdb": 91239,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "House of Cards",
+  "tmdb": 1425,
+  "type": "series",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Elite",
+  "tmdb": 76669,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Dark",
+  "tmdb": 70523,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Money Heist",
+  "tmdb": 71446,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Ozark",
+  "tmdb": 69740,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Big Mouth",
+  "tmdb": 74204,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Narcos",
+  "tmdb": 63351,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "13 Reasons Why",
+  "tmdb": 66788,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Umbrella Academy",
+  "tmdb": 75006,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Sandman",
+  "tmdb": 90802,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Vikings: Valhalla",
+  "tmdb": 116135,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Queen's Gambit",
+  "tmdb": 87739,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Formula 1: Drive to Survive",
+  "tmdb": 87083,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Disenchantment",
+  "tmdb": 73021,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Love Is Blind",
+  "tmdb": 99353,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Dragon Prince",
+  "tmdb": 81046,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Haunting of Hill House",
+  "tmdb": 72844,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Dead to Me",
+  "tmdb": 81357,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Castlevania",
+  "tmdb": 71024,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Too Hot to Handle",
+  "tmdb": 102085,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Tiger King",
+  "tmdb": 100698,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The End of the F***ing World",
+  "tmdb": 74577,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Inside Job",
+  "tmdb": 97727,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Kingdom",
+  "tmdb": 61427,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "F Is for Family",
+  "tmdb": 63522,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "After Life",
+  "tmdb": 79410,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Circle",
+  "tmdb": 97083,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Inventing Anna",
+  "tmdb": 95665,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Selling Sunset",
+  "tmdb": 87826,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Young Royals",
+  "tmdb": 125910,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Unbelievable",
+  "tmdb": 91275,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Cable Girls",
+  "tmdb": 71225,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Russian Doll",
+  "tmdb": 84977,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Queer Eye",
+  "tmdb": 76922,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Watcher",
+  "tmdb": 210232,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "When They See Us",
+  "tmdb": 81355,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Our Planet",
+  "tmdb": 83880,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Politician",
+  "tmdb": 83127,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "Sacred Games",
+  "tmdb": 79352,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_series",
+  "name": "The Last Dance",
+  "tmdb": 79525,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "KPop Demon Hunters",
+  "tmdb": 803796,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Leave the World Behind",
+  "tmdb": 726209,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Glass Onion",
+  "tmdb": 661374,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Back in Action",
+  "tmdb": 993710,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Mitchells vs. the Machines",
+  "tmdb": 501929,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Havoc",
+  "tmdb": 668489,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Society of the Snow",
+  "tmdb": 906126,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Don't Look Up",
+  "tmdb": 646380,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Sea Beast",
+  "tmdb": 560057,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Irishman",
+  "tmdb": 398978,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Extraction 2",
+  "tmdb": 697843,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Red Notice",
+  "tmdb": 512195,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Slumberland",
+  "tmdb": 668461,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Extraction",
+  "tmdb": 545609,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Atlas",
+  "tmdb": 614933,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Adam Project",
+  "tmdb": 696806,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "To All the Boys I've Loved Before",
+  "tmdb": 466282,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Bird Box",
+  "tmdb": 405774,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Electric State",
+  "tmdb": 777443,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Gray Man",
+  "tmdb": 725201,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Killer",
+  "tmdb": 800158,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Klaus",
+  "tmdb": 508965,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "6 Underground",
+  "tmdb": 509967,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Harder They Fall",
+  "tmdb": 618162,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Carry-On",
+  "tmdb": 1005331,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Wallace & Gromit: Vengeance Most Fowl",
+  "tmdb": 929204,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Platform",
+  "tmdb": 619264,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Rebel Moon",
+  "tmdb": 848326,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Hit Man",
+  "tmdb": 974635,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Wish Dragon",
+  "tmdb": 550205,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Army of the Dead",
+  "tmdb": 503736,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Enola Holmes",
+  "tmdb": 497582,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Guillermo del Toro's Pinocchio",
+  "tmdb": 555604,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Day Shift",
+  "tmdb": 755566,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Marriage Story",
+  "tmdb": 492188,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Roma",
+  "tmdb": 426426,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Murder Mystery",
+  "tmdb": 514999,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "The Old Guard",
+  "tmdb": 547016,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Orion and the Dark",
+  "tmdb": 1139829,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_netflix_movie",
+  "name": "Enola Holmes 2",
+  "tmdb": 829280,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Daredevil: Born Again",
+  "tmdb": 202555,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Goosebumps",
+  "tmdb": 5835,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Moon Knight",
+  "tmdb": 92749,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Falcon and the Winter Soldier",
+  "tmdb": 88396,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Monsters at Work",
+  "tmdb": 90461,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Ahsoka",
+  "tmdb": 114461,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "She-Hulk: Attorney at Law",
+  "tmdb": 92783,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Secret Invasion",
+  "tmdb": 114472,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "High School Musical: The Musical: The Series",
+  "tmdb": 85801,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Book of Boba Fett",
+  "tmdb": 115036,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Wonderful World of Mickey Mouse",
+  "tmdb": 109930,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Obi-Wan Kenobi",
+  "tmdb": 92830,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Proud Family: Louder and Prouder",
+  "tmdb": 125438,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Marvel Zombies",
+  "tmdb": 138505,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Acolyte",
+  "tmdb": 114479,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Doogie Kamealoha, M.D.",
+  "tmdb": 130372,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Ms. Marvel",
+  "tmdb": 92782,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Echo",
+  "tmdb": 122226,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Mysterious Benedict Society",
+  "tmdb": 104359,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "National Treasure: Edge of History",
+  "tmdb": 137437,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Turner & Hooch",
+  "tmdb": 114503,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Big Shot",
+  "tmdb": 96716,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Star Wars: Skeleton Crew",
+  "tmdb": 202879,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Mighty Ducks: Game Changers",
+  "tmdb": 114621,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "The Right Stuff",
+  "tmdb": 93786,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "American Born Chinese",
+  "tmdb": 135615,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_disney_series",
+  "name": "Willow",
+  "tmdb": 111837,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Perry Mason",
+  "tmdb": 4177,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Curb Your Enthusiasm",
+  "tmdb": 4546,
+  "type": "series",
+  "year": 2000
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Hacks",
+  "tmdb": 124101,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Six Feet Under",
+  "tmdb": 1274,
+  "type": "series",
+  "year": 2001
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Silicon Valley",
+  "tmdb": 60573,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Veep",
+  "tmdb": 2947,
+  "type": "series",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Chernobyl",
+  "tmdb": 87108,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Band of Brothers",
+  "tmdb": 4613,
+  "type": "series",
+  "year": 2001
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Gilded Age",
+  "tmdb": 81723,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Deadwood",
+  "tmdb": 1406,
+  "type": "series",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Girls",
+  "tmdb": 42282,
+  "type": "series",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Righteous Gemstones",
+  "tmdb": 82782,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "His Dark Materials",
+  "tmdb": 68507,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Industry",
+  "tmdb": 90812,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Barry",
+  "tmdb": 73107,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Insecure",
+  "tmdb": 67883,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Ballers",
+  "tmdb": 62704,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "And Just Like That...",
+  "tmdb": 116450,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Deuce",
+  "tmdb": 65817,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Big Little Lies",
+  "tmdb": 66292,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Winning Time",
+  "tmdb": 124067,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Nevers",
+  "tmdb": 80828,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Raised by Wolves",
+  "tmdb": 85723,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Pacific",
+  "tmdb": 16997,
+  "type": "series",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "House Party",
+  "tmdb": 16094,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Kimi",
+  "tmdb": 800510,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Into the Storm",
+  "tmdb": 216282,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Fallout",
+  "tmdb": 795514,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Survivor",
+  "tmdb": 606870,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "No Sudden Move",
+  "tmdb": 649409,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Hemingway & Gellhorn",
+  "tmdb": 111839,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Wizard of Lies",
+  "tmdb": 363992,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Father of the Bride",
+  "tmdb": 11846,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Moonshot",
+  "tmdb": 767825,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Behind the Candelabra",
+  "tmdb": 119675,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "8-Bit Christmas",
+  "tmdb": 802217,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Parenting",
+  "tmdb": 850920,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Warm Springs",
+  "tmdb": 46661,
+  "type": "movie",
+  "year": 2005
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "A Christmas Story Christmas",
+  "tmdb": 929340,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Something the Lord Made",
+  "tmdb": 20544,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Muhammad Ali's Greatest Fight",
+  "tmdb": 196355,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Confirmation",
+  "tmdb": 348390,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Deadwood: The Movie",
+  "tmdb": 538225,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Fahrenheit 451",
+  "tmdb": 1714,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Bad Education",
+  "tmdb": 530723,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Temple Grandin",
+  "tmdb": 33602,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "All the Way",
+  "tmdb": 347123,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Too Big to Fail",
+  "tmdb": 65034,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Let Them All Talk",
+  "tmdb": 623856,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "You Don't Know Jack",
+  "tmdb": 36950,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Normal Heart",
+  "tmdb": 113833,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Immortal Life of Henrietta Lacks",
+  "tmdb": 424600,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Dark Matter",
+  "tmdb": 196322,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Foundation",
+  "tmdb": 93740,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Masters of the Air",
+  "tmdb": 46518,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Invasion",
+  "tmdb": 127235,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Last Thing He Told Me",
+  "tmdb": 201289,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Loot",
+  "tmdb": 197449,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Mythic Quest",
+  "tmdb": 94951,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Sugar",
+  "tmdb": 203744,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Mosquito Coast",
+  "tmdb": 93716,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Servant",
+  "tmdb": 88055,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Lessons in Chemistry",
+  "tmdb": 117303,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Franklin",
+  "tmdb": 1458,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Manhunt",
+  "tmdb": 72597,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Dickinson",
+  "tmdb": 89901,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Truth Be Told",
+  "tmdb": 80054,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Acapulco",
+  "tmdb": 133727,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Platonic",
+  "tmdb": 112211,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Bad Monkey",
+  "tmdb": 130853,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Buccaneers",
+  "tmdb": 12033,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Home Before Dark",
+  "tmdb": 98161,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Trying",
+  "tmdb": 98177,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Palm Royale",
+  "tmdb": 157367,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Presumed Innocent",
+  "tmdb": 156933,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Smoke",
+  "tmdb": 215995,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Constellation",
+  "tmdb": 197125,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Surface",
+  "tmdb": 127641,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Summer I Turned Pretty",
+  "tmdb": 194766,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Bosch",
+  "tmdb": 60585,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Wheel of Time",
+  "tmdb": 71914,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Jack Ryan",
+  "tmdb": 73375,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Fallout",
+  "tmdb": 106379,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Man in the High Castle",
+  "tmdb": 62017,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Goliath",
+  "tmdb": 67384,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Marvelous Mrs. Maisel",
+  "tmdb": 70796,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Sneaky Pete",
+  "tmdb": 64199,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Citadel",
+  "tmdb": 114922,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Boys Presents: Diabolical",
+  "tmdb": 152483,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Cross",
+  "tmdb": 213306,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Bosch: Legacy",
+  "tmdb": 153657,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Good Omens",
+  "tmdb": 71915,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Carnival Row",
+  "tmdb": 90027,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Transparent",
+  "tmdb": 61406,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Mozart in the Jungle",
+  "tmdb": 61744,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Hunters",
+  "tmdb": 79622,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Peripheral",
+  "tmdb": 95403,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Hanna",
+  "tmdb": 54155,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Fleabag",
+  "tmdb": 67070,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Tick",
+  "tmdb": 67487,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Butterfly",
+  "tmdb": 227114,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Rig",
+  "tmdb": 112581,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Them",
+  "tmdb": 120462,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Modern Love",
+  "tmdb": 91602,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Utopia",
+  "tmdb": 78903,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Devil's Hour",
+  "tmdb": 157061,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "We Were Liars",
+  "tmdb": 215522,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Wilds",
+  "tmdb": 113367,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Dead Ringers",
+  "tmdb": 130987,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "With Love",
+  "tmdb": 126914,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "MobLand",
+  "tmdb": 247718,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Shameless",
+  "tmdb": 34307,
+  "type": "series",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Frasier",
+  "tmdb": 3452,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Tracker",
+  "tmdb": 211288,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Homeland",
+  "tmdb": 1407,
+  "type": "series",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Ghosts",
+  "tmdb": 126027,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Billions",
+  "tmdb": 62852,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Fugitive",
+  "tmdb": 10083,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Elsbeth",
+  "tmdb": 226285,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Twilight Zone",
+  "tmdb": 6357,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Fire Country",
+  "tmdb": 202297,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Landman",
+  "tmdb": 157741,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Tales of the Teenage Mutant Ninja Turtles",
+  "tmdb": 231394,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Chi",
+  "tmdb": 72071,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Matlock",
+  "tmdb": 2093,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Yellowjackets",
+  "tmdb": 117488,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Ray Donovan",
+  "tmdb": 1423,
+  "type": "series",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Rock Paper Scissors",
+  "tmdb": 204024,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Dora",
+  "tmdb": 236234,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Dexter: Resurrection",
+  "tmdb": 259909,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Star Trek: Lower Decks",
+  "tmdb": 85948,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Halo",
+  "tmdb": 52814,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "NCIS: Origins",
+  "tmdb": 243006,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Thundermans: Undercover",
+  "tmdb": 254653,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Why Women Kill",
+  "tmdb": 87428,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Watson",
+  "tmdb": 242867,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Star Trek: Prodigy",
+  "tmdb": 106393,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Fatal Attraction",
+  "tmdb": 138455,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Top Gun: Maverick",
+  "tmdb": 361743,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Godfather",
+  "tmdb": 238,
+  "type": "movie",
+  "year": 1972
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Forrest Gump",
+  "tmdb": 13,
+  "type": "movie",
+  "year": 1994
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Gladiator",
+  "tmdb": 98,
+  "type": "movie",
+  "year": 2000
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "No Country for Old Men",
+  "tmdb": 6977,
+  "type": "movie",
+  "year": 2007
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Shutter Island",
+  "tmdb": 11324,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Godfather Part II",
+  "tmdb": 240,
+  "type": "movie",
+  "year": 1974
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Wolf of Wall Street",
+  "tmdb": 106646,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Sonic the Hedgehog 3",
+  "tmdb": 939243,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Transformers: Rise of the Beasts",
+  "tmdb": 667538,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible \u2013 The Final Reckoning",
+  "tmdb": 575265,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Scream",
+  "tmdb": 4232,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "There Will Be Blood",
+  "tmdb": 7345,
+  "type": "movie",
+  "year": 2007
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Saving Private Ryan",
+  "tmdb": 857,
+  "type": "movie",
+  "year": 1998
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Dungeons & Dragons: Honor Among Thieves",
+  "tmdb": 493529,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Rango",
+  "tmdb": 44896,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mean Girls",
+  "tmdb": 10625,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Top Gun",
+  "tmdb": 744,
+  "type": "movie",
+  "year": 1986
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Curious Case of Benjamin Button",
+  "tmdb": 4922,
+  "type": "movie",
+  "year": 2008
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible \u2013 Dead Reckoning",
+  "tmdb": 575264,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Gladiator II",
+  "tmdb": 558449,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "A Quiet Place",
+  "tmdb": 447332,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "G.I. Joe: The Rise of Cobra",
+  "tmdb": 14869,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "PAW Patrol: The Mighty Movie",
+  "tmdb": 893723,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "A Quiet Place Part II",
+  "tmdb": 520763,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Scream VI",
+  "tmdb": 934433,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Sonic the Hedgehog",
+  "tmdb": 454626,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "A Quiet Place: Day One",
+  "tmdb": 762441,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Sonic the Hedgehog 2",
+  "tmdb": 675353,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Smile 2",
+  "tmdb": 1100782,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Adventures of Tintin",
+  "tmdb": 17578,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "G.I. Joe: Retaliation",
+  "tmdb": 72559,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible \u2013 Fallout",
+  "tmdb": 353081,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "PAW Patrol: The Movie",
+  "tmdb": 675445,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible",
+  "tmdb": 954,
+  "type": "movie",
+  "year": 1996
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Smile",
+  "tmdb": 882598,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Transformers One",
+  "tmdb": 698687,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Babylon",
+  "tmdb": 615777,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Star Trek Beyond",
+  "tmdb": 188927,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Star Trek",
+  "tmdb": 13475,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Suits",
+  "tmdb": 37680,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Crystal",
+  "tmdb": 61339,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Aroussa Beirut",
+  "tmdb": 93411,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Ana",
+  "tmdb": 102625,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Doubt",
+  "tmdb": 68950,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Mawdou3 Aeli",
+  "tmdb": 139471,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "2020",
+  "tmdb": 94423,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Esh Esh",
+  "tmdb": 260605,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Le'bet Newton",
+  "tmdb": 121487,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Beit El Rifai",
+  "tmdb": 244676,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Zelzal",
+  "tmdb": 88929,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Faten Amal Harbi",
+  "tmdb": 195589,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Kha'en",
+  "tmdb": 238433,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "El Nemr",
+  "tmdb": 119768,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Bimbo",
+  "tmdb": 152391,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Sikka Safar",
+  "tmdb": 196231,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Zodiac",
+  "tmdb": 337844,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Harb Ahliya",
+  "tmdb": 121534,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Sarab",
+  "tmdb": 259525,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "The Platform",
+  "tmdb": 108948,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Welad El Shams",
+  "tmdb": 271790,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Seham Al Mareqa",
+  "tmdb": 84289,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Qasr El Nil",
+  "tmdb": 121645,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dawa'i El Safar",
+  "tmdb": 251621,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Rashash",
+  "tmdb": 128486,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Shatti Ya Beirut",
+  "tmdb": 139618,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dof'at London",
+  "tmdb": 211352,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dantel",
+  "tmdb": 49510,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dafat Beirut",
+  "tmdb": 111737,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Kharazeh Zarqa",
+  "tmdb": 112872,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Gharib",
+  "tmdb": 225083,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Thaman",
+  "tmdb": 52724,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Death Note",
+  "tmdb": 13916,
+  "type": "series",
+  "year": 2006
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Fairy Tail",
+  "tmdb": 46261,
+  "type": "series",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Sakamoto Days",
+  "tmdb": 207332,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Tower of God",
+  "tmdb": 97860,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "One Piece",
+  "tmdb": 111110,
+  "type": "series",
+  "year": 1999
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Steins;Gate",
+  "tmdb": 42509,
+  "type": "series",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Boruto: Naruto Next Generations",
+  "tmdb": 70881,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Dr. Stone",
+  "tmdb": 86031,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Cowboy Bebop",
+  "tmdb": 84469,
+  "type": "series",
+  "year": 1998
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Handmaid's Tale",
+  "tmdb": 69478,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Bear",
+  "tmdb": 136315,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Veronica Mars",
+  "tmdb": 1432,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Only Murders in the Building",
+  "tmdb": 107113,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Shogun",
+  "tmdb": 126308,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Solar Opposites",
+  "tmdb": 97645,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Nine Perfect Strangers",
+  "tmdb": 88989,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Great",
+  "tmdb": 93812,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Marvel's Runaways",
+  "tmdb": 67466,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Castle Rock",
+  "tmdb": 71116,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Rivals",
+  "tmdb": 208921,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Tell Me Lies",
+  "tmdb": 130464,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Old Man",
+  "tmdb": 111800,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Wu-Tang: An American Saga",
+  "tmdb": 90870,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Artful Dodger",
+  "tmdb": 202208,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Normal People",
+  "tmdb": 89905,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Death and Other Details",
+  "tmdb": 133813,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Pen15",
+  "tmdb": 85702,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Dropout",
+  "tmdb": 122066,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Say Nothing",
+  "tmdb": 245256,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Love, Victor",
+  "tmdb": 97186,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "High Fidelity",
+  "tmdb": 96734,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Catch-22",
+  "tmdb": 82744,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "11.22.63",
+  "tmdb": 64464,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Mrs. America",
+  "tmdb": 83605,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Path",
+  "tmdb": 65227,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Under the Bridge",
+  "tmdb": 211358,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Ramy",
+  "tmdb": 87382,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Act",
+  "tmdb": 82883,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Interior Chinatown",
+  "tmdb": 212246,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Pam & Tommy",
+  "tmdb": 114925,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Dopesick",
+  "tmdb": 110695,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Dollface",
+  "tmdb": 84584,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Fleishman Is in Trouble",
+  "tmdb": 156401,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Black Cake",
+  "tmdb": 230225,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Shrill",
+  "tmdb": 85046,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "We Were the Lucky Ones",
+  "tmdb": 200908,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Little Fires Everywhere",
+  "tmdb": 90257,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Welcome to Chippendales",
+  "tmdb": 130567,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Looking for Alaska",
+  "tmdb": 88640,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Day of the Jackal",
+  "tmdb": 222766,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Queer as Folk",
+  "tmdb": 2902,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Ted",
+  "tmdb": 201834,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Traitors",
+  "tmdb": 215943,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Saved by the Bell",
+  "tmdb": 4345,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Poker Face",
+  "tmdb": 120998,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Bel-Air",
+  "tmdb": 107365,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Girls5eva",
+  "tmdb": 100350,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Twisted Metal",
+  "tmdb": 133748,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Dr. Death",
+  "tmdb": 93749,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Continental",
+  "tmdb": 72710,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Based on a True Story",
+  "tmdb": 197373,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Tattooist of Auschwitz",
+  "tmdb": 222405,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Long Bright River",
+  "tmdb": 244628,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "All Her Fault",
+  "tmdb": 246386,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Mrs. Davis",
+  "tmdb": 197548,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "One of Us Is Lying",
+  "tmdb": 118958,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Vampire Academy",
+  "tmdb": 125940,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Those About to Die",
+  "tmdb": 218589,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Duster",
+  "tmdb": 113959,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Resort",
+  "tmdb": 194728,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Brave New World",
+  "tmdb": 93289,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Bupkis",
+  "tmdb": 208953,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Happy Face",
+  "tmdb": 243217,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Hysteria!",
+  "tmdb": 224361,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Teacup",
+  "tmdb": 247721,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Fight Night: The Million Dollar Heist",
+  "tmdb": 241485,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "MacGruber",
+  "tmdb": 107314,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Rutherford Falls",
+  "tmdb": 93748,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Angelyne",
+  "tmdb": 93751,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Wolf Like Me",
+  "tmdb": 136738,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Killing It",
+  "tmdb": 156878,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "A Friend of the Family",
+  "tmdb": 197434,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Apples Never Fall",
+  "tmdb": 222031,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Into the Spider-Verse",
+  "tmdb": 324857,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Homecoming",
+  "tmdb": 315635,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Hotel Transylvania",
+  "tmdb": 76492,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Men in Black",
+  "tmdb": 607,
+  "type": "movie",
+  "year": 1997
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Once Upon a Time in Hollywood",
+  "tmdb": 466272,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Venom: Let There Be Carnage",
+  "tmdb": 580489,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Far From Home",
+  "tmdb": 429617,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Equalizer",
+  "tmdb": 156022,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Equalizer 3",
+  "tmdb": 926393,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Goosebumps",
+  "tmdb": 257445,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Grown Ups",
+  "tmdb": 38365,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Little Women",
+  "tmdb": 331482,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Paul Blart: Mall Cop",
+  "tmdb": 14560,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Social Network",
+  "tmdb": 37799,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "21 Jump Street",
+  "tmdb": 64688,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Ghostbusters",
+  "tmdb": 620,
+  "type": "movie",
+  "year": 1984
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Cloudy with a Chance of Meatballs",
+  "tmdb": 22794,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Jumanji: The Next Level",
+  "tmdb": 512200,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Bad Boys: Ride or Die",
+  "tmdb": 573435,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Skyfall",
+  "tmdb": 37724,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Superbad",
+  "tmdb": 8363,
+  "type": "movie",
+  "year": 2007
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Karate Kid",
+  "tmdb": 38575,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Bad Boys for Life",
+  "tmdb": 38700,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Ghostbusters: Afterlife",
+  "tmdb": 425909,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Zombieland",
+  "tmdb": 19908,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man 2",
+  "tmdb": 558,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Moneyball",
+  "tmdb": 60308,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Wild Robot",
+  "tmdb": 1184918,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Despicable Me",
+  "tmdb": 20352,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "How to Train Your Dragon",
+  "tmdb": 1087192,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic World Rebirth",
+  "tmdb": 1234821,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Halloween",
+  "tmdb": 948,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Get Out",
+  "tmdb": 419430,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Shrek 2",
+  "tmdb": 809,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Furious 7",
+  "tmdb": 168259,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "E.T.",
+  "tmdb": 601,
+  "type": "movie",
+  "year": 1982
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jaws",
+  "tmdb": 578,
+  "type": "movie",
+  "year": 1975
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic World",
+  "tmdb": 135397,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Wicked",
+  "tmdb": 402431,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Nosferatu",
+  "tmdb": 426063,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Grinch",
+  "tmdb": 360920,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Minions",
+  "tmdb": 211672,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Nope",
+  "tmdb": 762504,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Sing 2",
+  "tmdb": 438695,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Twisters",
+  "tmdb": 718821,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic Park",
+  "tmdb": 329,
+  "type": "movie",
+  "year": 1993
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Black Phone",
+  "tmdb": 756999,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Us",
+  "tmdb": 458723,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "M3GAN",
+  "tmdb": 536554,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Renfield",
+  "tmdb": 649609,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Secret Life of Pets",
+  "tmdb": 328111,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Fast Five",
+  "tmdb": 51497,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Superman",
+  "tmdb": 1061474,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Conjuring",
+  "tmdb": 138843,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Man of Steel",
+  "tmdb": 49521,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Ready Player One",
+  "tmdb": 333339,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Furiosa",
+  "tmdb": 786892,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Notebook",
+  "tmdb": 11036,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Gremlins",
+  "tmdb": 927,
+  "type": "movie",
+  "year": 1984
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "It",
+  "tmdb": 346364,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Hangover",
+  "tmdb": 18785,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Tenet",
+  "tmdb": 577922,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Beetlejuice Beetlejuice",
+  "tmdb": 917496,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Dunkirk",
+  "tmdb": 374720,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Lego Movie",
+  "tmdb": 137106,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Wonder Woman",
+  "tmdb": 297762,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Gravity",
+  "tmdb": 49047,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "A Star Is Born",
+  "tmdb": 332562,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Aquaman",
+  "tmdb": 297802,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "American Sniper",
+  "tmdb": 190859,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Goonies",
+  "tmdb": 9340,
+  "type": "movie",
+  "year": 1985
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Argo",
+  "tmdb": 68734,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Crazy Rich Asians",
+  "tmdb": 455207,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Restart",
+  "tmdb": 337277,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Watar Hassas",
+  "tmdb": 260695,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Ein Sehreya",
+  "tmdb": 301097,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Al Noss",
+  "tmdb": 276068,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Faqret El Saher",
+  "tmdb": 262627,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Al Ghawy",
+  "tmdb": 262982,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Qahwet El Mahata",
+  "tmdb": 278067,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Wuhoosh",
+  "tmdb": 277991,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Deebo",
+  "tmdb": 265212,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Fan El Harb",
+  "tmdb": 309032,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Manaa",
+  "tmdb": 302770,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "El Nos El Tani",
+  "tmdb": 313123,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Little Steps",
+  "tmdb": 304606,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "The Spider",
+  "tmdb": 251753,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_yango_series",
+  "name": "Kan Ya Makan",
+  "tmdb": 155390,
+  "type": "series",
+  "year": 2026
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Ekhteyar 3",
+  "tmdb": 65336,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Ekhteyar 2",
+  "tmdb": 81044,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "The Master",
+  "tmdb": 17324,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Prince",
+  "tmdb": 102041,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "El Fetewa",
+  "tmdb": 101838,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Special Case",
+  "tmdb": 242594,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Valentino",
+  "tmdb": 94047,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Hagma Mortada",
+  "tmdb": 121383,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "At the Building's Door",
+  "tmdb": 236064,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Gaafar El Omda",
+  "tmdb": 218739,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "With Evidence",
+  "tmdb": 237074,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "We Beinana Mia'd",
+  "tmdb": 217952,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Mandatory Path",
+  "tmdb": 246245,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Safha Beida",
+  "tmdb": 271076,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Kheyanet Ahd",
+  "tmdb": 102443,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Sa'atu we Tarikhu",
+  "tmdb": 278551,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "Sultana El Moez",
+  "tmdb": 102415,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_watchit_series",
+  "name": "House Arrest",
+  "tmdb": 298679,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Welad Rizk 2",
+  "tmdb": 1234139,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Kenz 2",
+  "tmdb": 1234139,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Fil El Azraq 3",
+  "tmdb": 1658657,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Siko Siko Film",
+  "tmdb": 1316416,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Sett",
+  "tmdb": 1246595,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Welad Rizk",
+  "tmdb": 362739,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Gawahergy",
+  "tmdb": 917242,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Taslim Ahali",
+  "tmdb": 973921,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "Shalabi",
+  "tmdb": 1032785,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Kenz",
+  "tmdb": 699930,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_watchit_movie",
+  "name": "El Malhad",
+  "tmdb": 975024,
+  "type": "movie",
+  "year": 2024
+ }
+]

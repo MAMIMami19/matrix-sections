@@ -1,1 +1,454 @@
-{"metas": [{"id": "tmdb:66732", "type": "series", "name": "Stranger Things", "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg", "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.", "genres": [], "releaseInfo": "2016"}, {"id": "tmdb:93405", "type": "series", "name": "Squid Game", "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg", "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:65494", "type": "series", "name": "The Crown", "poster": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg", "description": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.", "genres": [], "releaseInfo": "2016"}, {"id": "tmdb:1424", "type": "series", "name": "Orange Is the New Black", "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg", "description": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.", "genres": [], "releaseInfo": "2013"}, {"id": "tmdb:42009", "type": "series", "name": "Black Mirror", "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg", "description": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.", "genres": [], "releaseInfo": "2011"}, {"id": "tmdb:236235", "type": "series", "name": "The Gentlemen", "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg", "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.", "genres": [], "releaseInfo": "2024"}, {"id": "tmdb:81356", "type": "series", "name": "Sex Education", "poster": "https://image.tmdb.org/t/p/w500/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg", "description": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.", "genres": [], "releaseInfo": "2019"}, {"id": "tmdb:96677", "type": "series", "name": "Lupin", "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg", "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:203857", "type": "series", "name": "The Diplomat", "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg", "description": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:61222", "type": "series", "name": "BoJack Horseman", "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg", "description": "Meet the most beloved sitcom horse of the '90s , 20 years later. He's a curmudgeon with a heart of...not quite gold...but something like gold. Copper?", "genres": [], "releaseInfo": "2014"}, {"id": "tmdb:94605", "type": "series", "name": "Arcane", "poster": "https://image.tmdb.org/t/p/w500/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg", "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:105248", "type": "series", "name": "Cyberpunk: Edgerunners", "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg", "description": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:63174", "type": "series", "name": "Lucifer", "poster": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg", "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.", "genres": [], "releaseInfo": "2016"}]}
+{
+ "metas": [
+  {
+   "id": "tmdb:66732",
+   "type": "series",
+   "name": "Stranger Things",
+   "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+   "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:93405",
+   "type": "series",
+   "name": "Squid Game",
+   "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+   "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:65494",
+   "type": "series",
+   "name": "The Crown",
+   "poster": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg",
+   "description": "The gripping, decades-spanning inside story of Her Majesty Queen Elizabeth II and the Prime Ministers who shaped Britain's post-war destiny. \n\nThe Crown tells the inside story of two of the most famous addresses in the world – Buckingham Palace and 10 Downing Street – and the intrigues, love lives and machinations behind the great events that shaped the second half of the 20th century. Two houses, two courts, one Crown.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:1424",
+   "type": "series",
+   "name": "Orange Is the New Black",
+   "poster": "https://image.tmdb.org/t/p/w500/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+   "description": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+   "genres": [],
+   "releaseInfo": "2013"
+  },
+  {
+   "id": "tmdb:42009",
+   "type": "series",
+   "name": "Black Mirror",
+   "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+   "description": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+   "genres": [],
+   "releaseInfo": "2011"
+  },
+  {
+   "id": "tmdb:236235",
+   "type": "series",
+   "name": "The Gentlemen",
+   "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+   "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:81356",
+   "type": "series",
+   "name": "Sex Education",
+   "poster": "https://image.tmdb.org/t/p/w500/bc3bmTdnoKcRuO9xdQKgAbB7Y9Z.jpg",
+   "description": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:96677",
+   "type": "series",
+   "name": "Lupin",
+   "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+   "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:203857",
+   "type": "series",
+   "name": "The Diplomat",
+   "poster": "https://image.tmdb.org/t/p/w500/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
+   "description": "Amid an international crisis, a US diplomat contends with her high-profile job as ambassador to the UK and her strained marriage to a political star.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:61222",
+   "type": "series",
+   "name": "BoJack Horseman",
+   "poster": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+   "description": "Meet the most beloved sitcom horse of the '90s , 20 years later. He's a curmudgeon with a heart of...not quite gold...but something like gold. Copper?",
+   "genres": [],
+   "releaseInfo": "2014"
+  },
+  {
+   "id": "tmdb:94605",
+   "type": "series",
+   "name": "Arcane",
+   "poster": "https://image.tmdb.org/t/p/w500/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg",
+   "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:105248",
+   "type": "series",
+   "name": "Cyberpunk: Edgerunners",
+   "poster": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+   "description": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:63174",
+   "type": "series",
+   "name": "Lucifer",
+   "poster": "https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+   "description": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+   "genres": [],
+   "releaseInfo": "2016"
+  },
+  {
+   "id": "tmdb:67744",
+   "type": "series",
+   "name": "Mindhunter",
+   "poster": "https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:113988",
+   "type": "series",
+   "name": "Monster: The Jeffrey Dahmer Story",
+   "poster": "https://image.tmdb.org/t/p/w500/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:71912",
+   "type": "series",
+   "name": "The Witcher",
+   "poster": "https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:119051",
+   "type": "series",
+   "name": "Wednesday",
+   "poster": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:78191",
+   "type": "series",
+   "name": "You",
+   "poster": "https://image.tmdb.org/t/p/w500/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:77169",
+   "type": "series",
+   "name": "Cobra Kai",
+   "poster": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:91239",
+   "type": "series",
+   "name": "Bridgerton",
+   "poster": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:1425",
+   "type": "series",
+   "name": "House of Cards",
+   "poster": "https://image.tmdb.org/t/p/w500/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2013"
+  },
+  {
+   "id": "tmdb:76669",
+   "type": "series",
+   "name": "Elite",
+   "poster": "https://image.tmdb.org/t/p/w500/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:70523",
+   "type": "series",
+   "name": "Dark",
+   "poster": "https://image.tmdb.org/t/p/w500/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:71446",
+   "type": "series",
+   "name": "Money Heist",
+   "poster": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:69740",
+   "type": "series",
+   "name": "Ozark",
+   "poster": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:74204",
+   "type": "series",
+   "name": "Big Mouth",
+   "poster": "https://image.tmdb.org/t/p/w500/1Zio9w1tAd3r5Gu4d9AzTSx2hnT.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:66788",
+   "type": "series",
+   "name": "13 Reasons Why",
+   "poster": "https://image.tmdb.org/t/p/w500/nel144y4dIOdFFid6twN5mAX9Yd.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:75006",
+   "type": "series",
+   "name": "The Umbrella Academy",
+   "poster": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:90802",
+   "type": "series",
+   "name": "The Sandman",
+   "poster": "https://image.tmdb.org/t/p/w500/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:116135",
+   "type": "series",
+   "name": "Vikings: Valhalla",
+   "poster": "https://image.tmdb.org/t/p/w500/uCr7Ov7Rpzx0c0EPqbPcoEruTYl.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:87739",
+   "type": "series",
+   "name": "The Queen's Gambit",
+   "poster": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:73021",
+   "type": "series",
+   "name": "Disenchantment",
+   "poster": "https://image.tmdb.org/t/p/w500/1WynayCqKRzrl4cFZR8NOfiDwd6.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:99353",
+   "type": "series",
+   "name": "Love Is Blind",
+   "poster": "https://image.tmdb.org/t/p/w500/8XhV6ke8ltRYoG4SYmibF2bGwrC.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:81046",
+   "type": "series",
+   "name": "The Dragon Prince",
+   "poster": "https://image.tmdb.org/t/p/w500/d7PIRa6ez7ZEl9D4JUrnSsmcnVD.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:72844",
+   "type": "series",
+   "name": "The Haunting of Hill House",
+   "poster": "https://image.tmdb.org/t/p/w500/nWPZb800NCGiDPNGsKCfY0w44Z2.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:81357",
+   "type": "series",
+   "name": "Dead to Me",
+   "poster": "https://image.tmdb.org/t/p/w500/mAj18PHeACxqcrEus4pD8pksRmB.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:71024",
+   "type": "series",
+   "name": "Castlevania",
+   "poster": "https://image.tmdb.org/t/p/w500/WzFHnJY44uDERER0xi1jOdoafT.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:100698",
+   "type": "series",
+   "name": "Tiger King",
+   "poster": "https://image.tmdb.org/t/p/w500/dXQCEjVth8P8L47XIsoRt0oL8Gw.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:74577",
+   "type": "series",
+   "name": "The End of the F***ing World",
+   "poster": "https://image.tmdb.org/t/p/w500/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:70593",
+   "type": "series",
+   "name": "Kingdom",
+   "poster": "https://image.tmdb.org/t/p/w500/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:63522",
+   "type": "series",
+   "name": "F Is for Family",
+   "poster": "https://image.tmdb.org/t/p/w500/3gkdyR58Hm0gMkItqvyNz7zSTWH.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2015"
+  },
+  {
+   "id": "tmdb:79410",
+   "type": "series",
+   "name": "After Life",
+   "poster": "https://image.tmdb.org/t/p/w500/6eJf4h9XcvqK64vbx27EFlLVURm.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:95665",
+   "type": "series",
+   "name": "Inventing Anna",
+   "poster": "https://image.tmdb.org/t/p/w500/aZraQSnS9Dbvipv4WLJQ5xrhG3g.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:87826",
+   "type": "series",
+   "name": "Selling Sunset",
+   "poster": "https://image.tmdb.org/t/p/w500/wUtoD67q4BnRUwikUbT6M38d5oj.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:125910",
+   "type": "series",
+   "name": "Young Royals",
+   "poster": "https://image.tmdb.org/t/p/w500/qiSYSGYuF7sEwWmtISh1sWhnyBK.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:84977",
+   "type": "series",
+   "name": "Russian Doll",
+   "poster": "https://image.tmdb.org/t/p/w500/1ju4vQ1EwlIkQxEgWiYmxOs3iBG.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:81355",
+   "type": "series",
+   "name": "When They See Us",
+   "poster": "https://image.tmdb.org/t/p/w500/oPv3nNtkuc6EPEql5lgdOuQNHuG.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:83127",
+   "type": "series",
+   "name": "The Politician",
+   "poster": "https://image.tmdb.org/t/p/w500/5Bm3rMQAoXSFKAVYMxPYQRyM07U.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2019"
+  },
+  {
+   "id": "tmdb:79352",
+   "type": "series",
+   "name": "Sacred Games",
+   "poster": "https://image.tmdb.org/t/p/w500/uEbNtFbK4At9WBDGap23lt1qO9n.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2018"
+  },
+  {
+   "id": "tmdb:79525",
+   "type": "series",
+   "name": "The Last Dance",
+   "poster": "https://image.tmdb.org/t/p/w500/oVf4xGGbDtwVHiKn8uTuSriY7PH.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2020"
+  }
+ ]
+}

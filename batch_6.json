@@ -1,0 +1,464 @@
+[
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Happy Face",
+  "tmdb": 243217,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Hysteria!",
+  "tmdb": 224361,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Teacup",
+  "tmdb": 247721,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Fight Night: The Million Dollar Heist",
+  "tmdb": 241485,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "MacGruber",
+  "tmdb": 107314,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Rutherford Falls",
+  "tmdb": 93748,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Angelyne",
+  "tmdb": 93751,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Wolf Like Me",
+  "tmdb": 136738,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Killing It",
+  "tmdb": 156878,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "A Friend of the Family",
+  "tmdb": 197434,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Apples Never Fall",
+  "tmdb": 222031,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Into the Spider-Verse",
+  "tmdb": 324857,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Homecoming",
+  "tmdb": 315635,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Hotel Transylvania",
+  "tmdb": 76492,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Men in Black",
+  "tmdb": 607,
+  "type": "movie",
+  "year": 1997
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Once Upon a Time in Hollywood",
+  "tmdb": 466272,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Venom: Let There Be Carnage",
+  "tmdb": 580489,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man: Far From Home",
+  "tmdb": 429617,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Equalizer",
+  "tmdb": 156022,
+  "type": "movie",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Equalizer 3",
+  "tmdb": 926393,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Goosebumps",
+  "tmdb": 257445,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Grown Ups",
+  "tmdb": 38365,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Little Women",
+  "tmdb": 331482,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Paul Blart: Mall Cop",
+  "tmdb": 14560,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Social Network",
+  "tmdb": 37799,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "21 Jump Street",
+  "tmdb": 64688,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Ghostbusters",
+  "tmdb": 620,
+  "type": "movie",
+  "year": 1984
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Cloudy with a Chance of Meatballs",
+  "tmdb": 22794,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Jumanji: The Next Level",
+  "tmdb": 512200,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Bad Boys: Ride or Die",
+  "tmdb": 573435,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Skyfall",
+  "tmdb": 37724,
+  "type": "movie",
+  "year": 2012
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Superbad",
+  "tmdb": 8363,
+  "type": "movie",
+  "year": 2007
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "The Karate Kid",
+  "tmdb": 38575,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Bad Boys for Life",
+  "tmdb": 38700,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Ghostbusters: Afterlife",
+  "tmdb": 425909,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Zombieland",
+  "tmdb": 19908,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Spider-Man 2",
+  "tmdb": 558,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_sony_movie",
+  "name": "Moneyball",
+  "tmdb": 60308,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Wild Robot",
+  "tmdb": 1184918,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Despicable Me",
+  "tmdb": 20352,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "How to Train Your Dragon",
+  "tmdb": 1087192,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic World Rebirth",
+  "tmdb": 1234821,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Halloween",
+  "tmdb": 948,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Get Out",
+  "tmdb": 419430,
+  "type": "movie",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Shrek 2",
+  "tmdb": 809,
+  "type": "movie",
+  "year": 2004
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Furious 7",
+  "tmdb": 168259,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "E.T.",
+  "tmdb": 601,
+  "type": "movie",
+  "year": 1982
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jaws",
+  "tmdb": 578,
+  "type": "movie",
+  "year": 1975
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic World",
+  "tmdb": 135397,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Wicked",
+  "tmdb": 402431,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Nosferatu",
+  "tmdb": 426063,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Grinch",
+  "tmdb": 360920,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Minions",
+  "tmdb": 211672,
+  "type": "movie",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Nope",
+  "tmdb": 762504,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Sing 2",
+  "tmdb": 438695,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Twisters",
+  "tmdb": 718821,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Jurassic Park",
+  "tmdb": 329,
+  "type": "movie",
+  "year": 1993
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Black Phone",
+  "tmdb": 756999,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Us",
+  "tmdb": 458723,
+  "type": "movie",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "M3GAN",
+  "tmdb": 536554,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Renfield",
+  "tmdb": 649609,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "The Secret Life of Pets",
+  "tmdb": 328111,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_universal_movie",
+  "name": "Fast Five",
+  "tmdb": 51497,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Superman",
+  "tmdb": 1061474,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "The Conjuring",
+  "tmdb": 138843,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_warner_movie",
+  "name": "Man of Steel",
+  "tmdb": 49521,
+  "type": "movie",
+  "year": 2013
+ }
+]

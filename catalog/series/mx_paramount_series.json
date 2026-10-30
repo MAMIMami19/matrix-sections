@@ -1,1 +1,112 @@
-{"metas": [{"id": "tmdb:157744", "type": "series", "name": "1923", "poster": "https://image.tmdb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg", "description": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:153312", "type": "series", "name": "Tulsa King", "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg", "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:97951", "type": "series", "name": "Mayor of Kingstown", "poster": "https://image.tmdb.org/t/p/w500/6rWIip9MZELAA0SKii5WqsBDCYW.jpg", "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:113962", "type": "series", "name": "Lioness", "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg", "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:67198", "type": "series", "name": "Star Trek: Discovery", "poster": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg", "description": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.", "genres": [], "releaseInfo": "2017"}, {"id": "tmdb:85949", "type": "series", "name": "Star Trek: Picard", "poster": "https://image.tmdb.org/t/p/w500/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg", "description": "Set twenty years after the events of Star Trek Nemesis, we follow the now-retired Admiral Picard into the next chapter of his life.", "genres": [], "releaseInfo": "2020"}, {"id": "tmdb:103516", "type": "series", "name": "Star Trek: Strange New Worlds", "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg", "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:4057", "type": "series", "name": "Criminal Minds", "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg", "description": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.", "genres": [], "releaseInfo": "2005"}, {"id": "tmdb:71789", "type": "series", "name": "SEAL Team", "poster": "https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg", "description": "Military drama following the professional and personal lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high stakes missions our country can ask of them.", "genres": [], "releaseInfo": "2017"}, {"id": "tmdb:69158", "type": "series", "name": "The Good Fight", "poster": "https://image.tmdb.org/t/p/w500/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg", "description": "Picking up one year after the events of the final broadcast episode of \"The Good Wife\", an enormous financial scam has destroyed the reputation of a young lawyer, Maia Rindell, while simultaneously wiping out her mentor and godmother Diane Lockhart's savings. Forced out of her law firm, now called \"Lockhart, Deckler, Gussman, Lee, Lyman, Gilbert, Lurie, Kagan, Tannebaum & Associates\", they join Lucca Quinn at one of Chicago's preeminent law firms.", "genres": [], "releaseInfo": "2017"}, {"id": "tmdb:299167", "type": "series", "name": "Dutton Ranch", "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg", "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.", "genres": [], "releaseInfo": "2026"}, {"id": "tmdb:86848", "type": "series", "name": "Evil", "poster": "https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg", "description": "Skeptical forensic psychologist Kristen Bouchard joins priest-in-training David Acosta and technology expert Ben Shakir as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences to assess for a scientific explanation or if something truly supernatural is at work.", "genres": [], "releaseInfo": "2019"}]}
+{
+ "metas": [
+  {
+   "id": "tmdb:157744",
+   "type": "series",
+   "name": "1923",
+   "poster": "https://image.tmdb.org/t/p/w500/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+   "description": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:153312",
+   "type": "series",
+   "name": "Tulsa King",
+   "poster": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+   "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:97951",
+   "type": "series",
+   "name": "Mayor of Kingstown",
+   "poster": "https://image.tmdb.org/t/p/w500/6rWIip9MZELAA0SKii5WqsBDCYW.jpg",
+   "description": "In a small Michigan town where the business of incarceration is the only thriving industry, the McClusky family are the power brokers between the police, criminals, inmates, prison guards and politicians in a city completely dependent on prisons and the prisoners they contain.",
+   "genres": [],
+   "releaseInfo": "2021"
+  },
+  {
+   "id": "tmdb:113962",
+   "type": "series",
+   "name": "Lioness",
+   "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+   "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:67198",
+   "type": "series",
+   "name": "Star Trek: Discovery",
+   "poster": "https://image.tmdb.org/t/p/w500/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
+   "description": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:85949",
+   "type": "series",
+   "name": "Star Trek: Picard",
+   "poster": "https://image.tmdb.org/t/p/w500/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg",
+   "description": "Set twenty years after the events of Star Trek Nemesis, we follow the now-retired Admiral Picard into the next chapter of his life.",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tmdb:103516",
+   "type": "series",
+   "name": "Star Trek: Strange New Worlds",
+   "poster": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+   "description": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+   "genres": [],
+   "releaseInfo": "2022"
+  },
+  {
+   "id": "tmdb:4057",
+   "type": "series",
+   "name": "Criminal Minds",
+   "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+   "description": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+   "genres": [],
+   "releaseInfo": "2005"
+  },
+  {
+   "id": "tmdb:71789",
+   "type": "series",
+   "name": "SEAL Team",
+   "poster": "https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+   "description": "Military drama following the professional and personal lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high stakes missions our country can ask of them.",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:69158",
+   "type": "series",
+   "name": "The Good Fight",
+   "poster": "https://image.tmdb.org/t/p/w500/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
+   "description": "Picking up one year after the events of the final broadcast episode of \"The Good Wife\", an enormous financial scam has destroyed the reputation of a young lawyer, Maia Rindell, while simultaneously wiping out her mentor and godmother Diane Lockhart's savings. Forced out of her law firm, now called \"Lockhart, Deckler, Gussman, Lee, Lyman, Gilbert, Lurie, Kagan, Tannebaum & Associates\", they join Lucca Quinn at one of Chicago's preeminent law firms.",
+   "genres": [],
+   "releaseInfo": "2017"
+  },
+  {
+   "id": "tmdb:299167",
+   "type": "series",
+   "name": "Dutton Ranch",
+   "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+   "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tmdb:86848",
+   "type": "series",
+   "name": "Evil",
+   "poster": "https://image.tmdb.org/t/p/w500/auRAAVxlyT6YACql96UdtnpFHy3.jpg",
+   "description": "Skeptical forensic psychologist Kristen Bouchard joins priest-in-training David Acosta and technology expert Ben Shakir as they investigate supposed miracles, demonic possessions, and other extraordinary occurrences to assess for a scientific explanation or if something truly supernatural is at work.",
+   "genres": [],
+   "releaseInfo": "2019"
+  }
+ ]
+}

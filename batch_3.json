@@ -1,0 +1,464 @@
+[
+ {
+  "catalog": "mx_prime_series",
+  "name": "Goliath",
+  "tmdb": 67384,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Marvelous Mrs. Maisel",
+  "tmdb": 70796,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Sneaky Pete",
+  "tmdb": 64199,
+  "type": "series",
+  "year": 2015
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Citadel",
+  "tmdb": 114922,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Boys Presents: Diabolical",
+  "tmdb": 152483,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Cross",
+  "tmdb": 213306,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Bosch: Legacy",
+  "tmdb": 153657,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Good Omens",
+  "tmdb": 71915,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Carnival Row",
+  "tmdb": 90027,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Transparent",
+  "tmdb": 61406,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Mozart in the Jungle",
+  "tmdb": 61744,
+  "type": "series",
+  "year": 2014
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Hunters",
+  "tmdb": 79622,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Peripheral",
+  "tmdb": 95403,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Hanna",
+  "tmdb": 54155,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Fleabag",
+  "tmdb": 67070,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Tick",
+  "tmdb": 67487,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Butterfly",
+  "tmdb": 227114,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Rig",
+  "tmdb": 112581,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Them",
+  "tmdb": 120462,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Modern Love",
+  "tmdb": 91602,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Utopia",
+  "tmdb": 78903,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Devil's Hour",
+  "tmdb": 157061,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "We Were Liars",
+  "tmdb": 215522,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Wilds",
+  "tmdb": 113367,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Dead Ringers",
+  "tmdb": 130987,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "With Love",
+  "tmdb": 126914,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "MobLand",
+  "tmdb": 247718,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Shameless",
+  "tmdb": 34307,
+  "type": "series",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Frasier",
+  "tmdb": 3452,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Tracker",
+  "tmdb": 211288,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Homeland",
+  "tmdb": 1407,
+  "type": "series",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Ghosts",
+  "tmdb": 126027,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Billions",
+  "tmdb": 62852,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Fugitive",
+  "tmdb": 10083,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Elsbeth",
+  "tmdb": 226285,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Twilight Zone",
+  "tmdb": 6357,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Fire Country",
+  "tmdb": 202297,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Landman",
+  "tmdb": 157741,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Tales of the Teenage Mutant Ninja Turtles",
+  "tmdb": 231394,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Chi",
+  "tmdb": 72071,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Matlock",
+  "tmdb": 2093,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Yellowjackets",
+  "tmdb": 117488,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Ray Donovan",
+  "tmdb": 1423,
+  "type": "series",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Rock Paper Scissors",
+  "tmdb": 204024,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Dora",
+  "tmdb": 236234,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Dexter: Resurrection",
+  "tmdb": 259909,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Star Trek: Lower Decks",
+  "tmdb": 85948,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Halo",
+  "tmdb": 52814,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "NCIS: Origins",
+  "tmdb": 243006,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "The Thundermans: Undercover",
+  "tmdb": 254653,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Why Women Kill",
+  "tmdb": 87428,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Watson",
+  "tmdb": 242867,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Star Trek: Prodigy",
+  "tmdb": 106393,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_series",
+  "name": "Fatal Attraction",
+  "tmdb": 138455,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Top Gun: Maverick",
+  "tmdb": 361743,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Godfather",
+  "tmdb": 238,
+  "type": "movie",
+  "year": 1972
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Forrest Gump",
+  "tmdb": 13,
+  "type": "movie",
+  "year": 1994
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Gladiator",
+  "tmdb": 98,
+  "type": "movie",
+  "year": 2000
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "No Country for Old Men",
+  "tmdb": 6977,
+  "type": "movie",
+  "year": 2007
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Shutter Island",
+  "tmdb": 11324,
+  "type": "movie",
+  "year": 2010
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Godfather Part II",
+  "tmdb": 240,
+  "type": "movie",
+  "year": 1974
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Wolf of Wall Street",
+  "tmdb": 106646,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Sonic the Hedgehog 3",
+  "tmdb": 939243,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Transformers: Rise of the Beasts",
+  "tmdb": 667538,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible \u2013 The Final Reckoning",
+  "tmdb": 575265,
+  "type": "movie",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Scream",
+  "tmdb": 4232,
+  "type": "movie",
+  "year": 2022
+ }
+]

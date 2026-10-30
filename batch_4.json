@@ -1,0 +1,464 @@
+[
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "There Will Be Blood",
+  "tmdb": 7345,
+  "type": "movie",
+  "year": 2007
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Saving Private Ryan",
+  "tmdb": 857,
+  "type": "movie",
+  "year": 1998
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Dungeons & Dragons: Honor Among Thieves",
+  "tmdb": 493529,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Rango",
+  "tmdb": 44896,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mean Girls",
+  "tmdb": 10625,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Top Gun",
+  "tmdb": 744,
+  "type": "movie",
+  "year": 1986
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Curious Case of Benjamin Button",
+  "tmdb": 4922,
+  "type": "movie",
+  "year": 2008
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible \u2013 Dead Reckoning",
+  "tmdb": 575264,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Gladiator II",
+  "tmdb": 558449,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "A Quiet Place",
+  "tmdb": 447332,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "G.I. Joe: The Rise of Cobra",
+  "tmdb": 14869,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "PAW Patrol: The Mighty Movie",
+  "tmdb": 893723,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "A Quiet Place Part II",
+  "tmdb": 520763,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Scream VI",
+  "tmdb": 934433,
+  "type": "movie",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Sonic the Hedgehog",
+  "tmdb": 454626,
+  "type": "movie",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "A Quiet Place: Day One",
+  "tmdb": 762441,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Sonic the Hedgehog 2",
+  "tmdb": 675353,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Smile 2",
+  "tmdb": 1100782,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "The Adventures of Tintin",
+  "tmdb": 17578,
+  "type": "movie",
+  "year": 2011
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "G.I. Joe: Retaliation",
+  "tmdb": 72559,
+  "type": "movie",
+  "year": 2013
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible \u2013 Fallout",
+  "tmdb": 353081,
+  "type": "movie",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "PAW Patrol: The Movie",
+  "tmdb": 675445,
+  "type": "movie",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Mission: Impossible",
+  "tmdb": 954,
+  "type": "movie",
+  "year": 1996
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Smile",
+  "tmdb": 882598,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Transformers One",
+  "tmdb": 698687,
+  "type": "movie",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Babylon",
+  "tmdb": 615777,
+  "type": "movie",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Star Trek Beyond",
+  "tmdb": 188927,
+  "type": "movie",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_paramount_movie",
+  "name": "Star Trek",
+  "tmdb": 13475,
+  "type": "movie",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Suits",
+  "tmdb": 37680,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Crystal",
+  "tmdb": 61339,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Aroussa Beirut",
+  "tmdb": 93411,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Ana",
+  "tmdb": 102625,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Doubt",
+  "tmdb": 68950,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Mawdou3 Aeli",
+  "tmdb": 139471,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "2020",
+  "tmdb": 94423,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Esh Esh",
+  "tmdb": 260605,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Le'bet Newton",
+  "tmdb": 121487,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Beit El Rifai",
+  "tmdb": 244676,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Zelzal",
+  "tmdb": 88929,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Faten Amal Harbi",
+  "tmdb": 195589,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Kha'en",
+  "tmdb": 238433,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "El Nemr",
+  "tmdb": 119768,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Bimbo",
+  "tmdb": 152391,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Sikka Safar",
+  "tmdb": 196231,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Zodiac",
+  "tmdb": 337844,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Harb Ahliya",
+  "tmdb": 121534,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Sarab",
+  "tmdb": 259525,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "The Platform",
+  "tmdb": 108948,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Welad El Shams",
+  "tmdb": 271790,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Seham Al Mareqa",
+  "tmdb": 84289,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Qasr El Nil",
+  "tmdb": 121645,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dawa'i El Safar",
+  "tmdb": 251621,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Rashash",
+  "tmdb": 128486,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Shatti Ya Beirut",
+  "tmdb": 139618,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dof'at London",
+  "tmdb": 211352,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dantel",
+  "tmdb": 49510,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Dafat Beirut",
+  "tmdb": 111737,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Kharazeh Zarqa",
+  "tmdb": 112872,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Gharib",
+  "tmdb": 225083,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_mbc_series",
+  "name": "Al Thaman",
+  "tmdb": 52724,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Death Note",
+  "tmdb": 13916,
+  "type": "series",
+  "year": 2006
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Fairy Tail",
+  "tmdb": 46261,
+  "type": "series",
+  "year": 2009
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Sakamoto Days",
+  "tmdb": 207332,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Tower of God",
+  "tmdb": 97860,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "One Piece",
+  "tmdb": 111110,
+  "type": "series",
+  "year": 1999
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Steins;Gate",
+  "tmdb": 42509,
+  "type": "series",
+  "year": 2011
+ }
+]

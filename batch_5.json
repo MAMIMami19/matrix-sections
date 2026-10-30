@@ -1,0 +1,464 @@
+[
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Boruto: Naruto Next Generations",
+  "tmdb": 70881,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Dr. Stone",
+  "tmdb": 86031,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_crunchyroll_series",
+  "name": "Cowboy Bebop",
+  "tmdb": 84469,
+  "type": "series",
+  "year": 1998
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Handmaid's Tale",
+  "tmdb": 69478,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Bear",
+  "tmdb": 136315,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Veronica Mars",
+  "tmdb": 1432,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Only Murders in the Building",
+  "tmdb": 107113,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Shogun",
+  "tmdb": 126308,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Solar Opposites",
+  "tmdb": 97645,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Nine Perfect Strangers",
+  "tmdb": 88989,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Great",
+  "tmdb": 93812,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Marvel's Runaways",
+  "tmdb": 67466,
+  "type": "series",
+  "year": 2017
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Castle Rock",
+  "tmdb": 71116,
+  "type": "series",
+  "year": 2018
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Rivals",
+  "tmdb": 208921,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Tell Me Lies",
+  "tmdb": 130464,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Old Man",
+  "tmdb": 111800,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Wu-Tang: An American Saga",
+  "tmdb": 90870,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Artful Dodger",
+  "tmdb": 202208,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Normal People",
+  "tmdb": 89905,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Death and Other Details",
+  "tmdb": 133813,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Pen15",
+  "tmdb": 85702,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Dropout",
+  "tmdb": 122066,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Say Nothing",
+  "tmdb": 245256,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Love, Victor",
+  "tmdb": 97186,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "High Fidelity",
+  "tmdb": 96734,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Catch-22",
+  "tmdb": 82744,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "11.22.63",
+  "tmdb": 64464,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Mrs. America",
+  "tmdb": 83605,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Path",
+  "tmdb": 65227,
+  "type": "series",
+  "year": 2016
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Under the Bridge",
+  "tmdb": 211358,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Ramy",
+  "tmdb": 87382,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "The Act",
+  "tmdb": 82883,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Interior Chinatown",
+  "tmdb": 212246,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Pam & Tommy",
+  "tmdb": 114925,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Dopesick",
+  "tmdb": 110695,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Dollface",
+  "tmdb": 84584,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Fleishman Is in Trouble",
+  "tmdb": 156401,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Black Cake",
+  "tmdb": 230225,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Shrill",
+  "tmdb": 85046,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "We Were the Lucky Ones",
+  "tmdb": 200908,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Little Fires Everywhere",
+  "tmdb": 90257,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Welcome to Chippendales",
+  "tmdb": 130567,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_hulu_series",
+  "name": "Looking for Alaska",
+  "tmdb": 88640,
+  "type": "series",
+  "year": 2019
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Day of the Jackal",
+  "tmdb": 222766,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Queer as Folk",
+  "tmdb": 2902,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Ted",
+  "tmdb": 201834,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Traitors",
+  "tmdb": 215943,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Saved by the Bell",
+  "tmdb": 4345,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Poker Face",
+  "tmdb": 120998,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Bel-Air",
+  "tmdb": 107365,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Girls5eva",
+  "tmdb": 100350,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Twisted Metal",
+  "tmdb": 133748,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Dr. Death",
+  "tmdb": 93749,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Continental",
+  "tmdb": 72710,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Based on a True Story",
+  "tmdb": 197373,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Tattooist of Auschwitz",
+  "tmdb": 222405,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Long Bright River",
+  "tmdb": 244628,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "All Her Fault",
+  "tmdb": 246386,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Mrs. Davis",
+  "tmdb": 197548,
+  "type": "series",
+  "year": 2023
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "One of Us Is Lying",
+  "tmdb": 118958,
+  "type": "series",
+  "year": 2021
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Vampire Academy",
+  "tmdb": 125940,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Those About to Die",
+  "tmdb": 218589,
+  "type": "series",
+  "year": 2024
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Duster",
+  "tmdb": 113959,
+  "type": "series",
+  "year": 2025
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "The Resort",
+  "tmdb": 194728,
+  "type": "series",
+  "year": 2022
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Brave New World",
+  "tmdb": 93289,
+  "type": "series",
+  "year": 2020
+ },
+ {
+  "catalog": "mx_peacock_series",
+  "name": "Bupkis",
+  "tmdb": 208953,
+  "type": "series",
+  "year": 2023
+ }
+]

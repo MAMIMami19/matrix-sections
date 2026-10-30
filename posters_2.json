@@ -1,0 +1,530 @@
+[
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Deuce",
+  "tmdb": 65817,
+  "type": "series",
+  "year": 2017,
+  "poster_path": "/tKFUwmue5g45rthZOyYWd7l931y.jpg"
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Big Little Lies",
+  "tmdb": 66292,
+  "type": "series",
+  "year": 2017,
+  "poster_path": "/zxGkno93ExrTMsJVllH6mzQ652z.jpg"
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Winning Time",
+  "tmdb": 124067,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/6B9hTge98t52bQofyvs1M370k7n.jpg"
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Nevers",
+  "tmdb": 80828,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/v6Xmj8Fy7ZruVTz3y2Po7O0TQh4.jpg"
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "Raised by Wolves",
+  "tmdb": 85723,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg"
+ },
+ {
+  "catalog": "mx_hbo_series",
+  "name": "The Pacific",
+  "tmdb": 16997,
+  "type": "series",
+  "year": 2010,
+  "poster_path": "/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg"
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "House Party",
+  "tmdb": 16094,
+  "type": "movie",
+  "year": 2023,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Kimi",
+  "tmdb": 800510,
+  "type": "movie",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Into the Storm",
+  "tmdb": 216282,
+  "type": "movie",
+  "year": 2009,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Fallout",
+  "tmdb": 795514,
+  "type": "movie",
+  "year": 2021,
+  "poster_path": "/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg"
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Survivor",
+  "tmdb": 606870,
+  "type": "movie",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "No Sudden Move",
+  "tmdb": 649409,
+  "type": "movie",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Hemingway & Gellhorn",
+  "tmdb": 111839,
+  "type": "movie",
+  "year": 2012,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Wizard of Lies",
+  "tmdb": 363992,
+  "type": "movie",
+  "year": 2017,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Father of the Bride",
+  "tmdb": 11846,
+  "type": "movie",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Moonshot",
+  "tmdb": 767825,
+  "type": "movie",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Behind the Candelabra",
+  "tmdb": 119675,
+  "type": "movie",
+  "year": 2013,
+  "poster_path": "/iodt6hrewVXxR415PIjBeuZg3Qs.jpg"
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "8-Bit Christmas",
+  "tmdb": 802217,
+  "type": "movie",
+  "year": 2021,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Parenting",
+  "tmdb": 850920,
+  "type": "movie",
+  "year": 2025,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Warm Springs",
+  "tmdb": 46661,
+  "type": "movie",
+  "year": 2005,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "A Christmas Story Christmas",
+  "tmdb": 929340,
+  "type": "movie",
+  "year": 2022,
+  "poster_path": "/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg"
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Something the Lord Made",
+  "tmdb": 20544,
+  "type": "movie",
+  "year": 2004,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Muhammad Ali's Greatest Fight",
+  "tmdb": 196355,
+  "type": "movie",
+  "year": 2013,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Confirmation",
+  "tmdb": 348390,
+  "type": "movie",
+  "year": 2016,
+  "poster_path": "/9lxg4KidKhRAMupBYvgdHxAnxKE.jpg"
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Deadwood: The Movie",
+  "tmdb": 538225,
+  "type": "movie",
+  "year": 2019,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Fahrenheit 451",
+  "tmdb": 1714,
+  "type": "movie",
+  "year": 2018,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Bad Education",
+  "tmdb": 530723,
+  "type": "movie",
+  "year": 2019,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Temple Grandin",
+  "tmdb": 33602,
+  "type": "movie",
+  "year": 2010,
+  "poster_path": "/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg"
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "All the Way",
+  "tmdb": 347123,
+  "type": "movie",
+  "year": 2016,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Too Big to Fail",
+  "tmdb": 65034,
+  "type": "movie",
+  "year": 2011,
+  "poster_path": "/pcrCKELIeNFfFrAoVFpMTpzTqVx.jpg"
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "Let Them All Talk",
+  "tmdb": 623856,
+  "type": "movie",
+  "year": 2020,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "You Don't Know Jack",
+  "tmdb": 36950,
+  "type": "movie",
+  "year": 2010,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Normal Heart",
+  "tmdb": 113833,
+  "type": "movie",
+  "year": 2014,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_hbo_movie",
+  "name": "The Immortal Life of Henrietta Lacks",
+  "tmdb": 424600,
+  "type": "movie",
+  "year": 2017,
+  "poster_path": "/njFJjXhK94NXAxo9MJrskFpqWMg.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Dark Matter",
+  "tmdb": 196322,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Foundation",
+  "tmdb": 93740,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Masters of the Air",
+  "tmdb": 46518,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/rSAmgcoA74371rplbqM27yVsd3y.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Invasion",
+  "tmdb": 127235,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Last Thing He Told Me",
+  "tmdb": 201289,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Loot",
+  "tmdb": 197449,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Mythic Quest",
+  "tmdb": 94951,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Sugar",
+  "tmdb": 203744,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Mosquito Coast",
+  "tmdb": 93716,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/xMQU5aGjxsqxKQNhSfY2G8Y6jRg.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Servant",
+  "tmdb": 88055,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Lessons in Chemistry",
+  "tmdb": 117303,
+  "type": "series",
+  "year": 2023,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Franklin",
+  "tmdb": 1458,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Manhunt",
+  "tmdb": 72597,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Dickinson",
+  "tmdb": 89901,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Truth Be Told",
+  "tmdb": 80054,
+  "type": "series",
+  "year": 2019,
+  "poster_path": "/3T2TJ61ems7ArVGwb6kiVuKcdUk.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Acapulco",
+  "tmdb": 133727,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/gzBkO4zFr75A13GKnjvTeg25pze.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Platonic",
+  "tmdb": 112211,
+  "type": "series",
+  "year": 2023,
+  "poster_path": "/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Bad Monkey",
+  "tmdb": 130853,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "The Buccaneers",
+  "tmdb": 12033,
+  "type": "series",
+  "year": 2023,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Home Before Dark",
+  "tmdb": 98161,
+  "type": "series",
+  "year": 2020,
+  "poster_path": "/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Trying",
+  "tmdb": 98177,
+  "type": "series",
+  "year": 2020,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Palm Royale",
+  "tmdb": 157367,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/7WcJLCS31BiVYgvnh19lOjZoiiZ.jpg"
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Presumed Innocent",
+  "tmdb": 156933,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Smoke",
+  "tmdb": 215995,
+  "type": "series",
+  "year": 2025,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Constellation",
+  "tmdb": 197125,
+  "type": "series",
+  "year": 2024,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_apple_series",
+  "name": "Surface",
+  "tmdb": 127641,
+  "type": "series",
+  "year": 2022,
+  "poster_path": null
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Summer I Turned Pretty",
+  "tmdb": 194766,
+  "type": "series",
+  "year": 2022,
+  "poster_path": "/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg"
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Bosch",
+  "tmdb": 60585,
+  "type": "series",
+  "year": 2014,
+  "poster_path": "/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg"
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Wheel of Time",
+  "tmdb": 71914,
+  "type": "series",
+  "year": 2021,
+  "poster_path": "/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg"
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Jack Ryan",
+  "tmdb": 73375,
+  "type": "series",
+  "year": 2018,
+  "poster_path": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg"
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "Fallout",
+  "tmdb": 106379,
+  "type": "series",
+  "year": 2024,
+  "poster_path": "/c15BtJxCXMrISLVmysdsnZUPQft.jpg"
+ },
+ {
+  "catalog": "mx_prime_series",
+  "name": "The Man in the High Castle",
+  "tmdb": 62017,
+  "type": "series",
+  "year": 2015,
+  "poster_path": "/xhoDZbMNeyCA0BGPZQsdIiO43Dp.jpg"
+ }
+]
