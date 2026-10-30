@@ -1,139 +1,237 @@
 {
-  "metas": [
-    {
-      "id": "tt26469117",
-      "type": "series",
-      "name": "الثمن",
-      "poster": "https://image.tmdb.org/t/p/w500/uFEV0Tsns33zKyuc12l4XCBoba7.jpg",
-      "description": "A widowed mother takes a job that entangles her with a ruthless businessman.",
-      "genres": [],
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:221355",
-      "type": "series",
-      "name": "النار بالنار",
-      "poster": "https://image.tmdb.org/t/p/w500/eLY7gZNssmdjQqcWMUae62u9Moa.jpg",
-      "description": "A revenge saga ignites between two families in Beirut.",
-      "genres": [],
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tmdb:245986",
-      "type": "series",
-      "name": "ع أمل",
-      "poster": "https://image.tmdb.org/t/p/w500/easLuRNPwJqqlqQXlkE0XQPQ3nV.jpg",
-      "description": "Hope and betrayal collide in this Arabic drama series.",
-      "genres": [],
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:245985",
-      "type": "series",
-      "name": "صلة رحم",
-      "poster": "https://image.tmdb.org/t/p/w500/r1RT4UolQPrLij3kDyvUuG5qs2e.jpg",
-      "description": "Family secrets unravel after a shocking revelation.",
-      "genres": [],
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:251109",
-      "type": "series",
-      "name": "لعبة حب",
-      "poster": "https://image.tmdb.org/t/p/w500/v5lX7bxBXFkM3kI2IXJ9grIVeHV.jpg",
-      "description": "A game of love and deception with high emotional stakes.",
-      "genres": [],
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:246878",
-      "type": "series",
-      "name": "لحظة غضب",
-      "poster": "https://image.tmdb.org/t/p/w500/vwtNvUNJg4CRkNYwTahjx8jYe90.jpg",
-      "description": "A moment of rage changes several lives forever.",
-      "genres": [],
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:218324",
-      "type": "series",
-      "name": "كامل العدد",
-      "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
-      "description": "A blended family's comic struggles with kids and in-laws.",
-      "genres": [],
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt2290891",
-      "type": "series",
-      "name": "الكبير أوي",
-      "poster": "https://image.tmdb.org/t/p/w500/oj4XM6wpGRIcx3QoQx1PF1fx5E5.jpg",
-      "description": "The mayor of a small village juggles twin brothers and comic chaos.",
-      "genres": [],
-      "releaseInfo": "2010"
-    },
-    {
-      "id": "tmdb:219256",
-      "type": "series",
-      "name": "بالطو",
-      "poster": "https://image.tmdb.org/t/p/w500/8AuQlmtlOkV6UwEgYSMT8iEYUX9.jpg",
-      "description": "A newly graduated doctor is thrown into rural clinic chaos.",
-      "genres": [],
-      "releaseInfo": "2023"
-    },
-    {
-      "id": "tt12222224",
-      "type": "series",
-      "name": "الاختيار",
-      "poster": "https://image.tmdb.org/t/p/w500/6o6qYyegwuTXABK7bqSD32aXzYy.jpg",
-      "description": "The true story of Egyptian special forces hero Ahmed El-Mansi.",
-      "genres": [],
-      "releaseInfo": "2020"
-    },
-    {
-      "id": "tmdb:260695",
-      "type": "series",
-      "name": "Watar Hassas",
-      "poster": "https://image.tmdb.org/t/p/w500/hHoBvznjHhGqPKNkRnqb9zUq8s6.jpg",
-      "description": "",
-      "genres": [],
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tt35195218",
-      "type": "series",
-      "name": "Faqret El Saher",
-      "poster": "https://image.tmdb.org/t/p/w500/p7eqPAncbu7W7xVzRJsWfbmqDzT.jpg",
-      "description": "",
-      "genres": [],
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:278067",
-      "type": "series",
-      "name": "Qahwet El Mahata",
-      "poster": "https://image.tmdb.org/t/p/w500/1WJIED9vJuXk7FjHzk1ezljqcQx.jpg",
-      "description": "",
-      "genres": [],
-      "releaseInfo": "2025"
-    },
-    {
-      "id": "tmdb:277991",
-      "type": "series",
-      "name": "Wuhoosh",
-      "poster": "https://image.tmdb.org/t/p/w500/fKCpkys2pJIRcODDo3Gd3XGGcCo.jpg",
-      "description": "",
-      "genres": [],
-      "releaseInfo": "2024"
-    },
-    {
-      "id": "tmdb:304606",
-      "type": "series",
-      "name": "Little Steps",
-      "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
-      "description": "",
-      "genres": [],
-      "releaseInfo": "2026"
-    }
-  ]
+ "metas": [
+  {
+   "id": "tt26469117",
+   "type": "series",
+   "name": "الثمن",
+   "poster": "https://image.tmdb.org/t/p/w500/uFEV0Tsns33zKyuc12l4XCBoba7.jpg",
+   "description": "A widowed mother takes a job that entangles her with a ruthless businessman.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:221355",
+   "type": "series",
+   "name": "النار بالنار",
+   "poster": "https://image.tmdb.org/t/p/w500/eLY7gZNssmdjQqcWMUae62u9Moa.jpg",
+   "description": "A revenge saga ignites between two families in Beirut.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tmdb:245986",
+   "type": "series",
+   "name": "ع أمل",
+   "poster": "https://image.tmdb.org/t/p/w500/easLuRNPwJqqlqQXlkE0XQPQ3nV.jpg",
+   "description": "Hope and betrayal collide in this Arabic drama series.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:245985",
+   "type": "series",
+   "name": "صلة رحم",
+   "poster": "https://image.tmdb.org/t/p/w500/r1RT4UolQPrLij3kDyvUuG5qs2e.jpg",
+   "description": "Family secrets unravel after a shocking revelation.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:251109",
+   "type": "series",
+   "name": "لعبة حب",
+   "poster": "https://image.tmdb.org/t/p/w500/v5lX7bxBXFkM3kI2IXJ9grIVeHV.jpg",
+   "description": "A game of love and deception with high emotional stakes.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:246878",
+   "type": "series",
+   "name": "لحظة غضب",
+   "poster": "https://image.tmdb.org/t/p/w500/vwtNvUNJg4CRkNYwTahjx8jYe90.jpg",
+   "description": "A moment of rage changes several lives forever.",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:218324",
+   "type": "series",
+   "name": "كامل العدد",
+   "poster": "https://image.tmdb.org/t/p/w500/2zztUpbQKbQnJdsf9lwOlfALfD.jpg",
+   "description": "A blended family's comic struggles with kids and in-laws.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt2290891",
+   "type": "series",
+   "name": "الكبير أوي",
+   "poster": "https://image.tmdb.org/t/p/w500/oj4XM6wpGRIcx3QoQx1PF1fx5E5.jpg",
+   "description": "The mayor of a small village juggles twin brothers and comic chaos.",
+   "genres": [],
+   "releaseInfo": "2010"
+  },
+  {
+   "id": "tmdb:219256",
+   "type": "series",
+   "name": "بالطو",
+   "poster": "https://image.tmdb.org/t/p/w500/8AuQlmtlOkV6UwEgYSMT8iEYUX9.jpg",
+   "description": "A newly graduated doctor is thrown into rural clinic chaos.",
+   "genres": [],
+   "releaseInfo": "2023"
+  },
+  {
+   "id": "tt12222224",
+   "type": "series",
+   "name": "الاختيار",
+   "poster": "https://image.tmdb.org/t/p/w500/6o6qYyegwuTXABK7bqSD32aXzYy.jpg",
+   "description": "The true story of Egyptian special forces hero Ahmed El-Mansi.",
+   "genres": [],
+   "releaseInfo": "2020"
+  },
+  {
+   "id": "tt34564396",
+   "type": "series",
+   "name": "وتر حساس",
+   "poster": "https://live.metahub.space/poster/small/tt34564396/img",
+   "description": "دراما اجتماعية عن الخيانة الزوجية وأسرار النفس البشرية من خلال ثلاث نساء. من بطولة صبا مبارك.",
+   "genres": [
+    "دراما"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt35195218",
+   "type": "series",
+   "name": "Faqret El Saher",
+   "poster": "https://image.tmdb.org/t/p/w500/p7eqPAncbu7W7xVzRJsWfbmqDzT.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:278067",
+   "type": "series",
+   "name": "Qahwet El Mahata",
+   "poster": "https://image.tmdb.org/t/p/w500/1WJIED9vJuXk7FjHzk1ezljqcQx.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tmdb:277991",
+   "type": "series",
+   "name": "Wuhoosh",
+   "poster": "https://image.tmdb.org/t/p/w500/fKCpkys2pJIRcODDo3Gd3XGGcCo.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tmdb:304606",
+   "type": "series",
+   "name": "Little Steps",
+   "poster": "https://image.tmdb.org/t/p/w500/xBzmjWAjIGhoH5VVYljlhBLCHFK.jpg",
+   "description": "",
+   "genres": [],
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "tt35828691",
+   "type": "series",
+   "name": "ديبو",
+   "poster": "https://m.media-amazon.com/images/M/MV5BNjNlN2ExMDAtMWEzYS00MTg1LWE2MDUtZTc2ODVjMWJiZGZiXkEyXkFqcGc@._V1_.jpg",
+   "description": "شاب مستهتر يُدعى ديبو يُجبر على العمل في فندق لسداد ديونه، ليكتشف أن الفندق مخصص للحيوانات فقط. كوميديا تشويقية من بطولة محمد أنور.",
+   "genres": [
+    "كوميدي",
+    "تشويق"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt31723345",
+   "type": "series",
+   "name": "سقف الوالد",
+   "poster": "https://m.media-amazon.com/images/M/MV5BYzEzNGVkMDItZjY5OS00NTMwLWJkZjktYWQ4ZjlhNTJmODhjXkEyXkFqcGc@._V1_.jpg",
+   "description": "أول إنتاج سعودي أصلي لمنصة يانغو بلاي. أبو ناصر يفرض شرطاً واحداً على أبنائه: من يريد الزواج عليه السكن تحت سقفه، في سلسلة من المواقف الكوميدية.",
+   "genres": [
+    "كوميدي",
+    "عائلي"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt31539889",
+   "type": "series",
+   "name": "نظرة حب",
+   "poster": "https://live.metahub.space/poster/small/tt31539889/img",
+   "description": "قصة حب مشوقة وسط مؤامرات سياسية. من بطولة باسل خياط وكارمن بصيبص. عرض حصري على يانغو بلاي.",
+   "genres": [
+    "رومانسي",
+    "تشويق"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt31722438",
+   "type": "series",
+   "name": "بيت الرفاعي",
+   "poster": "https://live.metahub.space/poster/small/tt31722438/img",
+   "description": "مزيج من الأكشن والدراما حول عائلة الرفاعي. من بطولة أمير كرارة وأحمد رزق وسيد رجب.",
+   "genres": [
+    "أكشن",
+    "دراما"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt36458107",
+   "type": "series",
+   "name": "بريستيج",
+   "poster": "https://live.metahub.space/poster/small/tt36458107/img",
+   "description": "عاصفة عنيفة تُغرق شوارع القاهرة فيلجأ 14 غريباً إلى مقهى، لتنتهي الليلة بجريمة قتل والقاتل بينهم.",
+   "genres": [
+    "جريمة",
+    "تشويق"
+   ],
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "tt21200366",
+   "type": "series",
+   "name": "الحشاشين",
+   "poster": "https://live.metahub.space/poster/small/tt21200366/img",
+   "description": "ملحمة تاريخية عن جماعة الحشاشين في القرن الحادي عشر. من بطولة كريم عبد العزيز. من أضخم الإنتاجات المصرية.",
+   "genres": [
+    "تاريخي",
+    "دراما"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt32117499",
+   "type": "series",
+   "name": "جودر",
+   "poster": "https://live.metahub.space/poster/small/tt32117499/img",
+   "description": "دراما مصرية عن جودر بن عمر المصري من ألف ليلة وليلة. من بطولة ياسر جلال.",
+   "genres": [
+    "فانتازيا",
+    "دراما"
+   ],
+   "releaseInfo": "2024"
+  },
+  {
+   "id": "tt39289895",
+   "type": "series",
+   "name": "بطل العالم",
+   "poster": "https://live.metahub.space/poster/small/tt39289895/img",
+   "description": "صلاح ملاكم سابق تُجبره الظروف على العمل كحارس شخصي، فيلتقي بدنيا وتتشابك المصائر في رحلة بحث عن الثقة والحب.",
+   "genres": [
+    "دراما",
+    "رياضة"
+   ],
+   "releaseInfo": "2026"
+  }
+ ]
 }
