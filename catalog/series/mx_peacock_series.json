@@ -46,15 +46,6 @@
    "releaseInfo": "2024"
   },
   {
-   "id": "tmdb:2902",
-   "type": "series",
-   "name": "Queer as Folk",
-   "poster": "https://image.tmdb.org/t/p/w500/mmhL30PonbrrpEOQH5OdyUguyMg.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
    "id": "tmdb:201834",
    "type": "series",
    "name": "Ted",
@@ -71,15 +62,6 @@
    "description": "",
    "genres": [],
    "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:4345",
-   "type": "series",
-   "name": "Saved by the Bell",
-   "poster": "https://image.tmdb.org/t/p/w500/9YC576fs6XQR2pfPDJn4kcmG8T5.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2020"
   },
   {
    "id": "tmdb:120998",

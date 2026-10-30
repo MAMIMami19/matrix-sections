@@ -145,15 +145,6 @@
    "releaseInfo": "2025"
   },
   {
-   "id": "tmdb:948",
-   "type": "movie",
-   "name": "Halloween",
-   "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2018"
-  },
-  {
    "id": "tmdb:419430",
    "type": "movie",
    "name": "Get Out",
