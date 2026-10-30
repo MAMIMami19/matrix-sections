@@ -1,1 +1,342 @@
-{"metas": []}
+{
+  "metas": [
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "The Lion King",
+      "poster": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0103639",
+      "type": "movie",
+      "name": "Aladdin",
+      "poster": "https://image.tmdb.org/t/p/w500/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0101414",
+      "type": "movie",
+      "name": "Beauty and the Beast",
+      "poster": "https://image.tmdb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "description": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt2294629",
+      "type": "movie",
+      "name": "Frozen",
+      "poster": "https://image.tmdb.org/t/p/w500/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "description": "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven in an epic journey to find Anna's sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt4520988",
+      "type": "movie",
+      "name": "Frozen II",
+      "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "description": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to the ancient autumnal forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt3521164",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://image.tmdb.org/t/p/w500/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
+      "description": "In ancient Polynesia, when a terrible curse incurred by the demigod Maui reaches Moana's island, she answers the Ocean's call to seek out Maui to set things right.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt2953050",
+      "type": "movie",
+      "name": "Encanto",
+      "poster": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+      "description": "An extraordinary family, the Madrigals, live hidden in the mountains of Colombia, in a magical house called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift - every child except one, Mi...",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt2948356",
+      "type": "movie",
+      "name": "Zootopia",
+      "poster": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "description": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0398286",
+      "type": "movie",
+      "name": "Tangled",
+      "poster": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "description": "The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt0114709",
+      "type": "movie",
+      "name": "Toy Story",
+      "poster": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0435761",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "poster": "https://image.tmdb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "description": "As Andy prepares to leave for college, Woody, Buzz and the gang face an uncertain future when a mix-up sends them to a daycare center full of new toys.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt0266543",
+      "type": "movie",
+      "name": "Finding Nemo",
+      "poster": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+      "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt2380307",
+      "type": "movie",
+      "name": "Coco",
+      "poster": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt1049413",
+      "type": "movie",
+      "name": "Up",
+      "poster": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "description": "A grumpy old man turns his house into an airship using balloons and flies off to South America with a young stowaway.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2096673",
+      "type": "movie",
+      "name": "Inside Out",
+      "poster": "https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "description": "After a young girl is uprooted from her Midwest life and moved to San Francisco, her emotions conflict on how best to navigate her new reality.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0382932",
+      "type": "movie",
+      "name": "Ratatouille",
+      "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt0910970",
+      "type": "movie",
+      "name": "WALL·E",
+      "poster": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "description": "In a future where humans have temporarily abandoned Earth, a trash-compacting robot falls in love with a flying droid and helps her on her quest to restore hope to mankind.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt0198781",
+      "type": "movie",
+      "name": "Monsters, Inc.",
+      "poster": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "description": "Two monsters whose job is to make human children scream accidentally let a little girl into their world and must now protect her from their own kind to return her home unscathed.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0317705",
+      "type": "movie",
+      "name": "The Incredibles",
+      "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt4154756",
+      "type": "movie",
+      "name": "Avengers: Infinity War",
+      "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt1825683",
+      "type": "movie",
+      "name": "Black Panther",
+      "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt0371746",
+      "type": "movie",
+      "name": "Iron Man",
+      "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt2015381",
+      "type": "movie",
+      "name": "Guardians of the Galaxy",
+      "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "description": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt2488496",
+      "type": "movie",
+      "name": "Star Wars: Episode VII - The Force Awakens",
+      "poster": "https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "description": "As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt3748528",
+      "type": "movie",
+      "name": "Rogue One: A Star Wars Story",
+      "poster": "https://image.tmdb.org/t/p/w500/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "description": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0325980",
+      "type": "movie",
+      "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "poster": "https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+      "description": "An intrepid blacksmith teams up with an eccentric pirate captain to save his love from an undead pirate crew.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "releaseInfo": "2003"
+    }
+  ]
+}
