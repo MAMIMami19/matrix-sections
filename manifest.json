@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
@@ -17,6 +17,18 @@
     "series"
   ],
   "catalogs": [
+    {
+      "type": "movie",
+      "id": "mx_arabic_movie",
+      "name": "حكايات تشبهنا",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_arabic_series",
+      "name": "حكايات تشبهنا",
+      "extra": []
+    },
     {
       "type": "movie",
       "id": "mx_thriller_movie",
@@ -42,21 +54,15 @@
       "extra": []
     },
     {
-      "type": "series",
-      "id": "mx_anime_series",
-      "name": "إلى عالم آخر",
-      "extra": []
-    },
-    {
       "type": "movie",
-      "id": "mx_arabic_movie",
-      "name": "حكايات تشبهنا",
+      "id": "mx_new_movie",
+      "name": "وصل حديثا",
       "extra": []
     },
     {
       "type": "series",
-      "id": "mx_arabic_series",
-      "name": "حكايات تشبهنا",
+      "id": "mx_new_series",
+      "name": "وصل حديثا",
       "extra": []
     },
     {
@@ -78,6 +84,12 @@
       "extra": []
     },
     {
+      "type": "series",
+      "id": "mx_anime_series",
+      "name": "إلى عالم آخر",
+      "extra": []
+    },
+    {
       "type": "movie",
       "id": "mx_foryou_movie",
       "name": "لك",
@@ -90,33 +102,15 @@
       "extra": []
     },
     {
-      "type": "movie",
-      "id": "mx_new_movie",
-      "name": "وصل حديثا",
+      "type": "series",
+      "id": "mx_apple_series",
+      "name": "أعمال Apple TV الأصلية",
       "extra": []
     },
     {
       "type": "series",
-      "id": "mx_new_series",
-      "name": "وصل حديثا",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_top10_movie",
-      "name": "Top 10",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_top10_series",
-      "name": "Top 10",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_netflix_series",
-      "name": "أعمال Netflix الأصلية",
+      "id": "mx_crunchyroll_series",
+      "name": "أعمال Crunchyroll الأصلية",
       "extra": []
     },
     {
@@ -139,14 +133,8 @@
     },
     {
       "type": "series",
-      "id": "mx_apple_series",
-      "name": "أعمال Apple TV الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_prime_series",
-      "name": "أعمال Prime Video الأصلية",
+      "id": "mx_netflix_series",
+      "name": "أعمال Netflix الأصلية",
       "extra": []
     },
     {
@@ -157,26 +145,8 @@
     },
     {
       "type": "series",
-      "id": "mx_yango_series",
-      "name": "أعمال Yango Play الأصلية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_watchit_movie",
-      "name": "أعمال Watch It الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_watchit_series",
-      "name": "أعمال Watch It الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_crunchyroll_series",
-      "name": "أعمال Crunchyroll الأصلية",
+      "id": "mx_prime_series",
+      "name": "أعمال Prime Video الأصلية",
       "extra": []
     },
     {
@@ -195,6 +165,36 @@
       "type": "movie",
       "id": "mx_warner_movie",
       "name": "أعمال Warner Bros الأصلية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_watchit_movie",
+      "name": "أعمال Watch It الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_watchit_series",
+      "name": "أعمال Watch It الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_yango_series",
+      "name": "أعمال Yango Play الأصلية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_top10_movie",
+      "name": "Top 10",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_top10_series",
+      "name": "Top 10",
       "extra": []
     }
   ],
