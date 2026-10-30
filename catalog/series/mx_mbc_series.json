@@ -62,6 +62,78 @@
       "description": "",
       "genres": [],
       "releaseInfo": "2023"
+    },
+    {
+      "id": "tt13773600",
+      "type": "series",
+      "name": "رشاش",
+      "poster": "https://live.metahub.space/poster/small/tt13773600/img",
+      "description": "Inspired by real events, the powerful series narrates the story of the notorious criminal of the same name in the 1980s, and the Saudi police’s efforts to bring him to justice.",
+      "genres": [],
+      "releaseInfo": null
+    },
+    {
+      "id": "tt15307896",
+      "type": "series",
+      "name": "باب الجحيم",
+      "poster": "https://live.metahub.space/poster/small/tt15307896/img",
+      "description": "Living under an authoritarian regime in 2052 Beirut, a secluded man's life changes when a technical failure brings a fugitive woman to his doorstep.",
+      "genres": [],
+      "releaseInfo": null
+    },
+    {
+      "id": "tt37619724",
+      "type": "series",
+      "name": "ابن النادي",
+      "poster": "https://live.metahub.space/poster/small/tt37619724/img",
+      "description": "After his dad's death, Omar's spoiled life unravels as he must revive the Torch Egyptian Club and raise a daughter he never knew existed. Between the chaos of football and fatherhood, his hardest game",
+      "genres": [],
+      "releaseInfo": null
+    },
+    {
+      "id": "tt37895256",
+      "type": "series",
+      "name": "عايشين معانا",
+      "poster": "https://live.metahub.space/poster/small/tt37895256/img",
+      "description": "The Abu Anas family decides to move to a residential compound in Riyadh. But they're not like any ordinary new residents. They're strangers. They're different. They've come from the world of the \"jinn",
+      "genres": [],
+      "releaseInfo": null
+    },
+    {
+      "id": "tt28036821",
+      "type": "series",
+      "name": "جريمة قلب",
+      "poster": "https://live.metahub.space/poster/small/tt28036821/img",
+      "description": "When a young woman dies during a hiking trip with her two friends, the investigation soon reveals it is more than a mere accident.",
+      "genres": [],
+      "releaseInfo": null
+    },
+    {
+      "id": "tt26620988",
+      "type": "series",
+      "name": "كازا ستريت",
+      "poster": "https://live.metahub.space/poster/small/tt26620988/img",
+      "description": "Fate brings three street children together in an adventure of danger, fear, joy and emotion when they accidentally find a bag full of money.",
+      "genres": [],
+      "releaseInfo": null
+    },
+    {
+      "id": "tt20854884",
+      "type": "series",
+      "name": "منعطف خطر",
+      "poster": "https://live.metahub.space/poster/small/tt20854884/img",
+      "description": "Police Captain Hisham begins his investigation into the murder of an influencer found dead in the car of a national club electoral candidate.",
+      "genres": [],
+      "releaseInfo": null
+    },
+    {
+      "id": "tt13911128",
+      "type": "series",
+      "name": "يوميات مدير عام",
+      "poster": "https://live.metahub.space/poster/small/tt13911128/img",
+      "description": "A journalist working in the same newspaper as her husband, and intellectual conflict arises between them because of the differences between the nature of men and women. The series shows the relationsh",
+      "genres": [],
+      "releaseInfo": null
     }
   ]
 }
