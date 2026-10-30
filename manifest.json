@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
@@ -18,171 +18,9 @@
   ],
   "catalogs": [
     {
-      "type": "movie",
-      "id": "mx_arabic_movie",
-      "name": "حكايات تشبهنا",
-      "extra": []
-    },
-    {
       "type": "series",
-      "id": "mx_arabic_series",
-      "name": "حكايات تشبهنا",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_thriller_movie",
-      "name": "تشويق حتى النهاية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_thriller_series",
-      "name": "تشويق حتى النهاية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_comedy_movie",
-      "name": "وقت للضحك",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_comedy_series",
-      "name": "وقت للضحك",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_new_movie",
-      "name": "وصل حديثا",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_new_series",
-      "name": "وصل حديثا",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_episode_series",
-      "name": "حلقة أخرى",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_movienight_movie",
-      "name": "ليلة سينمائية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_anime_ar_series",
-      "name": "أنمي بالعربية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_anime_series",
-      "name": "إلى عالم آخر",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_foryou_movie",
-      "name": "لك",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_foryou_series",
-      "name": "لك",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_apple_series",
-      "name": "أعمال Apple TV الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_crunchyroll_series",
-      "name": "أعمال Crunchyroll الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_disney_series",
-      "name": "أعمال Disney+ الأصلية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_hbo_movie",
-      "name": "أعمال HBO الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_hbo_series",
-      "name": "أعمال HBO الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_netflix_series",
-      "name": "أعمال Netflix الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_paramount_series",
-      "name": "أعمال Paramount الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_prime_series",
-      "name": "أعمال Prime Video الأصلية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_sony_movie",
-      "name": "أعمال Sony الأصلية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_universal_movie",
-      "name": "أعمال Universal الأصلية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_warner_movie",
-      "name": "أعمال Warner Bros الأصلية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_watchit_movie",
-      "name": "أعمال Watch It الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_watchit_series",
-      "name": "أعمال Watch It الأصلية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_yango_series",
-      "name": "أعمال Yango Play الأصلية",
+      "id": "mx_top10_series",
+      "name": "Top 10",
       "extra": []
     },
     {
@@ -193,8 +31,170 @@
     },
     {
       "type": "series",
-      "id": "mx_top10_series",
-      "name": "Top 10",
+      "id": "mx_yango_series",
+      "name": "أعمال Yango Play الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_watchit_series",
+      "name": "أعمال Watch It الأصلية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_watchit_movie",
+      "name": "أعمال Watch It الأصلية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_warner_movie",
+      "name": "أعمال Warner Bros الأصلية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_universal_movie",
+      "name": "أعمال Universal الأصلية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_sony_movie",
+      "name": "أعمال Sony الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_prime_series",
+      "name": "أعمال Prime Video الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_paramount_series",
+      "name": "أعمال Paramount الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_netflix_series",
+      "name": "أعمال Netflix الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_hbo_series",
+      "name": "أعمال HBO الأصلية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_hbo_movie",
+      "name": "أعمال HBO الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_disney_series",
+      "name": "أعمال Disney+ الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_crunchyroll_series",
+      "name": "أعمال Crunchyroll الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_apple_series",
+      "name": "أعمال Apple TV الأصلية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_foryou_series",
+      "name": "لك",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_foryou_movie",
+      "name": "لك",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_anime_series",
+      "name": "إلى عالم آخر",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_anime_ar_series",
+      "name": "أنمي بالعربية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_movienight_movie",
+      "name": "ليلة سينمائية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_episode_series",
+      "name": "حلقة أخرى",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_new_series",
+      "name": "وصل حديثا",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_new_movie",
+      "name": "وصل حديثا",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_comedy_series",
+      "name": "وقت للضحك",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_comedy_movie",
+      "name": "وقت للضحك",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_thriller_series",
+      "name": "تشويق حتى النهاية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_thriller_movie",
+      "name": "تشويق حتى النهاية",
+      "extra": []
+    },
+    {
+      "type": "series",
+      "id": "mx_arabic_series",
+      "name": "حكايات تشبهنا",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_arabic_movie",
+      "name": "حكايات تشبهنا",
       "extra": []
     }
   ],
