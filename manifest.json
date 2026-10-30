@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
@@ -127,6 +127,18 @@
     },
     {
       "type": "series",
+      "id": "mx_new_series",
+      "name": "وصل حديثا",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_new_movie",
+      "name": "وصل حديثا",
+      "extra": []
+    },
+    {
+      "type": "series",
       "id": "mx_anime_series",
       "name": "إلى عالم آخر",
       "extra": []
@@ -147,18 +159,6 @@
       "type": "series",
       "id": "mx_episode_series",
       "name": "حلقة أخرى",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_new_series",
-      "name": "وصل حديثا",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_new_movie",
-      "name": "وصل حديثا",
       "extra": []
     },
     {
