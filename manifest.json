@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
@@ -177,12 +177,6 @@
       "type": "movie",
       "id": "mx_thriller_movie",
       "name": "تشويق حتى النهاية",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_anime_ar_series",
-      "name": "أنمي بالعربية",
       "extra": []
     },
     {
