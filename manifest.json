@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
@@ -144,6 +144,12 @@
       "extra": []
     },
     {
+      "type": "movie",
+      "id": "mx_movienight_movie",
+      "name": "ليلة سينمائية",
+      "extra": []
+    },
+    {
       "type": "series",
       "id": "mx_anime_series",
       "name": "إلى عالم آخر",
@@ -153,12 +159,6 @@
       "type": "series",
       "id": "mx_anime_ar_series",
       "name": "أنمي بالعربية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_movienight_movie",
-      "name": "ليلة سينمائية",
       "extra": []
     },
     {
