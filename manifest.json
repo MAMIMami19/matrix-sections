@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
