@@ -1,1 +1,220 @@
-{"metas": []}
+{
+  "metas": [
+    {
+      "id": "tt9484998",
+      "type": "movie",
+      "name": "Palm Springs",
+      "poster": "https://image.tmdb.org/t/p/w500/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "description": "Two wedding guests find themselves trapped in a time loop, reliving the same day over and over.",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt11866324",
+      "type": "movie",
+      "name": "Prey",
+      "poster": "https://image.tmdb.org/t/p/w500/2FKjLRt7oK1bRRIrxgWmthbBdFh.jpg",
+      "description": "A young Comanche warrior faces a Predator in 1719, in a brutal fight for her tribe's survival.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0887261",
+      "type": "movie",
+      "name": "Hellraiser",
+      "poster": "https://image.tmdb.org/t/p/w500/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+      "description": "A young woman struggling with addiction unleashes the Cenobites after taking possession of an ancient puzzle box.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt2560078",
+      "type": "movie",
+      "name": "Boston Strangler",
+      "poster": "https://image.tmdb.org/t/p/w500/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg",
+      "description": "A reporter investigates the notorious 1960s serial killer terrorizing Boston.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt8633478",
+      "type": "movie",
+      "name": "Run",
+      "poster": "https://image.tmdb.org/t/p/w500/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+      "description": "A homeschooled teenager begins to suspect her devoted mother is hiding a sinister secret.",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt13403046",
+      "type": "movie",
+      "name": "Fresh",
+      "poster": "https://image.tmdb.org/t/p/w500/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+      "description": "A woman's promising new romance takes a horrifying turn when her charming date reveals his appetite.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt14509110",
+      "type": "movie",
+      "name": "No One Will Save You",
+      "poster": "https://image.tmdb.org/t/p/w500/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
+      "description": "A reclusive woman must fight off an alien invasion alone in her isolated home.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt13406136",
+      "type": "movie",
+      "name": "The Princess",
+      "poster": "https://image.tmdb.org/t/p/w500/9pCoqX24a6rE981fY1O3PmhiwrB.jpg",
+      "description": "A headstrong princess fights her way out of a tower to stop a ruthless suitor's coup.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt1777606",
+      "type": "movie",
+      "name": "Rosaline",
+      "poster": "https://image.tmdb.org/t/p/w500/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg",
+      "description": "Romeo's jilted ex-girlfriend schemes to win him back from Juliet in this comedic retelling.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt14814040",
+      "type": "movie",
+      "name": "Not Okay",
+      "poster": "https://image.tmdb.org/t/p/w500/x1q3FkqFHBkMeKnHiS6GYgdLvUs.jpg",
+      "description": "A fame-hungry young woman fakes surviving a tragedy and spirals as the lie grows.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt15218000",
+      "type": "movie",
+      "name": "Fire Island",
+      "poster": "https://image.tmdb.org/t/p/w500/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
+      "description": "A group of queer friends spends a debauched, heartfelt week of love and parties on Fire Island.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt4798836",
+      "type": "movie",
+      "name": "Bad Hair",
+      "poster": "https://image.tmdb.org/t/p/w500/979LvAwRGCkVFgJ04uyPcsPaPF2.jpg",
+      "description": "An ambitious young woman's weave takes on a murderous life of its own in 1989 Los Angeles.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt9731534",
+      "type": "movie",
+      "name": "The Night House",
+      "poster": "https://image.tmdb.org/t/p/w500/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+      "description": "A grieving widow uncovers disturbing secrets about her late husband in their lakeside home.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt13405810",
+      "type": "movie",
+      "name": "Quiz Lady",
+      "poster": "https://image.tmdb.org/t/p/w500/tqKiprkTUfXWi8bOjCl0lHtCwod.jpg",
+      "description": "A game-show-obsessed woman and her chaotic sister team up to win big and pay off their mother's debt.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt26084002",
+      "type": "movie",
+      "name": "Self Reliance",
+      "poster": "https://image.tmdb.org/t/p/w500/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+      "description": "A man agrees to be hunted for a reality show where he survives only if he's never alone.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt13650742",
+      "type": "movie",
+      "name": "Suncoast",
+      "poster": "https://image.tmdb.org/t/p/w500/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg",
+      "description": "A teenager caring for her sick brother bonds with an eccentric activist during a family crisis.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt12810074",
+      "type": "movie",
+      "name": "Nightbitch",
+      "poster": "https://image.tmdb.org/t/p/w500/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg",
+      "description": "A stay-at-home mother becomes convinced she is turning into a dog.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt13029044",
+      "type": "movie",
+      "name": "Mother/Android",
+      "poster": "https://image.tmdb.org/t/p/w500/rO3nV9d1wzHEWsC7xgwxotjZQpM.jpg",
+      "description": "In a world overrun by androids, a pregnant woman flees to safety with her boyfriend.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt3824648",
+      "type": "movie",
+      "name": "Big Time Adolescence",
+      "poster": "https://image.tmdb.org/t/p/w500/iaoIzpakgSm0IQEz3edfAttr4YC.jpg",
+      "description": "A directionless college dropout's reckless mentor drags him into one bad decision after another.",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt11426232",
+      "type": "movie",
+      "name": "Totally Killer",
+      "poster": "https://image.tmdb.org/t/p/w500/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+      "description": "A teen travels back to 1987 to stop the serial killer who murdered her friends' mothers.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt26569323",
+      "type": "movie",
+      "name": "The Mill",
+      "poster": "https://image.tmdb.org/t/p/w500/bCga8NK6mzRHTd7t1m8bvLDDvSz.jpg",
+      "description": "A businessman wakes trapped in a grinder mill, forced to work endlessly by a mysterious corporation.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt17219484",
+      "type": "movie",
+      "name": "Clock",
+      "poster": "https://image.tmdb.org/t/p/w500/bkPpmNSdbRIgtscqH86BQFLJXcz.jpg",
+      "description": "A woman undergoes an experimental treatment to fix her broken biological clock with terrifying results.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt11242218",
+      "type": "movie",
+      "name": "Books of Blood",
+      "poster": "https://image.tmdb.org/t/p/w500/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+      "description": "Three interwoven tales of the macabre inspired by Clive Barker's horror anthology.",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt18363072",
+      "type": "movie",
+      "name": "The Royal Hotel",
+      "poster": "https://image.tmdb.org/t/p/w500/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg",
+      "description": "Two backpackers take bar jobs at a remote Australian pub and face escalating menace.",
+      "genres": [],
+      "releaseInfo": "2023"
+    }
+  ]
+}

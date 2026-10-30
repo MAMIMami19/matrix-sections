@@ -1,0 +1,256 @@
+{
+  "metas": [
+    {
+      "id": "tt0460681",
+      "type": "series",
+      "name": "Supernatural",
+      "poster": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+      "description": "Two brothers crisscross America hunting demons, ghosts, and monsters while confronting their family's dark legacy.",
+      "genres": [],
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt1405406",
+      "type": "series",
+      "name": "The Vampire Diaries",
+      "poster": "https://image.tmdb.org/t/p/w500/gbp4zM0FE0n23X4UFY5EBlacrog.jpg",
+      "description": "A teenage girl is torn between two vampire brothers in the supernatural town of Mystic Falls.",
+      "genres": [],
+      "releaseInfo": "2009"
+    },
+    {
+      "id": "tt2193021",
+      "type": "series",
+      "name": "Arrow",
+      "poster": "https://image.tmdb.org/t/p/w500/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+      "description": "Billionaire Oliver Queen returns home and becomes a hooded vigilante fighting crime in Starling City.",
+      "genres": [],
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt0279600",
+      "type": "series",
+      "name": "Smallville",
+      "poster": "https://image.tmdb.org/t/p/w500/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+      "description": "The origin story of Clark Kent as he discovers his powers and destiny in Smallville, Kansas.",
+      "genres": [],
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0369179",
+      "type": "series",
+      "name": "Two and a Half Men",
+      "poster": "https://image.tmdb.org/t/p/w500/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+      "description": "A hedonistic jingle writer's life is upended when his uptight brother and nephew move in.",
+      "genres": [],
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "The Mentalist",
+      "poster": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+      "description": "A former fake psychic turned consultant uses his sharp observational skills to help the CBI catch killers.",
+      "genres": [],
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt1839578",
+      "type": "series",
+      "name": "Person of Interest",
+      "poster": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+      "description": "A reclusive billionaire and an ex-CIA operative use a surveillance supercomputer to stop crimes before they happen.",
+      "genres": [],
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt3749900",
+      "type": "series",
+      "name": "Gotham",
+      "poster": "https://image.tmdb.org/t/p/w500/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
+      "description": "The origin story of Gotham City, following young detective James Gordon and a young Bruce Wayne.",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt5420376",
+      "type": "series",
+      "name": "Riverdale",
+      "poster": "https://image.tmdb.org/t/p/w500/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+      "description": "Archie and his friends uncover dark secrets lurking beneath their seemingly perfect small town.",
+      "genres": [],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt2632424",
+      "type": "series",
+      "name": "The Originals",
+      "poster": "https://image.tmdb.org/t/p/w500/keJOhJXGiLL54EW6QocbyvQGquA.jpg",
+      "description": "The Mikaelson siblings, the world's original vampires, return to New Orleans to reclaim their city.",
+      "genres": [],
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2661044",
+      "type": "series",
+      "name": "The 100",
+      "poster": "https://image.tmdb.org/t/p/w500/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
+      "description": "One hundred juvenile delinquents are sent back to a post-apocalyptic Earth to see if it is survivable.",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt3501584",
+      "type": "series",
+      "name": "iZombie",
+      "poster": "https://image.tmdb.org/t/p/w500/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg",
+      "description": "A zombie medical examiner eats victims' brains to solve their murders, absorbing their memories.",
+      "genres": [],
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt1586680",
+      "type": "series",
+      "name": "Shameless",
+      "poster": "https://image.tmdb.org/t/p/w500/Yi3WVT6hOkPahOwwvmLmif1jhs.jpg",
+      "description": "The chaotic Gallagher family scrapes by on Chicago's South Side with wit and questionable schemes.",
+      "genres": [],
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt0238784",
+      "type": "series",
+      "name": "Gilmore Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
+      "description": "A witty single mother and her bookish daughter navigate life, love, and coffee in Stars Hollow.",
+      "genres": [],
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0200276",
+      "type": "series",
+      "name": "The West Wing",
+      "poster": "https://image.tmdb.org/t/p/w500/yz1qWFZ8kjgQjqB9NX5kWMetX4w.jpg",
+      "description": "Inside the White House, President Bartlet's staff navigates politics, crises, and ideals.",
+      "genres": [],
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt1119644",
+      "type": "series",
+      "name": "Fringe",
+      "poster": "https://image.tmdb.org/t/p/w500/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+      "description": "An FBI agent, a mad scientist, and his son investigate bizarre phenomena on the fringes of science.",
+      "genres": [],
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt6226232",
+      "type": "series",
+      "name": "Young Sheldon",
+      "poster": "https://image.tmdb.org/t/p/w500/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
+      "description": "The childhood of genius Sheldon Cooper growing up with his family in East Texas.",
+      "genres": [],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt1578873",
+      "type": "series",
+      "name": "Pretty Little Liars",
+      "poster": "https://image.tmdb.org/t/p/w500/aUPbHiLS3hCHKjtLsncFa9g0viV.jpg",
+      "description": "Four friends are tormented by an anonymous stalker after their leader mysteriously disappears.",
+      "genres": [],
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt0934814",
+      "type": "series",
+      "name": "Chuck",
+      "poster": "https://image.tmdb.org/t/p/w500/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg",
+      "description": "An ordinary tech-support nerd becomes a government asset when spy secrets are downloaded into his brain.",
+      "genres": [],
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt0368530",
+      "type": "series",
+      "name": "One Tree Hill",
+      "poster": "https://image.tmdb.org/t/p/w500/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+      "description": "Two half-brothers with rival lives collide on and off the basketball court in Tree Hill.",
+      "genres": [],
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt0397442",
+      "type": "series",
+      "name": "Gossip Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/ep03M6KKZGeljOizPEbt3Geja5n.jpg",
+      "description": "Manhattan's elite teens have their secrets exposed by the mysterious blogger Gossip Girl.",
+      "genres": [],
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt3107288",
+      "type": "series",
+      "name": "The Flash",
+      "poster": "https://image.tmdb.org/t/p/w500/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+      "description": "Forensic scientist Barry Allen gains super-speed and becomes Central City's Scarlet Speedster.",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt7587890",
+      "type": "series",
+      "name": "The Rookie",
+      "poster": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "description": "A 40-year-old starts over as the LAPD's oldest rookie cop, proving it's never too late.",
+      "genres": [],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt7414406",
+      "type": "series",
+      "name": "All American",
+      "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+      "description": "A high school football star from South L.A. is recruited to play for Beverly Hills High.",
+      "genres": [],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt1845307",
+      "type": "series",
+      "name": "2 Broke Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/wW1SDEoZ6pDfnSkVQuXwOo8ICep.jpg",
+      "description": "Two broke waitresses in Brooklyn hustle to save enough money to open their own cupcake shop.",
+      "genres": [],
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt11192306",
+      "type": "series",
+      "name": "Superman & Lois",
+      "poster": "https://image.tmdb.org/t/p/w500/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg",
+      "description": "Clark Kent and Lois Lane juggle saving the world with raising teenage sons in Smallville.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt14218830",
+      "type": "series",
+      "name": "Abbott Elementary",
+      "poster": "https://image.tmdb.org/t/p/w500/zk2aNVIHoapdWKOcaYp7PhX9SxD.jpg",
+      "description": "A mockumentary following dedicated teachers at an underfunded Philadelphia public school.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt8416494",
+      "type": "series",
+      "name": "Doom Patrol",
+      "poster": "https://image.tmdb.org/t/p/w500/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg",
+      "description": "A team of traumatized misfit superheroes investigates bizarre threats under the Chief's guidance.",
+      "genres": [],
+      "releaseInfo": "2019"
+    }
+  ]
+}
