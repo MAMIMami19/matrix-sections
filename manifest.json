@@ -1,6 +1,6 @@
 {
   "id": "matrix.iptv.sections",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "name": "Matrix IPTV Sections",
   "description": "Showflix-style editorial rows + platform productions for Matrix IPTV",
   "resources": [
@@ -169,6 +169,18 @@
     },
     {
       "type": "series",
+      "id": "mx_thriller_series",
+      "name": "تشويق حتى النهاية",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "mx_thriller_movie",
+      "name": "تشويق حتى النهاية",
+      "extra": []
+    },
+    {
+      "type": "series",
       "id": "mx_anime_ar_series",
       "name": "أنمي بالعربية",
       "extra": []
@@ -183,18 +195,6 @@
       "type": "movie",
       "id": "mx_comedy_movie",
       "name": "وقت للضحك",
-      "extra": []
-    },
-    {
-      "type": "series",
-      "id": "mx_thriller_series",
-      "name": "تشويق حتى النهاية",
-      "extra": []
-    },
-    {
-      "type": "movie",
-      "id": "mx_thriller_movie",
-      "name": "تشويق حتى النهاية",
       "extra": []
     }
   ],
