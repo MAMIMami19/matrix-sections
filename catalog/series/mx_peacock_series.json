@@ -1,166 +1,166 @@
 {
- "metas": [
-  {
-   "id": "tmdb:243217",
-   "type": "series",
-   "name": "Happy Face",
-   "poster": "https://image.tmdb.org/t/p/w500/sGHZrYxOU2U2JLrmYO12qGl1VK4.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tmdb:247721",
-   "type": "series",
-   "name": "Teacup",
-   "poster": "https://image.tmdb.org/t/p/w500/cP5zuQvWAFrgWptS0iXvDI3iND.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:93751",
-   "type": "series",
-   "name": "Angelyne",
-   "poster": "https://image.tmdb.org/t/p/w500/dCSmm9aRal83ql1QbCujIKyoqGl.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:136738",
-   "type": "series",
-   "name": "Wolf Like Me",
-   "poster": "https://image.tmdb.org/t/p/w500/8eZerQDLDkdvQ7vrv6Slkr36sHX.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:222766",
-   "type": "series",
-   "name": "The Day of the Jackal",
-   "poster": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:201834",
-   "type": "series",
-   "name": "Ted",
-   "poster": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:215943",
-   "type": "series",
-   "name": "The Traitors",
-   "poster": "https://image.tmdb.org/t/p/w500/ulYR2NMKwnWoRWiw3KnFpaT2qjj.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:120998",
-   "type": "series",
-   "name": "Poker Face",
-   "poster": "https://image.tmdb.org/t/p/w500/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:107365",
-   "type": "series",
-   "name": "Bel-Air",
-   "poster": "https://image.tmdb.org/t/p/w500/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:100350",
-   "type": "series",
-   "name": "Girls5eva",
-   "poster": "https://image.tmdb.org/t/p/w500/1RplQ2ooky3kONomTNhsptZxqAV.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:133748",
-   "type": "series",
-   "name": "Twisted Metal",
-   "poster": "https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:93749",
-   "type": "series",
-   "name": "Dr. Death",
-   "poster": "https://image.tmdb.org/t/p/w500/pNnmxTSc2ixac4xk8T80wchec0r.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:72710",
-   "type": "series",
-   "name": "The Continental",
-   "poster": "https://image.tmdb.org/t/p/w500/2urdwqEL9FRkGMKAkhfvWTALG00.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:197373",
-   "type": "series",
-   "name": "Based on a True Story",
-   "poster": "https://image.tmdb.org/t/p/w500/5xPLk78TFStBi1dQAlG2mnoSK60.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:197548",
-   "type": "series",
-   "name": "Mrs. Davis",
-   "poster": "https://image.tmdb.org/t/p/w500/tMr3mFACLuL4J7AEj8yDwcf5rnr.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:218589",
-   "type": "series",
-   "name": "Those About to Die",
-   "poster": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:2902",
-   "type": "series",
-   "name": "Queer as Folk",
-   "poster": "https://image.tmdb.org/t/p/w500/mmhL30PonbrrpEOQH5OdyUguyMg.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:4345",
-   "type": "series",
-   "name": "Saved by the Bell",
-   "poster": "https://image.tmdb.org/t/p/w500/9YC576fs6XQR2pfPDJn4kcmG8T5.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2020"
-  }
- ]
+  "metas": [
+    {
+      "id": "tt15977292",
+      "type": "series",
+      "name": "Happy Face",
+      "poster": "https://image.tmdb.org/t/p/w500/sGHZrYxOU2U2JLrmYO12qGl1VK4.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt27031263",
+      "type": "series",
+      "name": "Teacup",
+      "poster": "https://image.tmdb.org/t/p/w500/cP5zuQvWAFrgWptS0iXvDI3iND.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt7632118",
+      "type": "series",
+      "name": "Angelyne",
+      "poster": "https://image.tmdb.org/t/p/w500/dCSmm9aRal83ql1QbCujIKyoqGl.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt14452228",
+      "type": "series",
+      "name": "Wolf Like Me",
+      "poster": "https://image.tmdb.org/t/p/w500/8eZerQDLDkdvQ7vrv6Slkr36sHX.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt24053860",
+      "type": "series",
+      "name": "The Day of the Jackal",
+      "poster": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt14824792",
+      "type": "series",
+      "name": "Ted",
+      "poster": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt15557874",
+      "type": "series",
+      "name": "The Traitors",
+      "poster": "https://image.tmdb.org/t/p/w500/ulYR2NMKwnWoRWiw3KnFpaT2qjj.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt14269590",
+      "type": "series",
+      "name": "Poker Face",
+      "poster": "https://image.tmdb.org/t/p/w500/8Xm5dyMQC9whMJKnGdFugUAW73C.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt12878838",
+      "type": "series",
+      "name": "Bel-Air",
+      "poster": "https://image.tmdb.org/t/p/w500/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt11650492",
+      "type": "series",
+      "name": "Girls5eva",
+      "poster": "https://image.tmdb.org/t/p/w500/1RplQ2ooky3kONomTNhsptZxqAV.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt14261112",
+      "type": "series",
+      "name": "Twisted Metal",
+      "poster": "https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt9179552",
+      "type": "series",
+      "name": "Dr. Death",
+      "poster": "https://image.tmdb.org/t/p/w500/pNnmxTSc2ixac4xk8T80wchec0r.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt6486762",
+      "type": "series",
+      "name": "The Continental",
+      "poster": "https://image.tmdb.org/t/p/w500/2urdwqEL9FRkGMKAkhfvWTALG00.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt19500224",
+      "type": "series",
+      "name": "Based on a True Story",
+      "poster": "https://image.tmdb.org/t/p/w500/5xPLk78TFStBi1dQAlG2mnoSK60.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt14759574",
+      "type": "series",
+      "name": "Mrs. Davis",
+      "poster": "https://image.tmdb.org/t/p/w500/tMr3mFACLuL4J7AEj8yDwcf5rnr.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt10569934",
+      "type": "series",
+      "name": "Those About to Die",
+      "poster": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0262985",
+      "type": "series",
+      "name": "Queer as Folk",
+      "poster": "https://image.tmdb.org/t/p/w500/mmhL30PonbrrpEOQH5OdyUguyMg.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0096694",
+      "type": "series",
+      "name": "Saved by the Bell",
+      "poster": "https://image.tmdb.org/t/p/w500/9YC576fs6XQR2pfPDJn4kcmG8T5.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2020"
+    }
+  ]
 }

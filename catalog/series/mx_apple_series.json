@@ -1,274 +1,274 @@
 {
- "metas": [
-  {
-   "id": "tmdb:97546",
-   "type": "series",
-   "name": "Ted Lasso",
-   "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-   "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-   "genres": [],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tmdb:95396",
-   "type": "series",
-   "name": "Severance",
-   "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
-   "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:90282",
-   "type": "series",
-   "name": "The Morning Show",
-   "poster": "https://image.tmdb.org/t/p/w500/y9x2R87yt2U616736NJrP0d56dt.jpg",
-   "description": "A behind-the-scenes look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:125988",
-   "type": "series",
-   "name": "Silo",
-   "poster": "https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
-   "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:95480",
-   "type": "series",
-   "name": "Slow Horses",
-   "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-   "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:136311",
-   "type": "series",
-   "name": "Shrinking",
-   "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-   "description": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:87917",
-   "type": "series",
-   "name": "For All Mankind",
-   "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-   "description": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:80752",
-   "type": "series",
-   "name": "See",
-   "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
-   "description": "A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:198102",
-   "type": "series",
-   "name": "Hijack",
-   "poster": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
-   "description": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:202411",
-   "type": "series",
-   "name": "Monarch: Legacy of Monsters",
-   "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-   "description": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:110382",
-   "type": "series",
-   "name": "Pachinko",
-   "poster": "https://image.tmdb.org/t/p/w500/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg",
-   "description": "This sweeping saga chronicles the hopes and dreams of a Korean immigrant family across four generations as they leave their homeland in an indomitable quest to survive and thrive.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:247767",
-   "type": "series",
-   "name": "The Studio",
-   "poster": "https://image.tmdb.org/t/p/w500/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg",
-   "description": "Desperate for celebrity approval, the newly appointed head of a movie studio and his executive team at Continental Studios must juggle corporate demands with creative ambitions as they try to keep movies alive and relevant.",
-   "genres": [],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tmdb:241609",
-   "type": "series",
-   "name": "Your Friends & Neighbors",
-   "poster": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg",
-   "description": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him—but he gradually gets tangled in a deadly web.",
-   "genres": [],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tmdb:225171",
-   "type": "series",
-   "name": "Pluribus",
-   "poster": "https://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
-   "description": "The most miserable person on Earth must save the world from happiness.",
-   "genres": [],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tmdb:196322",
-   "type": "series",
-   "name": "Dark Matter",
-   "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:93740",
-   "type": "series",
-   "name": "Foundation",
-   "poster": "https://image.tmdb.org/t/p/w500/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:46518",
-   "type": "series",
-   "name": "Masters of the Air",
-   "poster": "https://image.tmdb.org/t/p/w500/rSAmgcoA74371rplbqM27yVsd3y.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:127235",
-   "type": "series",
-   "name": "Invasion",
-   "poster": "https://image.tmdb.org/t/p/w500/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:201289",
-   "type": "series",
-   "name": "The Last Thing He Told Me",
-   "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:94951",
-   "type": "series",
-   "name": "Mythic Quest",
-   "poster": "https://image.tmdb.org/t/p/w500/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tmdb:203744",
-   "type": "series",
-   "name": "Sugar",
-   "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:93716",
-   "type": "series",
-   "name": "The Mosquito Coast",
-   "poster": "https://image.tmdb.org/t/p/w500/xMQU5aGjxsqxKQNhSfY2G8Y6jRg.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:88055",
-   "type": "series",
-   "name": "Servant",
-   "poster": "https://image.tmdb.org/t/p/w500/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:89901",
-   "type": "series",
-   "name": "Dickinson",
-   "poster": "https://image.tmdb.org/t/p/w500/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:80054",
-   "type": "series",
-   "name": "Truth Be Told",
-   "poster": "https://image.tmdb.org/t/p/w500/3T2TJ61ems7ArVGwb6kiVuKcdUk.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:133727",
-   "type": "series",
-   "name": "Acapulco",
-   "poster": "https://image.tmdb.org/t/p/w500/gzBkO4zFr75A13GKnjvTeg25pze.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:112211",
-   "type": "series",
-   "name": "Platonic",
-   "poster": "https://image.tmdb.org/t/p/w500/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:130853",
-   "type": "series",
-   "name": "Bad Monkey",
-   "poster": "https://image.tmdb.org/t/p/w500/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:98161",
-   "type": "series",
-   "name": "Home Before Dark",
-   "poster": "https://image.tmdb.org/t/p/w500/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tmdb:157367",
-   "type": "series",
-   "name": "Palm Royale",
-   "poster": "https://image.tmdb.org/t/p/w500/7WcJLCS31BiVYgvnh19lOjZoiiZ.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  }
- ]
+  "metas": [
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://image.tmdb.org/t/p/w500/y9x2R87yt2U616736NJrP0d56dt.jpg",
+      "description": "A behind-the-scenes look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt15677150",
+      "type": "series",
+      "name": "Shrinking",
+      "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+      "description": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt7772588",
+      "type": "series",
+      "name": "For All Mankind",
+      "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+      "description": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt7949218",
+      "type": "series",
+      "name": "See",
+      "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+      "description": "A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt19854762",
+      "type": "series",
+      "name": "Hijack",
+      "poster": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "description": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt17220216",
+      "type": "series",
+      "name": "Monarch: Legacy of Monsters",
+      "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "description": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt8888462",
+      "type": "series",
+      "name": "Pachinko",
+      "poster": "https://image.tmdb.org/t/p/w500/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg",
+      "description": "This sweeping saga chronicles the hopes and dreams of a Korean immigrant family across four generations as they leave their homeland in an indomitable quest to survive and thrive.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt23649128",
+      "type": "series",
+      "name": "The Studio",
+      "poster": "https://image.tmdb.org/t/p/w500/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg",
+      "description": "Desperate for celebrity approval, the newly appointed head of a movie studio and his executive team at Continental Studios must juggle corporate demands with creative ambitions as they try to keep movies alive and relevant.",
+      "genres": [],
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt30459041",
+      "type": "series",
+      "name": "Your Friends & Neighbors",
+      "poster": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg",
+      "description": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him—but he gradually gets tangled in a deadly web.",
+      "genres": [],
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt22202452",
+      "type": "series",
+      "name": "Pluribus",
+      "poster": "https://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+      "description": "The most miserable person on Earth must save the world from happiness.",
+      "genres": [],
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt19231492",
+      "type": "series",
+      "name": "Dark Matter",
+      "poster": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt0804484",
+      "type": "series",
+      "name": "Foundation",
+      "poster": "https://image.tmdb.org/t/p/w500/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt2640044",
+      "type": "series",
+      "name": "Masters of the Air",
+      "poster": "https://image.tmdb.org/t/p/w500/rSAmgcoA74371rplbqM27yVsd3y.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt9737326",
+      "type": "series",
+      "name": "Invasion",
+      "poster": "https://image.tmdb.org/t/p/w500/1PdNB3rYTcf8VXc8rcmZ0SeYxSq.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt13745850",
+      "type": "series",
+      "name": "The Last Thing He Told Me",
+      "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt8879940",
+      "type": "series",
+      "name": "Mythic Quest",
+      "poster": "https://image.tmdb.org/t/p/w500/7QxQlpqEjx3vRpEtuh6Y0R6eY9O.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt11041132",
+      "type": "series",
+      "name": "The Mosquito Coast",
+      "poster": "https://image.tmdb.org/t/p/w500/xMQU5aGjxsqxKQNhSfY2G8Y6jRg.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt8068860",
+      "type": "series",
+      "name": "Servant",
+      "poster": "https://image.tmdb.org/t/p/w500/plsSSobmPSSz4hm8vYMXeIVkJJP.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt8518136",
+      "type": "series",
+      "name": "Dickinson",
+      "poster": "https://image.tmdb.org/t/p/w500/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt7821582",
+      "type": "series",
+      "name": "Truth Be Told",
+      "poster": "https://image.tmdb.org/t/p/w500/3T2TJ61ems7ArVGwb6kiVuKcdUk.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt13567344",
+      "type": "series",
+      "name": "Acapulco",
+      "poster": "https://image.tmdb.org/t/p/w500/gzBkO4zFr75A13GKnjvTeg25pze.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt13366604",
+      "type": "series",
+      "name": "Platonic",
+      "poster": "https://image.tmdb.org/t/p/w500/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt15203646",
+      "type": "series",
+      "name": "Bad Monkey",
+      "poster": "https://image.tmdb.org/t/p/w500/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6053512",
+      "type": "series",
+      "name": "Home Before Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/mt4P2epJrSaqrlkMP9fTUKLP9OE.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt8888540",
+      "type": "series",
+      "name": "Palm Royale",
+      "poster": "https://image.tmdb.org/t/p/w500/7WcJLCS31BiVYgvnh19lOjZoiiZ.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    }
+  ]
 }

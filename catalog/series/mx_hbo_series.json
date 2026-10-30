@@ -1,328 +1,328 @@
 {
- "metas": [
-  {
-   "id": "tmdb:1399",
-   "type": "series",
-   "name": "Game of Thrones",
-   "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-   "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-   "genres": [],
-   "releaseInfo": "2011"
-  },
-  {
-   "id": "tmdb:94997",
-   "type": "series",
-   "name": "House of the Dragon",
-   "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-   "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:100088",
-   "type": "series",
-   "name": "The Last of Us",
-   "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
-   "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:46648",
-   "type": "series",
-   "name": "True Detective",
-   "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
-   "description": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
-   "genres": [],
-   "releaseInfo": "2014"
-  },
-  {
-   "id": "tmdb:111803",
-   "type": "series",
-   "name": "The White Lotus",
-   "poster": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-   "description": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:76331",
-   "type": "series",
-   "name": "Succession",
-   "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
-   "description": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
-   "genres": [],
-   "releaseInfo": "2018"
-  },
-  {
-   "id": "tmdb:1398",
-   "type": "series",
-   "name": "The Sopranos",
-   "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
-   "description": "Mob boss Tony Soprano juggles crime family and therapy.",
-   "genres": [],
-   "releaseInfo": "1999"
-  },
-  {
-   "id": "tmdb:1438",
-   "type": "series",
-   "name": "The Wire",
-   "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
-   "description": "Baltimore's drug war examined through cops, dealers and the city itself.",
-   "genres": [],
-   "releaseInfo": "2002"
-  },
-  {
-   "id": "tmdb:63247",
-   "type": "series",
-   "name": "Westworld",
-   "poster": "https://image.tmdb.org/t/p/w500/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
-   "description": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
-   "genres": [],
-   "releaseInfo": "2016"
-  },
-  {
-   "id": "tmdb:10545",
-   "type": "series",
-   "name": "True Blood",
-   "poster": "https://image.tmdb.org/t/p/w500/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg",
-   "description": "Thanks to a Japanese scientist's invention of synthetic blood, vampires have progressed overnight from legendary monsters to fellow citizens. And while humans have been safely removed from the menu, many remain apprehensive about these creatures \"coming out of the coffin.\" Religious leaders, government officials, and vampire fundamentalists around the world have chosen their sides.  But in the small Louisiana town of Bon Temps, the jury is still out.",
-   "genres": [],
-   "releaseInfo": "2008"
-  },
-  {
-   "id": "tmdb:105",
-   "type": "series",
-   "name": "Sex and the City",
-   "poster": "https://image.tmdb.org/t/p/w500/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
-   "description": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene. ",
-   "genres": [],
-   "releaseInfo": "1998"
-  },
-  {
-   "id": "tmdb:1621",
-   "type": "series",
-   "name": "Boardwalk Empire",
-   "poster": "https://image.tmdb.org/t/p/w500/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg",
-   "description": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster.",
-   "genres": [],
-   "releaseInfo": "2010"
-  },
-  {
-   "id": "tmdb:194764",
-   "type": "series",
-   "name": "The Penguin",
-   "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
-   "description": "Oz Cobb claws his way up Gotham's criminal underworld.",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:110492",
-   "type": "series",
-   "name": "Peacemaker",
-   "poster": "https://image.tmdb.org/t/p/w500/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg",
-   "description": "The jingoistic antihero takes on a new mission to save the world.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:85552",
-   "type": "series",
-   "name": "Euphoria",
-   "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-   "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:1940",
-   "type": "series",
-   "name": "Entourage",
-   "poster": "https://image.tmdb.org/t/p/w500/pDueLVvdrR2jSMrQ2pFXI9ff5zB.jpg",
-   "description": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent.",
-   "genres": [],
-   "releaseInfo": "2004"
-  },
-  {
-   "id": "tmdb:65817",
-   "type": "series",
-   "name": "The Deuce",
-   "poster": "https://image.tmdb.org/t/p/w500/tKFUwmue5g45rthZOyYWd7l931y.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2017"
-  },
-  {
-   "id": "tmdb:66292",
-   "type": "series",
-   "name": "Big Little Lies",
-   "poster": "https://image.tmdb.org/t/p/w500/zxGkno93ExrTMsJVllH6mzQ652z.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2017"
-  },
-  {
-   "id": "tmdb:124067",
-   "type": "series",
-   "name": "Winning Time",
-   "poster": "https://image.tmdb.org/t/p/w500/6B9hTge98t52bQofyvs1M370k7n.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:80828",
-   "type": "series",
-   "name": "The Nevers",
-   "poster": "https://image.tmdb.org/t/p/w500/v6Xmj8Fy7ZruVTz3y2Po7O0TQh4.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:85723",
-   "type": "series",
-   "name": "Raised by Wolves",
-   "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tmdb:16997",
-   "type": "series",
-   "name": "The Pacific",
-   "poster": "https://image.tmdb.org/t/p/w500/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2010"
-  },
-  {
-   "id": "tmdb:4546",
-   "type": "series",
-   "name": "Curb Your Enthusiasm",
-   "poster": "https://image.tmdb.org/t/p/w500/pjRRB1NCFJzCb0euvpia4rKDov1.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2000"
-  },
-  {
-   "id": "tmdb:124101",
-   "type": "series",
-   "name": "Hacks",
-   "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:1274",
-   "type": "series",
-   "name": "Six Feet Under",
-   "poster": "https://image.tmdb.org/t/p/w500/sCgzLaVlFy8KxtxRPvt1V5MNTDb.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2001"
-  },
-  {
-   "id": "tmdb:60573",
-   "type": "series",
-   "name": "Silicon Valley",
-   "poster": "https://image.tmdb.org/t/p/w500/4ptpmWBVD9HY9hMh8Cbs6SMiy7p.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2014"
-  },
-  {
-   "id": "tmdb:87108",
-   "type": "series",
-   "name": "Chernobyl",
-   "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:4613",
-   "type": "series",
-   "name": "Band of Brothers",
-   "poster": "https://image.tmdb.org/t/p/w500/eLdcio9HBKzsdIJGeD80oObDfkr.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2001"
-  },
-  {
-   "id": "tmdb:81723",
-   "type": "series",
-   "name": "The Gilded Age",
-   "poster": "https://image.tmdb.org/t/p/w500/lBsDmxBI4ELLmgF5uhUCvjgpQxh.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:1406",
-   "type": "series",
-   "name": "Deadwood",
-   "poster": "https://image.tmdb.org/t/p/w500/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2004"
-  },
-  {
-   "id": "tmdb:42282",
-   "type": "series",
-   "name": "Girls",
-   "poster": "https://image.tmdb.org/t/p/w500/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2012"
-  },
-  {
-   "id": "tmdb:82782",
-   "type": "series",
-   "name": "The Righteous Gemstones",
-   "poster": "https://image.tmdb.org/t/p/w500/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:68507",
-   "type": "series",
-   "name": "His Dark Materials",
-   "poster": "https://image.tmdb.org/t/p/w500/g6tIKGc3f1H5QMz1dcgCwADKpZ7.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:90812",
-   "type": "series",
-   "name": "Industry",
-   "poster": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2020"
-  },
-  {
-   "id": "tmdb:73107",
-   "type": "series",
-   "name": "Barry",
-   "poster": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2018"
-  },
-  {
-   "id": "tmdb:62704",
-   "type": "series",
-   "name": "Ballers",
-   "poster": "https://image.tmdb.org/t/p/w500/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2015"
-  }
- ]
+  "metas": [
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "genres": [],
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "House of the Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt3581920",
+      "type": "series",
+      "name": "The Last of Us",
+      "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+      "description": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt13406094",
+      "type": "series",
+      "name": "The White Lotus",
+      "poster": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+      "description": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt7660850",
+      "type": "series",
+      "name": "Succession",
+      "poster": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg",
+      "description": "Follow the lives of the Roy family as they contemplate their future once their aging father begins to step back from the media and entertainment conglomerate they control.",
+      "genres": [],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt0141842",
+      "type": "series",
+      "name": "The Sopranos",
+      "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+      "description": "Mob boss Tony Soprano juggles crime family and therapy.",
+      "genres": [],
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0306414",
+      "type": "series",
+      "name": "The Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+      "description": "Baltimore's drug war examined through cops, dealers and the city itself.",
+      "genres": [],
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0475784",
+      "type": "series",
+      "name": "Westworld",
+      "poster": "https://image.tmdb.org/t/p/w500/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
+      "description": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+      "genres": [],
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt0844441",
+      "type": "series",
+      "name": "True Blood",
+      "poster": "https://image.tmdb.org/t/p/w500/ktEp6fzL4xzCWsSVtrcH8JaQNQy.jpg",
+      "description": "Thanks to a Japanese scientist's invention of synthetic blood, vampires have progressed overnight from legendary monsters to fellow citizens. And while humans have been safely removed from the menu, many remain apprehensive about these creatures \"coming out of the coffin.\" Religious leaders, government officials, and vampire fundamentalists around the world have chosen their sides.  But in the small Louisiana town of Bon Temps, the jury is still out.",
+      "genres": [],
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt0159206",
+      "type": "series",
+      "name": "Sex and the City",
+      "poster": "https://image.tmdb.org/t/p/w500/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg",
+      "description": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene. ",
+      "genres": [],
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0979432",
+      "type": "series",
+      "name": "Boardwalk Empire",
+      "poster": "https://image.tmdb.org/t/p/w500/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg",
+      "description": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster.",
+      "genres": [],
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt15435876",
+      "type": "series",
+      "name": "The Penguin",
+      "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+      "description": "Oz Cobb claws his way up Gotham's criminal underworld.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt13146488",
+      "type": "series",
+      "name": "Peacemaker",
+      "poster": "https://image.tmdb.org/t/p/w500/yb4F1Oocq8GfQt6iIuAgYEBokhG.jpg",
+      "description": "The jingoistic antihero takes on a new mission to save the world.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt8772296",
+      "type": "series",
+      "name": "Euphoria",
+      "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt0387199",
+      "type": "series",
+      "name": "Entourage",
+      "poster": "https://image.tmdb.org/t/p/w500/pDueLVvdrR2jSMrQ2pFXI9ff5zB.jpg",
+      "description": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent.",
+      "genres": [],
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt4998350",
+      "type": "series",
+      "name": "The Deuce",
+      "poster": "https://image.tmdb.org/t/p/w500/tKFUwmue5g45rthZOyYWd7l931y.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt3920596",
+      "type": "series",
+      "name": "Big Little Lies",
+      "poster": "https://image.tmdb.org/t/p/w500/zxGkno93ExrTMsJVllH6mzQ652z.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt10244600",
+      "type": "series",
+      "name": "Winning Time",
+      "poster": "https://image.tmdb.org/t/p/w500/6B9hTge98t52bQofyvs1M370k7n.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt8697870",
+      "type": "series",
+      "name": "The Nevers",
+      "poster": "https://image.tmdb.org/t/p/w500/v6Xmj8Fy7ZruVTz3y2Po7O0TQh4.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt9170108",
+      "type": "series",
+      "name": "Raised by Wolves",
+      "poster": "https://image.tmdb.org/t/p/w500/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt0374463",
+      "type": "series",
+      "name": "The Pacific",
+      "poster": "https://image.tmdb.org/t/p/w500/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt0264235",
+      "type": "series",
+      "name": "Curb Your Enthusiasm",
+      "poster": "https://image.tmdb.org/t/p/w500/pjRRB1NCFJzCb0euvpia4rKDov1.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt11815682",
+      "type": "series",
+      "name": "Hacks",
+      "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt0248654",
+      "type": "series",
+      "name": "Six Feet Under",
+      "poster": "https://image.tmdb.org/t/p/w500/sCgzLaVlFy8KxtxRPvt1V5MNTDb.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt2575988",
+      "type": "series",
+      "name": "Silicon Valley",
+      "poster": "https://image.tmdb.org/t/p/w500/4ptpmWBVD9HY9hMh8Cbs6SMiy7p.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt7366338",
+      "type": "series",
+      "name": "Chernobyl",
+      "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt0185906",
+      "type": "series",
+      "name": "Band of Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/eLdcio9HBKzsdIJGeD80oObDfkr.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt4406178",
+      "type": "series",
+      "name": "The Gilded Age",
+      "poster": "https://image.tmdb.org/t/p/w500/lBsDmxBI4ELLmgF5uhUCvjgpQxh.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0348914",
+      "type": "series",
+      "name": "Deadwood",
+      "poster": "https://image.tmdb.org/t/p/w500/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt1723816",
+      "type": "series",
+      "name": "Girls",
+      "poster": "https://image.tmdb.org/t/p/w500/ikyT3hnELofnYRsPIqVGgUhDbOT.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt8634332",
+      "type": "series",
+      "name": "The Righteous Gemstones",
+      "poster": "https://image.tmdb.org/t/p/w500/bKb54fgtMrS54VMMl8KdDIFlG3g.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt5607976",
+      "type": "series",
+      "name": "His Dark Materials",
+      "poster": "https://image.tmdb.org/t/p/w500/g6tIKGc3f1H5QMz1dcgCwADKpZ7.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt7671070",
+      "type": "series",
+      "name": "Industry",
+      "poster": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt5348176",
+      "type": "series",
+      "name": "Barry",
+      "poster": "https://image.tmdb.org/t/p/w500/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt2891574",
+      "type": "series",
+      "name": "Ballers",
+      "poster": "https://image.tmdb.org/t/p/w500/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2015"
+    }
+  ]
 }

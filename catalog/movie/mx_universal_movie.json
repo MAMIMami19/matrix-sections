@@ -1,310 +1,310 @@
 {
- "metas": [
-  {
-   "id": "tmdb:507086",
-   "type": "movie",
-   "name": "Jurassic World Dominion",
-   "poster": "https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
-   "description": "Dinosaurs roam free as Owen and Claire fight to protect Maisie.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:872585",
-   "type": "movie",
-   "name": "Oppenheimer",
-   "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-   "description": "The story of J. Robert Oppenheimer and the creation of the atomic bomb.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:519182",
-   "type": "movie",
-   "name": "Despicable Me 4",
-   "poster": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
-   "description": "Gru's family enters witness protection from escaped villain Maxime Le Mal.",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:1011985",
-   "type": "movie",
-   "name": "Kung Fu Panda 4",
-   "poster": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
-   "description": "Po must name a new Dragon Warrior while facing the shape-shifting Chameleon.",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:502356",
-   "type": "movie",
-   "name": "The Super Mario Bros. Movie",
-   "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
-   "description": "Mario races through the Mushroom Kingdom to save Luigi from Bowser.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:385687",
-   "type": "movie",
-   "name": "Fast X",
-   "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
-   "description": "Dom's family faces Dante, a vengeful enemy from their past.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:507089",
-   "type": "movie",
-   "name": "Five Nights at Freddy's",
-   "poster": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
-   "description": "A night guard discovers the animatronics are possessed by murdered children.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:804150",
-   "type": "movie",
-   "name": "Cocaine Bear",
-   "poster": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
-   "description": "A bear goes on a rampage after ingesting a duffel bag of cocaine.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:746036",
-   "type": "movie",
-   "name": "The Fall Guy",
-   "poster": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
-   "description": "A stuntman hunts a missing movie star to save his ex's directorial debut.",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:315162",
-   "type": "movie",
-   "name": "Puss in Boots: The Last Wish",
-   "poster": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
-   "description": "Puss in Boots quests for the mythical Last Wish to restore his nine lives.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:629542",
-   "type": "movie",
-   "name": "The Bad Guys",
-   "poster": "https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
-   "description": "A crew of animal criminals attempts to go good in this animated heist comedy.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:901362",
-   "type": "movie",
-   "name": "Trolls Band Together",
-   "poster": "https://image.tmdb.org/t/p/w500/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg",
-   "description": "Branch reunites his boy band brothers to rescue his brother Floyd.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:1184918",
-   "type": "movie",
-   "name": "The Wild Robot",
-   "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:20352",
-   "type": "movie",
-   "name": "Despicable Me",
-   "poster": "https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2010"
-  },
-  {
-   "id": "tmdb:1087192",
-   "type": "movie",
-   "name": "How to Train Your Dragon",
-   "poster": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tmdb:1234821",
-   "type": "movie",
-   "name": "Jurassic World Rebirth",
-   "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tmdb:419430",
-   "type": "movie",
-   "name": "Get Out",
-   "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2017"
-  },
-  {
-   "id": "tmdb:809",
-   "type": "movie",
-   "name": "Shrek 2",
-   "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2004"
-  },
-  {
-   "id": "tmdb:168259",
-   "type": "movie",
-   "name": "Furious 7",
-   "poster": "https://image.tmdb.org/t/p/w500/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2015"
-  },
-  {
-   "id": "tmdb:601",
-   "type": "movie",
-   "name": "E.T.",
-   "poster": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "1982"
-  },
-  {
-   "id": "tmdb:578",
-   "type": "movie",
-   "name": "Jaws",
-   "poster": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "1975"
-  },
-  {
-   "id": "tmdb:135397",
-   "type": "movie",
-   "name": "Jurassic World",
-   "poster": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2015"
-  },
-  {
-   "id": "tmdb:402431",
-   "type": "movie",
-   "name": "Wicked",
-   "poster": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:211672",
-   "type": "movie",
-   "name": "Minions",
-   "poster": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2015"
-  },
-  {
-   "id": "tmdb:762504",
-   "type": "movie",
-   "name": "Nope",
-   "poster": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:438695",
-   "type": "movie",
-   "name": "Sing 2",
-   "poster": "https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:329",
-   "type": "movie",
-   "name": "Jurassic Park",
-   "poster": "https://image.tmdb.org/t/p/w500/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "1993"
-  },
-  {
-   "id": "tmdb:756999",
-   "type": "movie",
-   "name": "The Black Phone",
-   "poster": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:458723",
-   "type": "movie",
-   "name": "Us",
-   "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:536554",
-   "type": "movie",
-   "name": "M3GAN",
-   "poster": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:649609",
-   "type": "movie",
-   "name": "Renfield",
-   "poster": "https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:328111",
-   "type": "movie",
-   "name": "The Secret Life of Pets",
-   "poster": "https://image.tmdb.org/t/p/w500/g3Hms6AE174doeGR1gz5zX5sVsv.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2016"
-  },
-  {
-   "id": "tmdb:51497",
-   "type": "movie",
-   "name": "Fast Five",
-   "poster": "https://image.tmdb.org/t/p/w500/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2011"
-  },
-  {
-   "id": "tmdb:948",
-   "type": "movie",
-   "name": "Halloween",
-   "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2018"
-  }
- ]
+  "metas": [
+    {
+      "id": "tt8041270",
+      "type": "movie",
+      "name": "Jurassic World Dominion",
+      "poster": "https://image.tmdb.org/t/p/w500/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "description": "Dinosaurs roam free as Owen and Claire fight to protect Maisie.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt15398776",
+      "type": "movie",
+      "name": "Oppenheimer",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "description": "The story of J. Robert Oppenheimer and the creation of the atomic bomb.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt7510222",
+      "type": "movie",
+      "name": "Despicable Me 4",
+      "poster": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+      "description": "Gru's family enters witness protection from escaped villain Maxime Le Mal.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt21692408",
+      "type": "movie",
+      "name": "Kung Fu Panda 4",
+      "poster": "https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "description": "Po must name a new Dragon Warrior while facing the shape-shifting Chameleon.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt6718170",
+      "type": "movie",
+      "name": "The Super Mario Bros. Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "description": "Mario races through the Mushroom Kingdom to save Luigi from Bowser.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt5433140",
+      "type": "movie",
+      "name": "Fast X",
+      "poster": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "description": "Dom's family faces Dante, a vengeful enemy from their past.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt4589218",
+      "type": "movie",
+      "name": "Five Nights at Freddy's",
+      "poster": "https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+      "description": "A night guard discovers the animatronics are possessed by murdered children.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt14209916",
+      "type": "movie",
+      "name": "Cocaine Bear",
+      "poster": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+      "description": "A bear goes on a rampage after ingesting a duffel bag of cocaine.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1684562",
+      "type": "movie",
+      "name": "The Fall Guy",
+      "poster": "https://image.tmdb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "description": "A stuntman hunts a missing movie star to save his ex's directorial debut.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt3915174",
+      "type": "movie",
+      "name": "Puss in Boots: The Last Wish",
+      "poster": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "description": "Puss in Boots quests for the mythical Last Wish to restore his nine lives.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt8115900",
+      "type": "movie",
+      "name": "The Bad Guys",
+      "poster": "https://image.tmdb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+      "description": "A crew of animal criminals attempts to go good in this animated heist comedy.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt14362112",
+      "type": "movie",
+      "name": "Trolls Band Together",
+      "poster": "https://image.tmdb.org/t/p/w500/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg",
+      "description": "Branch reunites his boy band brothers to rescue his brother Floyd.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt29623480",
+      "type": "movie",
+      "name": "The Wild Robot",
+      "poster": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1323594",
+      "type": "movie",
+      "name": "Despicable Me",
+      "poster": "https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt26743210",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "poster": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt31036941",
+      "type": "movie",
+      "name": "Jurassic World Rebirth",
+      "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt5052448",
+      "type": "movie",
+      "name": "Get Out",
+      "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt0298148",
+      "type": "movie",
+      "name": "Shrek 2",
+      "poster": "https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt2820852",
+      "type": "movie",
+      "name": "Furious 7",
+      "poster": "https://image.tmdb.org/t/p/w500/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt0083866",
+      "type": "movie",
+      "name": "E.T.",
+      "poster": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "1982"
+    },
+    {
+      "id": "tt0073195",
+      "type": "movie",
+      "name": "Jaws",
+      "poster": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "1975"
+    },
+    {
+      "id": "tt0369610",
+      "type": "movie",
+      "name": "Jurassic World",
+      "poster": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt1262426",
+      "type": "movie",
+      "name": "Wicked",
+      "poster": "https://image.tmdb.org/t/p/w500/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt2293640",
+      "type": "movie",
+      "name": "Minions",
+      "poster": "https://image.tmdb.org/t/p/w500/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt10954984",
+      "type": "movie",
+      "name": "Nope",
+      "poster": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt6467266",
+      "type": "movie",
+      "name": "Sing 2",
+      "poster": "https://image.tmdb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt0107290",
+      "type": "movie",
+      "name": "Jurassic Park",
+      "poster": "https://image.tmdb.org/t/p/w500/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt7144666",
+      "type": "movie",
+      "name": "The Black Phone",
+      "poster": "https://image.tmdb.org/t/p/w500/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt6857112",
+      "type": "movie",
+      "name": "Us",
+      "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt8760708",
+      "type": "movie",
+      "name": "M3GAN",
+      "poster": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt11358390",
+      "type": "movie",
+      "name": "Renfield",
+      "poster": "https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt2709768",
+      "type": "movie",
+      "name": "The Secret Life of Pets",
+      "poster": "https://image.tmdb.org/t/p/w500/g3Hms6AE174doeGR1gz5zX5sVsv.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt1596343",
+      "type": "movie",
+      "name": "Fast Five",
+      "poster": "https://image.tmdb.org/t/p/w500/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt0077651",
+      "type": "movie",
+      "name": "Halloween",
+      "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2018"
+    }
+  ]
 }

@@ -1,1 +1,139 @@
-{"metas": [{"id": "tmdb:96677", "type": "series", "name": "Lupin", "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg", "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:46648", "type": "series", "name": "True Detective", "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg", "description": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.", "genres": [], "releaseInfo": "2014"}, {"id": "tmdb:95396", "type": "series", "name": "Severance", "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg", "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:95480", "type": "series", "name": "Slow Horses", "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg", "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:194764", "type": "series", "name": "The Penguin", "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg", "description": "Oz Cobb claws his way up Gotham's criminal underworld.", "genres": [], "releaseInfo": "2024"}, {"id": "tmdb:198102", "type": "series", "name": "Hijack", "poster": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg", "description": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:108978", "type": "series", "name": "Reacher", "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg", "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:120911", "type": "series", "name": "The Terminal List", "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg", "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:113962", "type": "series", "name": "Lioness", "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg", "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:125988", "type": "series", "name": "Silo", "poster": "https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg", "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:93405", "type": "series", "name": "Squid Game", "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg", "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:42009", "type": "series", "name": "Black Mirror", "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg", "description": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.", "genres": [], "releaseInfo": "2011"}, {"id": "tmdb:196033", "type": "series", "name": "كسر عضم", "poster": "https://image.tmdb.org/t/p/w500/uk9OQU3pQUCTiocxcTdR50LysKx.jpg", "description": "A Syrian crime drama of power, smuggling and revenge.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:195563", "type": "series", "name": "ملف سري", "poster": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg", "description": "A judge uncovers a web of corruption reaching the top.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:84299", "type": "series", "name": "الهيبة", "poster": "https://image.tmdb.org/t/p/w500/heUxSI3Ul0L53XuziidcWv9GoQo.jpg", "description": "A clan leader on the Syrian-Lebanese border defends his smuggling empire.", "genres": [], "releaseInfo": "2017"}]}
+{
+  "metas": [
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt2356777",
+      "type": "series",
+      "name": "True Detective",
+      "poster": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+      "description": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "poster": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "description": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt15435876",
+      "type": "series",
+      "name": "The Penguin",
+      "poster": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+      "description": "Oz Cobb claws his way up Gotham's criminal underworld.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt19854762",
+      "type": "series",
+      "name": "Hijack",
+      "poster": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "description": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt11743610",
+      "type": "series",
+      "name": "The Terminal List",
+      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "poster": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "description": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
+      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt10919420",
+      "type": "series",
+      "name": "Squid Game",
+      "poster": "https://image.tmdb.org/t/p/w500/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+      "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt2085059",
+      "type": "series",
+      "name": "Black Mirror",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "description": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+      "genres": [],
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tmdb:196033",
+      "type": "series",
+      "name": "كسر عضم",
+      "poster": "https://image.tmdb.org/t/p/w500/uk9OQU3pQUCTiocxcTdR50LysKx.jpg",
+      "description": "A Syrian crime drama of power, smuggling and revenge.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:195563",
+      "type": "series",
+      "name": "ملف سري",
+      "poster": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg",
+      "description": "A judge uncovers a web of corruption reaching the top.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt7035576",
+      "type": "series",
+      "name": "الهيبة",
+      "poster": "https://image.tmdb.org/t/p/w500/heUxSI3Ul0L53XuziidcWv9GoQo.jpg",
+      "description": "A clan leader on the Syrian-Lebanese border defends his smuggling empire.",
+      "genres": [],
+      "releaseInfo": "2017"
+    }
+  ]
+}

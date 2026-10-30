@@ -1,130 +1,130 @@
 {
- "metas": [
-  {
-   "id": "tmdb:76479",
-   "type": "series",
-   "name": "The Boys",
-   "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-   "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-   "genres": [],
-   "releaseInfo": "2019"
-  },
-  {
-   "id": "tmdb:84773",
-   "type": "series",
-   "name": "The Lord of the Rings: The Rings of Power",
-   "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-   "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:108978",
-   "type": "series",
-   "name": "Reacher",
-   "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-   "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:120911",
-   "type": "series",
-   "name": "The Terminal List",
-   "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-   "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:205715",
-   "type": "series",
-   "name": "Gen V",
-   "poster": "https://image.tmdb.org/t/p/w500/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
-   "description": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
-   "genres": [],
-   "releaseInfo": "2023"
-  },
-  {
-   "id": "tmdb:95557",
-   "type": "series",
-   "name": "INVINCIBLE",
-   "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-   "description": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:135934",
-   "type": "series",
-   "name": "The Legend of Vox Machina",
-   "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
-   "description": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:219760",
-   "type": "series",
-   "name": "The Terminal List: Dark Wolf",
-   "poster": "https://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
-   "description": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
-   "genres": [],
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "tmdb:194766",
-   "type": "series",
-   "name": "The Summer I Turned Pretty",
-   "poster": "https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2022"
-  },
-  {
-   "id": "tmdb:60585",
-   "type": "series",
-   "name": "Bosch",
-   "poster": "https://image.tmdb.org/t/p/w500/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2014"
-  },
-  {
-   "id": "tmdb:71914",
-   "type": "series",
-   "name": "The Wheel of Time",
-   "poster": "https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2021"
-  },
-  {
-   "id": "tmdb:73375",
-   "type": "series",
-   "name": "Jack Ryan",
-   "poster": "https://image.tmdb.org/t/p/w500/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2018"
-  },
-  {
-   "id": "tmdb:106379",
-   "type": "series",
-   "name": "Fallout",
-   "poster": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2024"
-  },
-  {
-   "id": "tmdb:62017",
-   "type": "series",
-   "name": "The Man in the High Castle",
-   "poster": "https://image.tmdb.org/t/p/w500/xhoDZbMNeyCA0BGPZQsdIiO43Dp.jpg",
-   "description": "",
-   "genres": [],
-   "releaseInfo": "2015"
-  }
- ]
+  "metas": [
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "poster": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt9288030",
+      "type": "series",
+      "name": "Reacher",
+      "poster": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt11743610",
+      "type": "series",
+      "name": "The Terminal List",
+      "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt13159924",
+      "type": "series",
+      "name": "Gen V",
+      "poster": "https://image.tmdb.org/t/p/w500/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
+      "description": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt6741278",
+      "type": "series",
+      "name": "INVINCIBLE",
+      "poster": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "description": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt11247158",
+      "type": "series",
+      "name": "The Legend of Vox Machina",
+      "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+      "description": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt26576161",
+      "type": "series",
+      "name": "The Terminal List: Dark Wolf",
+      "poster": "https://image.tmdb.org/t/p/w500/9mYeRoWguq5etbwJRdF8BXFKiF.jpg",
+      "description": "Before The Terminal List, Navy SEAL Ben Edwards finds himself entangled in the black operations side of the CIA. The deeper Ben goes into the 'gray', the harder it will become to not give himself over to his darker impulses. Every man has two wolves inside him – light and dark – fighting for control. Which wolf will Ben Edwards feed?",
+      "genres": [],
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt14016500",
+      "type": "series",
+      "name": "The Summer I Turned Pretty",
+      "poster": "https://image.tmdb.org/t/p/w500/xBIz53wYWsKfFpN0TaizVAjKJ0z.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt3502248",
+      "type": "series",
+      "name": "Bosch",
+      "poster": "https://image.tmdb.org/t/p/w500/vtacLvdLgW3BNUj8DrC76X39Lfi.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt7462410",
+      "type": "series",
+      "name": "The Wheel of Time",
+      "poster": "https://image.tmdb.org/t/p/w500/ihBi24EIr5kwAeY2PqmsgAcCj4n.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt5057054",
+      "type": "series",
+      "name": "Jack Ryan",
+      "poster": "https://image.tmdb.org/t/p/w500/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt12637874",
+      "type": "series",
+      "name": "Fallout",
+      "poster": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt1740299",
+      "type": "series",
+      "name": "The Man in the High Castle",
+      "poster": "https://image.tmdb.org/t/p/w500/xhoDZbMNeyCA0BGPZQsdIiO43Dp.jpg",
+      "description": "",
+      "genres": [],
+      "releaseInfo": "2015"
+    }
+  ]
 }

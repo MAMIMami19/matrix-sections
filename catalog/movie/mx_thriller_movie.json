@@ -1,1 +1,139 @@
-{"metas": [{"id": "tmdb:414906", "type": "movie", "name": "The Batman", "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg", "description": "Batman uncovers corruption in Gotham while hunting the Riddler.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:155", "type": "movie", "name": "The Dark Knight", "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg", "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.", "genres": [], "releaseInfo": "2008"}, {"id": "tmdb:475557", "type": "movie", "name": "Joker", "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg", "description": "A failed comedian's descent into madness births Gotham's Clown Prince of Crime.", "genres": [], "releaseInfo": "2019"}, {"id": "tmdb:27205", "type": "movie", "name": "Inception", "poster": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg", "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.", "genres": [], "releaseInfo": "2010"}, {"id": "tmdb:866398", "type": "movie", "name": "The Beekeeper", "poster": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg", "description": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.", "genres": [], "releaseInfo": "2024"}, {"id": "tmdb:926393", "type": "movie", "name": "The Equalizer 3", "poster": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg", "description": "Robert McCall finds home in Sicily but must battle the mafia to protect it.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:848538", "type": "movie", "name": "Argylle", "poster": "https://image.tmdb.org/t/p/w500/siduVKgOnABO4WH4lOwPQwaGwJp.jpg", "description": "A spy novelist is pulled into a real espionage conspiracy mirroring her books.", "genres": [], "releaseInfo": "2024"}, {"id": "tmdb:718930", "type": "movie", "name": "Bullet Train", "poster": "https://image.tmdb.org/t/p/w500/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg", "description": "Five assassins collide on a high-speed train in Tokyo.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:985939", "type": "movie", "name": "Fall", "poster": "https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg", "description": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:829410", "type": "movie", "name": "Sick", "poster": "https://image.tmdb.org/t/p/w500/bshCGAHZRldAfdxXDX3637PW9cR.jpg", "description": "Two friends isolating during the pandemic are hunted by a masked killer.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:471513", "type": "movie", "name": "الخلية", "poster": "https://image.tmdb.org/t/p/w500/hqVVnReH1UCsMQ2tarQVOvagf8T.jpg", "description": "An officer hunts the terrorist cell behind a deadly church bombing.", "genres": [], "releaseInfo": "2017"}, {"id": "tmdb:289510", "type": "movie", "name": "الفيل الأزرق", "poster": "https://image.tmdb.org/t/p/w500/lPirLy8UKj2V6SyaWC8zXm5xeUS.jpg", "description": "A psychiatrist's grip on reality slips when a new patient claims demonic possession.", "genres": [], "releaseInfo": "2014"}, {"id": "tmdb:515224", "type": "movie", "name": "تراب الماس", "poster": "https://image.tmdb.org/t/p/w500/kAaszSEwhgERJLdg8Ppm4qSwagn.jpg", "description": "A pharmacist uncovers his father's secret past as a hitman.", "genres": [], "releaseInfo": "2018"}, {"id": "tmdb:603404", "type": "movie", "name": "كازابلانكا", "poster": "https://image.tmdb.org/t/p/w500/yOHJYF9chII7UOsf5Lk7GKiXUsn.jpg", "description": "Three friends' heist of a diamond shipment spirals into a deadly chase.", "genres": [], "releaseInfo": "2019"}, {"id": "tmdb:629040", "type": "movie", "name": "ولاد رزق 3: القاضية", "poster": "https://image.tmdb.org/t/p/w500/oYwTsy5sNz3TvIeYBWyDRYnTzdu.jpg", "description": "The Rizk brothers return for one last high-stakes heist.", "genres": [], "releaseInfo": "2024"}]}
+{
+  "metas": [
+    {
+      "id": "tt1877830",
+      "type": "movie",
+      "name": "The Batman",
+      "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "description": "Batman uncovers corruption in Gotham while hunting the Riddler.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt0468569",
+      "type": "movie",
+      "name": "The Dark Knight",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "genres": [],
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt7286456",
+      "type": "movie",
+      "name": "Joker",
+      "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "description": "A failed comedian's descent into madness births Gotham's Clown Prince of Crime.",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt1375666",
+      "type": "movie",
+      "name": "Inception",
+      "poster": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "genres": [],
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt15314262",
+      "type": "movie",
+      "name": "The Beekeeper",
+      "poster": "https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "description": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt17024450",
+      "type": "movie",
+      "name": "The Equalizer 3",
+      "poster": "https://image.tmdb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+      "description": "Robert McCall finds home in Sicily but must battle the mafia to protect it.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt15009428",
+      "type": "movie",
+      "name": "Argylle",
+      "poster": "https://image.tmdb.org/t/p/w500/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+      "description": "A spy novelist is pulled into a real espionage conspiracy mirroring her books.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt12593682",
+      "type": "movie",
+      "name": "Bullet Train",
+      "poster": "https://image.tmdb.org/t/p/w500/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "description": "Five assassins collide on a high-speed train in Tokyo.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt15325794",
+      "type": "movie",
+      "name": "Fall",
+      "poster": "https://image.tmdb.org/t/p/w500/spCAxD99U1A6jsiePFoqdEcY0dG.jpg",
+      "description": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt14642626",
+      "type": "movie",
+      "name": "Sick",
+      "poster": "https://image.tmdb.org/t/p/w500/bshCGAHZRldAfdxXDX3637PW9cR.jpg",
+      "description": "Two friends isolating during the pandemic are hunted by a masked killer.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt7025210",
+      "type": "movie",
+      "name": "الخلية",
+      "poster": "https://image.tmdb.org/t/p/w500/hqVVnReH1UCsMQ2tarQVOvagf8T.jpg",
+      "description": "An officer hunts the terrorist cell behind a deadly church bombing.",
+      "genres": [],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt3461252",
+      "type": "movie",
+      "name": "الفيل الأزرق",
+      "poster": "https://image.tmdb.org/t/p/w500/lPirLy8UKj2V6SyaWC8zXm5xeUS.jpg",
+      "description": "A psychiatrist's grip on reality slips when a new patient claims demonic possession.",
+      "genres": [],
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt4003070",
+      "type": "movie",
+      "name": "تراب الماس",
+      "poster": "https://image.tmdb.org/t/p/w500/kAaszSEwhgERJLdg8Ppm4qSwagn.jpg",
+      "description": "A pharmacist uncovers his father's secret past as a hitman.",
+      "genres": [],
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt10497826",
+      "type": "movie",
+      "name": "كازابلانكا",
+      "poster": "https://image.tmdb.org/t/p/w500/yOHJYF9chII7UOsf5Lk7GKiXUsn.jpg",
+      "description": "Three friends' heist of a diamond shipment spirals into a deadly chase.",
+      "genres": [],
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt20877986",
+      "type": "movie",
+      "name": "ولاد رزق 3: القاضية",
+      "poster": "https://image.tmdb.org/t/p/w500/oYwTsy5sNz3TvIeYBWyDRYnTzdu.jpg",
+      "description": "The Rizk brothers return for one last high-stakes heist.",
+      "genres": [],
+      "releaseInfo": "2024"
+    }
+  ]
+}

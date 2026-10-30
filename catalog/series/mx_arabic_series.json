@@ -1,1 +1,130 @@
-{"metas": [{"id": "tmdb:102045", "type": "series", "name": "الاختيار", "poster": "https://image.tmdb.org/t/p/w500/6o6qYyegwuTXABK7bqSD32aXzYy.jpg", "description": "The true story of Egyptian special forces hero Ahmed El-Mansi.", "genres": [], "releaseInfo": "2020"}, {"id": "tmdb:224882", "type": "series", "name": "الحشاشين", "poster": "https://image.tmdb.org/t/p/w500/qhnkrV58m9lLUL0BWX4MtKRqpKH.jpg", "description": "The story of Hassan Sabbah and his order of assassins.", "genres": [], "releaseInfo": "2024"}, {"id": "tmdb:244644", "type": "series", "name": "العتاولة", "poster": "https://image.tmdb.org/t/p/w500/iShiXPsBLiB3mK0pKptYkXuUSx4.jpg", "description": "Two brothers torn between crime and redemption in Alexandria.", "genres": [], "releaseInfo": "2024"}, {"id": "tmdb:84299", "type": "series", "name": "الهيبة", "poster": "https://image.tmdb.org/t/p/w500/heUxSI3Ul0L53XuziidcWv9GoQo.jpg", "description": "A clan leader on the Syrian-Lebanese border defends his smuggling empire.", "genres": [], "releaseInfo": "2017"}, {"id": "tmdb:30695", "type": "series", "name": "باب الحارة", "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg", "description": "Life, love and honor in a Damascene neighborhood under occupation.", "genres": [], "releaseInfo": "2006"}, {"id": "tmdb:218739", "type": "series", "name": "جعفر العمدة", "poster": "https://image.tmdb.org/t/p/w500/hqaW4C5AFeBLsuJ2NLzglwvvOyD.jpg", "description": "A neighborhood strongman searches for his kidnapped son.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:122543", "type": "series", "name": "المداح", "poster": "https://image.tmdb.org/t/p/w500/qlVgLDGVrzFJGJdNPgKKhtXUguZ.jpg", "description": "A man blessed with spiritual gifts battles dark forces.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:196033", "type": "series", "name": "كسر عضم", "poster": "https://image.tmdb.org/t/p/w500/uk9OQU3pQUCTiocxcTdR50LysKx.jpg", "description": "A Syrian crime drama of power, smuggling and revenge.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:121745", "type": "series", "name": "للموت", "poster": "https://image.tmdb.org/t/p/w500/g18jnJuhIujMYErHqeG5t8U5F9X.jpg", "description": "Two women plot revenge against the wealthy family that wronged them.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:195563", "type": "series", "name": "ملف سري", "poster": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg", "description": "A judge uncovers a web of corruption reaching the top.", "genres": [], "releaseInfo": "2022"}, {"id": "tmdb:221355", "type": "series", "name": "النار بالنار", "poster": "https://image.tmdb.org/t/p/w500/eLY7gZNssmdjQqcWMUae62u9Moa.jpg", "description": "A revenge saga ignites between two families in Beirut.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:211782", "type": "series", "name": "الثمن", "poster": "https://image.tmdb.org/t/p/w500/uFEV0Tsns33zKyuc12l4XCBoba7.jpg", "description": "A widowed mother takes a job that entangles her with a ruthless businessman.", "genres": [], "releaseInfo": "2023"}, {"id": "tmdb:130438", "type": "series", "name": "صالون زهرة", "poster": "https://image.tmdb.org/t/p/w500/fhBGFKcHdWzalbsPsJp1teLaPwi.jpg", "description": "A Beirut salon owner crosses paths with a smuggler hiding money in her shop.", "genres": [], "releaseInfo": "2021"}, {"id": "tmdb:202722", "type": "series", "name": "ريفو", "poster": "https://image.tmdb.org/t/p/w500/7imVExwejUqy7PN3MSOnED8ZPdl.jpg", "description": "The rise and fall of an Egyptian rock band in the '90s.", "genres": [], "releaseInfo": "2022"}]}
+{
+  "metas": [
+    {
+      "id": "tt12222224",
+      "type": "series",
+      "name": "الاختيار",
+      "poster": "https://image.tmdb.org/t/p/w500/6o6qYyegwuTXABK7bqSD32aXzYy.jpg",
+      "description": "The true story of Egyptian special forces hero Ahmed El-Mansi.",
+      "genres": [],
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt21200366",
+      "type": "series",
+      "name": "الحشاشين",
+      "poster": "https://image.tmdb.org/t/p/w500/qhnkrV58m9lLUL0BWX4MtKRqpKH.jpg",
+      "description": "The story of Hassan Sabbah and his order of assassins.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt32022957",
+      "type": "series",
+      "name": "العتاولة",
+      "poster": "https://image.tmdb.org/t/p/w500/iShiXPsBLiB3mK0pKptYkXuUSx4.jpg",
+      "description": "Two brothers torn between crime and redemption in Alexandria.",
+      "genres": [],
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt7035576",
+      "type": "series",
+      "name": "الهيبة",
+      "poster": "https://image.tmdb.org/t/p/w500/heUxSI3Ul0L53XuziidcWv9GoQo.jpg",
+      "description": "A clan leader on the Syrian-Lebanese border defends his smuggling empire.",
+      "genres": [],
+      "releaseInfo": "2017"
+    },
+    {
+      "id": "tt1999065",
+      "type": "series",
+      "name": "باب الحارة",
+      "poster": "https://image.tmdb.org/t/p/w500/mjnLbyDWHadRp2vuEejTKJ1AxWz.jpg",
+      "description": "Life, love and honor in a Damascene neighborhood under occupation.",
+      "genres": [],
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt27449273",
+      "type": "series",
+      "name": "جعفر العمدة",
+      "poster": "https://image.tmdb.org/t/p/w500/hqaW4C5AFeBLsuJ2NLzglwvvOyD.jpg",
+      "description": "A neighborhood strongman searches for his kidnapped son.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt15685516",
+      "type": "series",
+      "name": "المداح",
+      "poster": "https://image.tmdb.org/t/p/w500/qlVgLDGVrzFJGJdNPgKKhtXUguZ.jpg",
+      "description": "A man blessed with spiritual gifts battles dark forces.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:196033",
+      "type": "series",
+      "name": "كسر عضم",
+      "poster": "https://image.tmdb.org/t/p/w500/uk9OQU3pQUCTiocxcTdR50LysKx.jpg",
+      "description": "A Syrian crime drama of power, smuggling and revenge.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:121745",
+      "type": "series",
+      "name": "للموت",
+      "poster": "https://image.tmdb.org/t/p/w500/g18jnJuhIujMYErHqeG5t8U5F9X.jpg",
+      "description": "Two women plot revenge against the wealthy family that wronged them.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:195563",
+      "type": "series",
+      "name": "ملف سري",
+      "poster": "https://image.tmdb.org/t/p/w500/zyywRczPfhjUdMFdJw0KIQuH4Ha.jpg",
+      "description": "A judge uncovers a web of corruption reaching the top.",
+      "genres": [],
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tmdb:221355",
+      "type": "series",
+      "name": "النار بالنار",
+      "poster": "https://image.tmdb.org/t/p/w500/eLY7gZNssmdjQqcWMUae62u9Moa.jpg",
+      "description": "A revenge saga ignites between two families in Beirut.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt26469117",
+      "type": "series",
+      "name": "الثمن",
+      "poster": "https://image.tmdb.org/t/p/w500/uFEV0Tsns33zKyuc12l4XCBoba7.jpg",
+      "description": "A widowed mother takes a job that entangles her with a ruthless businessman.",
+      "genres": [],
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tmdb:130438",
+      "type": "series",
+      "name": "صالون زهرة",
+      "poster": "https://image.tmdb.org/t/p/w500/fhBGFKcHdWzalbsPsJp1teLaPwi.jpg",
+      "description": "A Beirut salon owner crosses paths with a smuggler hiding money in her shop.",
+      "genres": [],
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tmdb:202722",
+      "type": "series",
+      "name": "ريفو",
+      "poster": "https://image.tmdb.org/t/p/w500/7imVExwejUqy7PN3MSOnED8ZPdl.jpg",
+      "description": "The rise and fall of an Egyptian rock band in the '90s.",
+      "genres": [],
+      "releaseInfo": "2022"
+    }
+  ]
+}
